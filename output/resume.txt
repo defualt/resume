@@ -1,0 +1,133 @@
+[[brian-ephraim---senior-web-javascript-engineer-at-viggle-inc.]]
+*Brian Ephraim* - Senior Web / Javascript Engineer at Viggle Inc.
+-----------------------------------------------------------------
+
+Hell's Kitchen, New York, NY +
+914-482-2364 +
+mailto://brianephraim@gmail.com[brianephraim@gmail.com] +
+http://twitter.com/brianephraim[@brianephraim] +
+http://www.linkedin.com/profile/view?id=112481106[linkedin.com/profile/view?id=112481106] +
+http://github.com/defualt[github.com/defualt] +
+https://gist.github.com/defualt[gist.github.com/defualt]
+
+[[code-samples-unminified-view-source]]
+Code samples (unminified, view source)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* http://defualt.github.io/sloganizer/[defualt.github.io/sloganizer/]
+*
+http://defualt.github.io/accordionizer/[defualt.github.io/accordionizer/]
+* http://www.inperson.in[www.inperson.in]
+
+[[computer-environment]]
+Computer environment
+~~~~~~~~~~~~~~~~~~~~
+
+*Javascript*::
+  jQuery - Angular - Backbone - Meteor - Grunt - Bower
+*CSS3*::
+  LESS - Sass
+*Backend*::
+  Node - MongoDB - AWS - PHP - MySQL
+*Version Control*::
+  Git - GitHub - Bitbucket
+*Applications*::
+  Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
+
+[[advanced-capabilities]]
+Advanced Capabilities
+~~~~~~~~~~~~~~~~~~~~~
+
+*Javascript MVC/MV**::
+  Production of single page web apps from a variety of frameworks
+*Browser Animation*::
+  Complex DOM animation with fluid frame rates and 3D effects, with
+  bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.
+*Touch and other DOM event control*::
+  Optimized user experience between touch and mouse interfaces, for
+  snappy, predictable, and draggable interaction.
+*Responsive features*::
+  Fluid CSS, Media queries, Retina vs non-retina, js window resize and
+  orientation handlers.
+*Mobile debugging*::
+  Solutions for bugs, and merging APIs and behaviors between Android
+  stock 2-4, Android Chrome, and iOs for issues concerning scroll,
+  forms, softkeyboard, and URL bar.
+
+[[professional-development]]
+Professional Development
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+[[viggle-inc.---senior-web-javascript-engineer-april-2013---present]]
+Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - Present
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Architecting an AngularJs HTML5 app within a hybrid iPad app with
+transactional functionality.
+* Directing and merging code contributions.
+* Coordinating production deployment.
+* Estimating tasks, researching technology, and planning for future
+initiatives.
+
+[[inperson.in-blaboid-inc.---entrepreneur-november-2010---present]]
+inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - Present
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Launching a privacy focused social networking platform for finding
+people to meet in person to do activities or have conversations.
+* Performing business coordination with lawyer, accountant, and
+consultants.
+* Developing the platform, consisting of a single page HTML5 mobile web
+app with user generated content, hosted on Amazon, with PHP/MySQL
+backend.
+
+[[alexander-interactive---front-end-web-developer-may-2011---march-2012]]
+Alexander Interactive - Front End Web Developer, May 2011 - March 2012
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Serving E-commerce clients such as Lowe’s Home Improvement.
+* Doing agile with daily scrum calls, sprint planning/review, and demos
+for executive product owners.
+* Flying to client corporate headquarters for onsite consulting.
+
+[[kickappskit-digital---front-end-web-developer-october-2010---may-2011]]
+KickApps/Kit Digital - Front End Web Developer, October 2010 - May 2011
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Developing social portals for such clients as:
+
+* The Doctor Oz TV Show
+* MIT University
+* Penguin publishers
+* Book Of Cool
+* Squabbler
+* Sharecare
+* Leap4Life
+
+[[rail-europe---web-designer-2006---october-2010]]
+Rail Europe - Web designer, 2006 - October 2010
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* developing mobile and desktop web front end
+
+[[epoch---audio-engineerguitarist-2005---2006]]
+Epoch - Audio Engineer/Guitarist, 2005 - 2006
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* assembling and programming a technology platform for the band's
+improvisational electronic music
+* building the band's website
+
+[[regeneron-pharmaceuticals---graphic-designer-2000-2005]]
+Regeneron Pharmaceuticals - Graphic designer, 2000-2005
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Designing logos, banners, posters, fliers and presentation materials
+* Preparing images for patent submission
+* Formatting scientific imagery for publication
+
+[[education]]
+Education
+~~~~~~~~~
+
+Philosophy Major, Bachelor of Arts, Ithaca College, Ithaca, NY

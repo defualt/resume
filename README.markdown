@@ -1,202 +1,109 @@
-Stephen Tudor
-=============
+#**Brian Ephraim** - Senior Web / Javascript Engineer at Viggle Inc.
 
-Front-end Web Developer
------------------------
+Hell\'s Kitchen, New York, NY  
+914-482-2364  
+[brianephraim@gmail.com](mailto://brianephraim@gmail.com)  
+[@brianephraim](http://twitter.com/brianephraim)   
+[linkedin.com/profile/view?id=112481106](http://www.linkedin.com/profile/view?id=112481106)  
+[github.com/defualt](http://github.com/defualt)  
+[gist.github.com/defualt](https://gist.github.com/defualt) 
 
-- Phone: [610-590-4484](tel://610-590-4484)
-- Email: [smt@stephentudor.com](mailto://smt@stephentudor.com)
-- Blog: [stephentudor.com](http://stephentudor.com)
-- Github: [smt](http://github.com/smt)
-- Twitter: [@tagsoup](http://twitter.com/tagsoup)
+##Code samples (unminified, view source)
 
+* [defualt.github.io/sloganizer/](http://defualt.github.io/sloganizer/)
 
-Summary
--------
+* [defualt.github.io/accordionizer/](http://defualt.github.io/accordionizer/)
 
-I am an experienced front-end developer who has led development for multiple
-successful $1MM+ projects. I am passionate about building high quality apps and
-user interfaces with modern web technologies. Through being conversant in
-server-side engineering, visual/UX design, and project management practices,
-I am able to execute end-to-end on a product or project.
+* [www.inperson.in](http://www.inperson.in)
 
+##Computer environment 
 
-Specialties
+**Javascript**
+
+:   jQuery - Angular - Backbone - Meteor - Grunt - Bower
+
+**CSS3**
+
+:   LESS - Sass
+
+**Backend**
+
+:   Node - MongoDB - AWS - PHP - MySQL
+
+**Version Control**
+
+:   Git - GitHub - Bitbucket
+
+**Applications**
+
+:   Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
+
+Advanced Capabilities
 -----------
 
-Authoring great user experiences with JavaScript, HTML, and CSS, the pillars of
-front-end development. Managing and mentoring junior web developers. Writing
-white papers and API documentation. Experienced in the black art of software
-estimation, particularly as it pertains to the client side. Offers a strong
-background in many diverse web technologies and frameworks.
+**Javascript MVC/MV\***  
+
+:   Production of single page web apps from a variety of frameworks
+
+**Browser Animation**
+
+:   Complex DOM animation with fluid frame rates and 3D effects, with bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.
+
+**Touch and other DOM event control**
+
+:   Optimized user experience between touch and mouse interfaces, for snappy, predictable, and draggable interaction.
+
+**Responsive features**
+
+:   Fluid CSS, Media queries, Retina vs non-retina, js window resize and orientation handlers.
+
+**Mobile debugging**
+
+:   Solutions for bugs, and merging APIs and behaviors between Android stock 2-4, Android Chrome, and iOs for issues concerning scroll, forms, softkeyboard, and URL bar.
+
+##Professional Development
+
+###Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - Present
+- Architecting an AngularJs HTML5 app within a hybrid iPad app with transactional functionality.
+- Directing and merging code contributions.
+- Coordinating production deployment.
+- Estimating tasks, researching technology, and planning for future initiatives.
 
 
-Experience
-----------
-
-### **Senior Software Engineer** at [EPAM Empathy Lab](http://epam.com/empathylab)
-
-*December 2012 - Present*
-
-Championing a more collaborative process for responsive web design between the
-UX and development disciplines. Curating an internal static web framework and
-responsive pattern library to be used on multiple projects. Leading development
-on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
-USA Network.
-
-### **Senior Web Developer** at [Empathy Lab](http://empathylab.com)
-
-*April 2010 - December 2012*
-
-Created front-end web applications on tight deadlines for marquee clientele.
-Responsible for estimating work, vetting UX designs prior to development,
-developing key features, assisting team members on challenging sections of
-code, performing code reviews, and coordinating releases.
-
-### **Web Developer** at [Empathy Lab](http://empathylab.com)
-
-*April 2009 - April 2010* (1 year 1 month)
-
-Authored standards-based HTML, CSS, and JavaScript for websites representing
-a broad range of internationally recognized brands: Sesame Street, Sprout,
-Lexmark, StrideRite, Walgreens, Verizon, Comcast, 21st Century Insurance,
-Liberty Global, American Red Cross.
-
-### **IT Director** at [Artisan Custom Doorworks](http://artisandoorworks.com)
-
-*December 2005 - April 2009* (3 years 5 months)
-
-Designed the corporate website with a library of over 8,000 searchable PDF
-docemunts. Developed in-house sales and management application in Rails, while
-supporting and customizing business systems and applications.
-
-### **President** at [Tudor Studio](http://tudorstudio.com)
-
-*January 2002 - Present*
-
-Providing professional web consulting and development services, from
-individuals and small businesses to Fortune 500 companies. Designing and
-developing hosted web applications with open source frameworks like Ruby on
-Rails. Integrating CMS and eCommerce applications.
-
-### **Systems Engineer** at Lockheed Martin Global Telecommunications (defunct)
-
-*May 2000 - January 2002* (1 year 9 months)
-
-Performed Unix system administration duties for an internal R&D project's data
-center. Configured and managed a cluster of web servers through the duration of
-the project. Company ceased operations in early 2002.
+###inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - Present
+- Launching a privacy focused social networking platform for finding people to meet in person to do activities or have conversations.
+- Performing business coordination with lawyer, accountant, and consultants.
+- Developing the platform, consisting of a single page HTML5 mobile web app with user generated content, hosted on Amazon, with PHP/MySQL backend.
 
 
-Skills & Expertise
-------------------
+###Alexander Interactive - Front End Web Developer, May 2011 - March 2012
+- Serving E-commerce clients such as Lowe's Home Improvement.
+- Doing agile with daily scrum calls, sprint planning/review, and demos for executive product owners.
+- Flying to client corporate headquarters for onsite consulting.
 
-These are languages, tools, and practices to which I have had exposure over the
-past 6 years or so. Those things which enjoy routine usage in my daily work are
-denoted with a ^†^ symbol.
 
-### Programming Languages
+###KickApps/Kit Digital - Front End Web Developer, October 2010 - May 2011
+Developing social portals for such clients as:
 
-- [JavaScript](http://developer.mozilla.org/en/JavaScript)^†^
-- [PHP](http://php.net)
-- [Python](http://python.org)
-- [Ruby](http://ruby-lang.org)^†^
+- The Doctor Oz TV Show
+- MIT University
+- Penguin publishers
+- Book Of Cool
+- Squabbler
+- Sharecare
+- Leap4Life
 
-### Markup/Templating Languages & Preprocessors
+###Rail Europe - Web designer, 2006 - October 2010
+- developing mobile and desktop web front end
 
-- [CoffeeScript](http://coffeescript.org)
-- [CSS](http://www.w3.org/Style/CSS/Overview.en.html)^†^
-- [Dust.js](http://linkedin.github.com/dustjs)
-- [ERB/eRuby](http://en.wikipedia.org/wiki/ERuby)
-- [Haml](http://haml.info)
-- [Handlebars.js](http://handlebarsjs.com)
-- [HTML](http://developers.whatwg.org)^†^
-- [Jade](http://jade-lang.com)
-- [JSP](http://www.oracle.com/technetwork/java/javaee/jsp)
-- [JSTL](http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)^†^
-- [LESS](http://lesscss.org)^†^
-- [Liquid](http://liquidmarkup.org)
-- [Markdown](http://daringfireball.net/projects/markdown)^†^
-- [Mustache](http://mustache.github.com)
-- [Sass](http://sass-lang.com)^†^
-- [Smarty](http://smarty.net)
-- [Stylus](http://learnboost.github.com/stylus)
+###Epoch - Audio Engineer/Guitarist, 2005 - 2006
+- assembling and programming a technology platform for the band\'s improvisational electronic music
+- building the band\'s website 
 
-### Frameworks & APIs
+###Regeneron Pharmaceuticals - Graphic designer, 2000-2005
+- Designing logos, banners, posters, fliers and presentation materials
+- Preparing images for patent submission
+- Formatting scientific imagery for publication
 
-- [Backbone.js](http://documentcloud.github.com/backbone)^†^
-- [Bower](http://twitter.github.com/bower)
-- [Buster.js](http://busterjs.org)
-- [Compass](http://compass-style.org)^†^
-- [CodeIgniter](http://codeigniter.com)
-- [Django](http://www.djangoproject.com)
-- [Dojo](http://dojotoolkit.org)
-- [FaceBook Open Graph](http://developers.facebook.com)
-- [Gigya](http://developers.gigya.com)
-- [Google Maps API](http://developers.google.com/maps)
-- [jQuery](http://jquery.com)^†^
-- [Meteor](http://meteor.com)
-- [Middleman](http://middlemanapp.com)
-- [Node.js](http://nodejs.org)
-- [Prototype.js](http://prototypejs.org)
-- [Require.js](http://requirejs.org)^†^
-- [Ruby on Rails](http://rubyonrails.org)
-- [Sinatra](http://sinatrarb.com)
-- [Twitter API](http://dev.twitter.com)
-- [Wordpress](http://wordpress.org)
-- [YUI](http://developer.yahoo.com/yui)
-
-### Software & Tools
-
-- [Adobe Creative Suite](http://www.adobe.com/products/creativesuite.html)^†^
-- [Amazon Web Services](http://aws.amazon.com)
-- [Apache](http://apache.org)^†^
-- [Apple XCode](http://developer.apple.com)
-- [Demandware](http://demandware.com)
-- [Git](http://git-scm.com)^†^
-- [Grunt](http://gruntjs.com)
-- [JBoss](http://jboss.org)
-- [JIRA](http://atlassian.com/software/jira)^†^
-- [Mac OS X](http://apple.com/macosx)^†^
-- [MongoDB](http://mongodb.org)
-- [MySQL](http://mysql.com)
-- [Nginx](http://wiki.nginx.org)
-- [Oracle ATG](http://www.oracle.com/us/products/applications/web-commerce/atg)
-- [Pandoc](http://johnmacfarlane.net/pandoc)
-- [PostgreSQL](http://postgresql.org)
-- [rvm](http://rvm.beginrescueend.com)^†^
-- [Sublime Text](http://www.sublimetext.com)
-- [Subversion](http://svn.apache.org)
-- [tmux](http://tmux.sourceforge.net)^†^
-- [Tomcat](http://tomcat.apache.com)
-- [Ubuntu Linux](http://ubuntu.com)
-- [Vagrant](http://vagrantup.com)
-- [Vim](http://www.vim.org)^†^
-- [VirtualBox](http://virtualbox.org)
-- [Yeoman](http://yeoman.io)
-- [zsh](http://www.zsh.org)^†^
-
-Education
----------
-
-[Saint Joseph's University](http://sju.edu), Erivan K. Haub School of Business    
-BS, Information Systems, 1996 - 2000
-
-Honors and Awards
------------------
-
-*Unsung Hero*, Empathy Lab, May 2011    
-A peer-awarded honor which I'll always be terribly proud to have won.
-
-Interests
----------
-
-- Being a dad and spending time with my family
-- Playing [board and card games](http://boardgamegeek.com/user/smtudor) (and video games, too)
-- Making and listening to [music](http://www.rdio.com/people/smtudor)
-- Watching and contributing to Open Source Software
-
-<br>
-<br>
-<br>
-©2013 [Stephen Tudor](http://s17r.com/resume). All rights reserved. Direct contact only desired (no&nbsp;recruiters please).
+##Education
+Philosophy Major, Bachelor of Arts, Ithaca College, Ithaca, NY
