@@ -38,10 +38,8 @@ This setup is for Mac.  PC will require a variation of this setup.
 
 - In your Mac, in Application > Utilities, find the "Terminal" application.  Drag it to your dock. *This is advised for ease of workflow.*
 
-- Create a folder where your your Resume project will reside on your harddrive.  *This is where the output files and the build scripts will be.*
-
-- Drag this folder into the Terminal applicaiton in your dock. *This will open the terminal so you can run commands to install dependencies and generate your files.*
-
+- Open the Terminal application
+- 
 - Enter the following commands and hit return for each of the following in Terminal.  Some of these may take a while to finish.  Wait for each to finish before typing the next.  Enter your password when prompted.  *This is necessary for installing things to generate PDFS.*
 
  - ````sudo chown -R `whoami` /usr/local/texlive````
@@ -51,9 +49,9 @@ This setup is for Mac.  PC will require a variation of this setup.
  - *if you don't already have Ruby installed enter (this takes a while) (It will ask for password some point in install process):*   
  ````\curl -L https://get.rvm.io | bash -s stable --ruby````
  - *if you don't already have Homebrew installed enter:*  
-````ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"````
- - *if you don't already have Haskell installed enter:*  
-````brew install haskell-platform````
+````ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"```` ... when that's done run: ````brew doctor````
+ - *if you don't already have Haskell installed enter:*  (this takes a while) (really really long time)
+````brew install haskell-platform```` ... then run ````cabal update````
  - *if you don't already have Pandoc installed enter:*  
 ````cabal install pandoc````
 
@@ -77,8 +75,8 @@ This setup is for Mac.  PC will require a variation of this setup.
 - Go to [https://github.com/defualt/resume](github.com/defualt/resume).  Log in to GitHub if you are not already.
 - On that link's page, click "Fork"
 - Refresh the page until it no longer says its processing.
-- When the forking process is done, click the "Clone" button.  This should open your GitHub desktop application and ask you to choose a location on your harddrive.  Choose the Resume project folder you made earlier.  It should begin downloading.
-- When the GitHub download is done, look in your Resume project folder.  It should be full of files now.
+- When the forking process is done, click the "Clone in Desktop" button.  This should open your GitHub desktop application and ask you to choose a location on your harddrive.  Choose where you want to place folder containing the files you will be using.  It should begin downloading.
+- When the GitHub download is done, look in your Resume project folder.  It should be full of files.
 
 ## Test the process of outputting various file formats
 - Find the "resume.markdown" file in the Resume project folder.  This is where you will write your resume in the markdown language you learned at the beginning of this process.
@@ -91,8 +89,7 @@ This setup is for Mac.  PC will require a variation of this setup.
 ````
 
 - Now we're going to process this into docx, pdf, HTML and more.
-- Close any terminal windows you may have open from before for simplicity.
-- Drag the folder for your Resume project into the Terminal applicaiton on your dock again.
+- Drag the Resume folder (the one containing all the files for the project) into the Terminal application.
 - In the terminal window that opens, type  
 ````rake all````
 - You should see it processing.
