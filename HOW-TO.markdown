@@ -57,19 +57,18 @@ This setup is for Mac.  PC will require a variation of this setup.
  - *if you don't already have Pandoc installed enter:*  
 ````cabal install pandoc````
 
-- Now we need to edit your Path file.  Enter this Terminal command, and it should open a document in text edit called ".bash_profile".
+- ~~Now we need to edit your Path file.  Enter this Terminal command, and it should open a document in text edit called ".bash_profile".~~
 
- - Add a line to the end of this file of ````export PATH="$HOME/.cabal/bin:$PATH"````.
+ - ~~Add a line to the end of this file of ````export PATH="$HOME/.cabal/bin:$PATH"````.~~
 
- - The ".bash_profile" file should look like this (The first few lines may be different, and leave them how you found them.  The last line is what you added.)
+ - ~~The ".bash_profile" file should look like this (The first few lines may be different, and leave them how you found them.  The last line is what you added.)~~
 
-   ```` [[ -s "$whatever/.whatever/whatever/whatever" ]] && whatever "$whatever/.whatever/whatever/whatever" # whatever RVM whatever whatever whatever whatever *whatever whatever whatever*
-  export PATH="$HOME/.cabal/bin:$PATH"
-````
+   ~~[[ -s "$whatever/.whatever/whatever/whatever" ]] && whatever "$whatever/.whatever/whatever/whatever" # whatever RVM whatever whatever whatever whatever *whatever whatever whatever* ~~
+  ~~export PATH="$HOME/.cabal/bin:$PATH"~~
 
- - Save this file and close it.
+ - ~~Save this file and close it.~~
 
-- Restart the computer. *This is possibly necessary to make this change take full effect on your computer.*
+- ~~Restart the computer. *This is possibly necessary to make this change take full effect on your computer.*~~
 - Your computer should now be prepared to process a markdown file into various formats like pdf,docx, and HTML.
 
 ## Download the project files from GitHub
