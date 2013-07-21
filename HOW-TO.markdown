@@ -102,7 +102,8 @@ This setup is for Mac.  PC will require a variation of this setup.
 ## Put the pieces together
 
 - Now fill out the resume.markdown file with your real resume.  
-- Output your various files like HTML, docx, and PDF.
+- Output your various files like HTML, docx, and PDF by typing ````rake all````
+
 ## Update your resume in the future
 - Whenever you return to work on your resume file in the future, just drag the Resume project folder to the terminal, and each time you want to output the files after you make changes, enter ````rake all```` 
 
