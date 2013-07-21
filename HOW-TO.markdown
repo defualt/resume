@@ -36,6 +36,8 @@ This setup is for Mac.  PC will require a variation of this setup.
 
 - Install [MacTex](http://mirror.ctan.org/systems/mac/mactex/mactex-basic.pkg). *This is required for generating PDFs.*
 
+- Install [Pandoc](https://code.google.com/p/pandoc/downloads/detail?name=pandoc-1.11.1.dmg&can=2&q=) *This is the engine for generating various files.*
+
 - In your Mac, in Application > Utilities, find the "Terminal" application.  Drag it to your dock. *This is advised for ease of workflow.*
 
 - Open the Terminal application
