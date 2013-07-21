@@ -24,17 +24,17 @@ Many of the instructions are elementary because it should be as easy as possible
 
 This setup is for Mac.  PC will require a variation of this setup.
 
-- Install [Xcode](https://developer.apple.com/xcode/).  You may be required to register a free developer account with Apple.  *This is required for installing Command Line Tools*.
+- Install [Xcode](https://developer.apple.com/xcode/).  You may be required to register a free developer account with Apple.  Also when you open Xcode for the first time, you need to install sytem components.  *This is required for installing Command Line Tools*.
 
-- In Xcode, go to preferences > Downloads.  *This is required for installing Haskell*.
+- In Xcode, go to preferences > Downloads: Install Command Line Tools.  *This is required for installing Haskell*.
 
-- Install [GitHub](http://mac.github.com/). You may be required to register a free account with GitHub. *This is advised for downloading necessary files.*
+- Go to [github.com](http://www.github.com) and register if you don't have a login yet.
+
+- Install [GitHub](http://mac.github.com/).  *This is advised for downloading necessary files.*
 
 - In the GitHub application, got to Preferences > Advanced > Install Command Line Tools *This is advised for uploading your files to the GitHub servers.*
 
 - Install [MacTex](http://mirror.ctan.org/systems/mac/mactex/mactex-basic.pkg). *This is required for generating PDFs.*
-
-- Restart the computer. *This is probably necessary to make these installations take full effect.*
 
 - In your Mac, in Application > Utilities, find the "Terminal" application.  Drag it to your dock. *This is advised for ease of workflow.*
 
@@ -48,7 +48,7 @@ This setup is for Mac.  PC will require a variation of this setup.
  - ````tlmgr update --self````
  - ````tlmgr install ucs````
  - ````tlmgr install etoolbox````
- - *if you don't already have Ruby installed enter:*   
+ - *if you don't already have Ruby installed enter (this takes a while) (It will ask for password some point in install process):*   
  ````\curl -L https://get.rvm.io | bash -s stable --ruby````
  - *if you don't already have Homebrew installed enter:*  
 ````ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"````
