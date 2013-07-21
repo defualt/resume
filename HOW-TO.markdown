@@ -4,6 +4,8 @@
 ## Intro
 Markdown is a simple way to write and update documents with presentational formatting like resumes.  To be able to control these documents, you need to learn how to write markdown, and you need a way to convert it into useful formats like pdf, docx, and html.
 
+Writing your resume in markdown and using the process described below lets you write it once, and output .docx, .pdf, HTML, and other formats.  So you can update your resume and send a docx to your recruiters, post an HTML version to your website, and put markdown version on your GitHub.
+
 ## Learn markdown (It's not that hard)
 
 [Read a little about it](http://en.wikipedia.org/wiki/Markdown)
