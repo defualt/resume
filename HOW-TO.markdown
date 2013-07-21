@@ -56,8 +56,7 @@ This setup is for Mac.  PC will require a variation of this setup.
 ````ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"```` ... when that's done run: ````brew doctor````
  - *if you don't already have Haskell installed enter:*  (this takes a while) (really really long time)
 ````brew install haskell-platform```` ... then run ````cabal update````
- - *if you don't already have Pandoc installed enter:*  
-````cabal install pandoc````
+ - ````cabal install pandoc````
 
 - ~~Now we need to edit your Path file.  Enter this Terminal command, and it should open a document in text edit called ".bash_profile".~~
 
