@@ -19,40 +19,84 @@ Code samples (unminified, view source)
 http://defualt.github.io/accordionizer/[defualt.github.io/accordionizer/]
 * http://www.inperson.in[www.inperson.in]
 
+'''''
+
 [[computer-environment]]
 Computer environment
 ~~~~~~~~~~~~~~~~~~~~
 
-*Javascript*::
-  jQuery - Angular - Backbone - Meteor - Grunt - Bower
-*CSS3*::
-  LESS - Sass
-*Backend*::
-  Node - MongoDB - AWS - PHP - MySQL
-*Version Control*::
-  Git - GitHub - Bitbucket
-*Applications*::
-  Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
+[[javascript]]
+Javascript
+^^^^^^^^^^
+
+jQuery - Angular - Backbone - Meteor - Grunt - Bower
+
+[[css3]]
+CSS3
+^^^^
+
+LESS - Sass - Bootstrap - Foundation
+
+[[backend]]
+Backend
+^^^^^^^
+
+Node - MongoDB - AWS - PHP - MySQL
+
+[[version-control]]
+Version Control
+^^^^^^^^^^^^^^^
+
+Git - GitHub - Bitbucket
+
+[[applications]]
+Applications
+^^^^^^^^^^^^
+
+Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
+
+'''''
 
 [[advanced-capabilities]]
 Advanced Capabilities
 ~~~~~~~~~~~~~~~~~~~~~
 
-*Javascript MVC/MV**::
-  Production of single page web apps from a variety of frameworks
-*Browser Animation*::
-  Complex DOM animation with fluid frame rates and 3D effects, with
-  bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.
-*Touch and other DOM event control*::
-  Optimized user experience between touch and mouse interfaces, for
-  snappy, predictable, and draggable interaction.
-*Responsive features*::
-  Fluid CSS, Media queries, Retina vs non-retina, js window resize and
-  orientation handlers.
-*Mobile debugging*::
-  Solutions for bugs, and merging APIs and behaviors between Android
-  stock 2-4, Android Chrome, and iOs for issues concerning scroll,
-  forms, softkeyboard, and URL bar.
+[[javascript-mvcmvw]]
+Javascript MVC/MVW
+^^^^^^^^^^^^^^^^^^
+
+Production of single page web apps from a variety of frameworks
+
+[[css3js-animation]]
+CSS3/JS Animation
+^^^^^^^^^^^^^^^^^
+
+Complex browser animation with fluid frame rates and 3D effects, with
+bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.
+
+[[touch-and-other-dom-event-control]]
+Touch and other DOM event control
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Optimized user experience between touch and mouse interfaces, for
+snappy, predictable, and draggable interaction.
+
+[[responsive-design]]
+Responsive design
+^^^^^^^^^^^^^^^^^
+
+Fluid CSS, Media queries, Retina vs non-retina, js window resize and
+orientation handlers.
+
+[[mobile-debugging]]
+Mobile debugging
+^^^^^^^^^^^^^^^^
+
+Solutions for bugs, and merging APIs and behaviors between Android stock
+2-4, Android Chrome, and iOs for issues concerning scroll, forms,
+softkeyboard, and URL bar.
+
+'''''
 
 [[professional-development]]
 Professional Development

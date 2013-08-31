@@ -16,50 +16,56 @@ Hell\'s Kitchen, New York, NY
 
 * [www.inperson.in](http://www.inperson.in)
 
+---
+
 ##Computer environment 
 
-**Javascript**
+###Javascript
 
-:   jQuery - Angular - Backbone - Meteor - Grunt - Bower
+jQuery - Angular - Backbone - Meteor - Grunt - Bower
 
-**CSS3**
+###CSS3
 
-:   LESS - Sass
+LESS - Sass - Bootstrap - Foundation
 
-**Backend**
+###Backend
 
-:   Node - MongoDB - AWS - PHP - MySQL
+Node - MongoDB - AWS - PHP - MySQL
 
-**Version Control**
+###Version Control
 
-:   Git - GitHub - Bitbucket
+Git - GitHub - Bitbucket
 
-**Applications**
+###Applications
 
-:   Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
+Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
+
+---
 
 Advanced Capabilities
 -----------
 
-**Javascript MVC/MV\***  
+###Javascript MVC/MVW
 
-:   Production of single page web apps from a variety of frameworks
+Production of single page web apps from a variety of frameworks
 
-**Browser Animation**
+###CSS3/JS Animation
 
-:   Complex DOM animation with fluid frame rates and 3D effects, with bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.
+Complex browser animation with fluid frame rates and 3D effects, with bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.
 
-**Touch and other DOM event control**
+###Touch and other DOM event control
 
-:   Optimized user experience between touch and mouse interfaces, for snappy, predictable, and draggable interaction.
+Optimized user experience between touch and mouse interfaces, for snappy, predictable, and draggable interaction.
 
-**Responsive features**
+###Responsive design
 
-:   Fluid CSS, Media queries, Retina vs non-retina, js window resize and orientation handlers.
+Fluid CSS, Media queries, Retina vs non-retina, js window resize and orientation handlers.
 
-**Mobile debugging**
+###Mobile debugging
 
-:   Solutions for bugs, and merging APIs and behaviors between Android stock 2-4, Android Chrome, and iOs for issues concerning scroll, forms, softkeyboard, and URL bar.
+Solutions for bugs, and merging APIs and behaviors between Android stock 2-4, Android Chrome, and iOs for issues concerning scroll, forms, softkeyboard, and URL bar.
+
+---
 
 ##Professional Development
 

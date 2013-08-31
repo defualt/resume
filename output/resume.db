@@ -40,123 +40,76 @@
   </sect2>
   <sect2 id="computer-environment">
     <title>Computer environment</title>
-    <variablelist>
-      <varlistentry>
-        <term>
-          <emphasis role="strong">Javascript</emphasis>
-        </term>
-        <listitem>
-          <para>
-            jQuery - Angular - Backbone - Meteor - Grunt - Bower
-          </para>
-        </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          <emphasis role="strong">CSS3</emphasis>
-        </term>
-        <listitem>
-          <para>
-            LESS - Sass
-          </para>
-        </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          <emphasis role="strong">Backend</emphasis>
-        </term>
-        <listitem>
-          <para>
-            Node - MongoDB - AWS - PHP - MySQL
-          </para>
-        </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          <emphasis role="strong">Version Control</emphasis>
-        </term>
-        <listitem>
-          <para>
-            Git - GitHub - Bitbucket
-          </para>
-        </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          <emphasis role="strong">Applications</emphasis>
-        </term>
-        <listitem>
-          <para>
-            Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub -
-            Photoshop
-          </para>
-        </listitem>
-      </varlistentry>
-    </variablelist>
+    <sect3 id="javascript">
+      <title>Javascript</title>
+      <para>
+        jQuery - Angular - Backbone - Meteor - Grunt - Bower
+      </para>
+    </sect3>
+    <sect3 id="css3">
+      <title>CSS3</title>
+      <para>
+        LESS - Sass - Bootstrap - Foundation
+      </para>
+    </sect3>
+    <sect3 id="backend">
+      <title>Backend</title>
+      <para>
+        Node - MongoDB - AWS - PHP - MySQL
+      </para>
+    </sect3>
+    <sect3 id="version-control">
+      <title>Version Control</title>
+      <para>
+        Git - GitHub - Bitbucket
+      </para>
+    </sect3>
+    <sect3 id="applications">
+      <title>Applications</title>
+      <para>
+        Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub -
+        Photoshop
+      </para>
+    </sect3>
   </sect2>
   <sect2 id="advanced-capabilities">
     <title>Advanced Capabilities</title>
-    <variablelist>
-      <varlistentry>
-        <term>
-          <emphasis role="strong">Javascript MVC/MV*</emphasis>
-        </term>
-        <listitem>
-          <para>
-            Production of single page web apps from a variety of
-            frameworks
-          </para>
-        </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          <emphasis role="strong">Browser Animation</emphasis>
-        </term>
-        <listitem>
-          <para>
-            Complex DOM animation with fluid frame rates and 3D effects,
-            with bouncy easing, across Android 2-4, iPhone, iPad, and
-            desktop browsers.
-          </para>
-        </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          <emphasis role="strong">Touch and other DOM event
-          control</emphasis>
-        </term>
-        <listitem>
-          <para>
-            Optimized user experience between touch and mouse
-            interfaces, for snappy, predictable, and draggable
-            interaction.
-          </para>
-        </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          <emphasis role="strong">Responsive features</emphasis>
-        </term>
-        <listitem>
-          <para>
-            Fluid CSS, Media queries, Retina vs non-retina, js window
-            resize and orientation handlers.
-          </para>
-        </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          <emphasis role="strong">Mobile debugging</emphasis>
-        </term>
-        <listitem>
-          <para>
-            Solutions for bugs, and merging APIs and behaviors between
-            Android stock 2-4, Android Chrome, and iOs for issues
-            concerning scroll, forms, softkeyboard, and URL bar.
-          </para>
-        </listitem>
-      </varlistentry>
-    </variablelist>
+    <sect3 id="javascript-mvcmvw">
+      <title>Javascript MVC/MVW</title>
+      <para>
+        Production of single page web apps from a variety of frameworks
+      </para>
+    </sect3>
+    <sect3 id="css3js-animation">
+      <title>CSS3/JS Animation</title>
+      <para>
+        Complex browser animation with fluid frame rates and 3D effects,
+        with bouncy easing, across Android 2-4, iPhone, iPad, and
+        desktop browsers.
+      </para>
+    </sect3>
+    <sect3 id="touch-and-other-dom-event-control">
+      <title>Touch and other DOM event control</title>
+      <para>
+        Optimized user experience between touch and mouse interfaces,
+        for snappy, predictable, and draggable interaction.
+      </para>
+    </sect3>
+    <sect3 id="responsive-design">
+      <title>Responsive design</title>
+      <para>
+        Fluid CSS, Media queries, Retina vs non-retina, js window resize
+        and orientation handlers.
+      </para>
+    </sect3>
+    <sect3 id="mobile-debugging">
+      <title>Mobile debugging</title>
+      <para>
+        Solutions for bugs, and merging APIs and behaviors between
+        Android stock 2-4, Android Chrome, and iOs for issues concerning
+        scroll, forms, softkeyboard, and URL bar.
+      </para>
+    </sect3>
   </sect2>
   <sect2 id="professional-development">
     <title>Professional Development</title>

@@ -18,47 +18,72 @@ Code samples (unminified, view source)
 
 -  `www.inperson.in <http://www.inperson.in>`__
 
+--------------
+
 Computer environment
 --------------------
 
-**Javascript**
-    jQuery - Angular - Backbone - Meteor - Grunt - Bower
+Javascript
+~~~~~~~~~~
 
-**CSS3**
-    LESS - Sass
+jQuery - Angular - Backbone - Meteor - Grunt - Bower
 
-**Backend**
-    Node - MongoDB - AWS - PHP - MySQL
+CSS3
+~~~~
 
-**Version Control**
-    Git - GitHub - Bitbucket
+LESS - Sass - Bootstrap - Foundation
 
-**Applications**
-    Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
+Backend
+~~~~~~~
+
+Node - MongoDB - AWS - PHP - MySQL
+
+Version Control
+~~~~~~~~~~~~~~~
+
+Git - GitHub - Bitbucket
+
+Applications
+~~~~~~~~~~~~
+
+Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
+
+--------------
 
 Advanced Capabilities
 ---------------------
 
-**Javascript MVC/MV\***
-    Production of single page web apps from a variety of frameworks
+Javascript MVC/MVW
+~~~~~~~~~~~~~~~~~~
 
-**Browser Animation**
-    Complex DOM animation with fluid frame rates and 3D effects, with
-    bouncy easing, across Android 2-4, iPhone, iPad, and desktop
-    browsers.
+Production of single page web apps from a variety of frameworks
 
-**Touch and other DOM event control**
-    Optimized user experience between touch and mouse interfaces, for
-    snappy, predictable, and draggable interaction.
+CSS3/JS Animation
+~~~~~~~~~~~~~~~~~
 
-**Responsive features**
-    Fluid CSS, Media queries, Retina vs non-retina, js window resize and
-    orientation handlers.
+Complex browser animation with fluid frame rates and 3D effects, with
+bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.
 
-**Mobile debugging**
-    Solutions for bugs, and merging APIs and behaviors between Android
-    stock 2-4, Android Chrome, and iOs for issues concerning scroll,
-    forms, softkeyboard, and URL bar.
+Touch and other DOM event control
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Optimized user experience between touch and mouse interfaces, for
+snappy, predictable, and draggable interaction.
+
+Responsive design
+~~~~~~~~~~~~~~~~~
+
+Fluid CSS, Media queries, Retina vs non-retina, js window resize and
+orientation handlers.
+
+Mobile debugging
+~~~~~~~~~~~~~~~~
+
+Solutions for bugs, and merging APIs and behaviors between Android stock
+2-4, Android Chrome, and iOs for issues concerning scroll, forms,
+softkeyboard, and URL bar.
+
+--------------
 
 Professional Development
 ------------------------
