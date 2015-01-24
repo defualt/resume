@@ -73,59 +73,6 @@
       Development - Deployment - Workflow - Backend integraion - API
       modeling - Debugging - Product and feature design
     </para>
-    <sect3 id="javascript-mvcmvw-application-architecture">
-      <title>Javascript MVC/MVW application architecture</title>
-      <para>
-        Single page web apps delivery from a variety of frameworks
-      </para>
-    </sect3>
-    <sect3 id="integration-with-backend">
-      <title>Integration with backend</title>
-      <para>
-        Asset server requirement specification
-      </para>
-      <para>
-        API modeling collaboration
-      </para>
-    </sect3>
-    <sect3 id="development-environment">
-      <title>Development environment</title>
-      <para>
-        Development environemnt implementation with localhost server,
-        endpoint proxying, remote debugging, spritesheet generation,
-        deployment scripts, cache-busting mechanisms, and asset
-        compilation
-      </para>
-    </sect3>
-    <sect3 id="css3js-animation">
-      <title>CSS3/JS Animation</title>
-      <para>
-        Complex browser animation with fluid frame rates and 3D effects,
-        with bouncy easing, across Android 2-4, iPhone, iPad, and
-        desktop browsers.
-      </para>
-    </sect3>
-    <sect3 id="touch-and-other-dom-event-handling">
-      <title>Touch and other DOM event handling</title>
-      <para>
-        Pinch-to-zoom, tap-and-drag, Tinder-style swipe cards, infinite
-        scroll, and pull-to-refersh implentation across mobile browsers.
-      </para>
-    </sect3>
-    <sect3 id="responsive-design">
-      <title>Responsive design</title>
-      <para>
-        Fluid CSS, Media queries, Retina vs non-retina, js window resize
-        and orientation handler use.
-      </para>
-    </sect3>
-    <sect3 id="mobile-debugging">
-      <title>Mobile debugging</title>
-      <para>
-        Resolution of cross-browser variance, idiosyncracies, and
-        limitations.
-      </para>
-    </sect3>
   </sect2>
   <sect2 id="professional-development">
     <title>Professional Development</title>

@@ -52,37 +52,6 @@ Single page, mobile first, native-like web apps
 - Debugging
 - Product and feature design
 
-
-###Javascript MVC/MVW application architecture
-
-Single page web apps delivery from a variety of frameworks
-
-###Integration with backend
-
-Asset server requirement specification
-
-API modeling collaboration
-
-###Development environment
-
-Development environemnt implementation with localhost server, endpoint proxying, remote debugging, spritesheet generation, deployment scripts, cache-busting mechanisms, and asset compilation
-
-###CSS3/JS Animation
-
-Complex browser animation with fluid frame rates and 3D effects, with bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.
-
-###Touch and other DOM event handling
-
-Pinch-to-zoom, tap-and-drag, Tinder-style swipe cards, infinite scroll, and pull-to-refersh implentation across mobile browsers.
-
-###Responsive design
-
-Fluid CSS, Media queries, Retina vs non-retina, js window resize and orientation handler use.
-
-###Mobile debugging
-
-Resolution of cross-browser variance, idiosyncracies, and limitations.
-
 ---
 
 ##Professional Development
