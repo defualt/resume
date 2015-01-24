@@ -81,7 +81,7 @@ Resolution of cross-browser variance, idiosyncracies, and limitations.
 
 ###OKCupid - Frontend Engineer, Frontend Engineer, November 2013 - Present
 - Implementing the front-end redesign of multiple mobile-web dating properties
-- Developing advanced, mobile web, cross-browser features
+- Developing Angular single page mobile web apps, with advanced cross-browser features
 	- infinite scroll
 	- pull to refresh
 	- pinch to zoom
@@ -89,10 +89,19 @@ Resolution of cross-browser variance, idiosyncracies, and limitations.
 	- instant chats and notifications
 	- Tinder-style card swiping
 	- animated screen transitions
+- Assembling featureful Grunt development environment:
+	- localhost server
+	- Weinre remote device debugging
+	- effortless retina/non-retina spritesheet generation
+	- endpoint proxying
+	- deployment scripts
+	- cache-busting mechanisms
+	- asset compilation
 - Coding in both sole-ownership and team-contributor scenarios
 - Migrating architecture between projects
 - Collaborating closely with designers on product features
 - Writing detailed specification documents for backend developers
+- API modeling collaboration with backend developers
 - Reaching millions of page views
 
 
