@@ -43,14 +43,14 @@ Expertise
 -----------
 
 Single page, mobile first, native-like web apps
-	- Architecture
-	- Development
-	- Deployment
-	- Workflow
-	- Backend integraion
-	- API modeling
-	- Debugging
-	- Product and feature design
+- Architecture
+- Development
+- Deployment
+- Workflow
+- Backend integraion
+- API modeling
+- Debugging
+- Product and feature design
 
 
 ###Javascript MVC/MVW application architecture
