@@ -134,5 +134,7 @@ Developing social portals for such clients as:
 - Preparing images for patent submission
 - Formatting scientific imagery for publication
 
+---
+
 ##Education
 Philosophy Major, Bachelor of Arts, Ithaca College, Ithaca, NY

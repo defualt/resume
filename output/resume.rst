@@ -160,6 +160,8 @@ Regeneron Pharmaceuticals - Graphic designer, July 2000 - October 2005
 -  Preparing images for patent submission
 -  Formatting scientific imagery for publication
 
+--------------
+
 Education
 ---------
 
