@@ -1,6 +1,6 @@
-#**Brian Ephraim** - Senior Web / Javascript Engineer at Viggle Inc.
+#**Brian Ephraim** - Frontend Engineer at OkCupid
 
-Hell\'s Kitchen, New York, NY  
+Upper East Side, New York, NY  
 914-482-2364  
 [brianephraim@gmail.com](mailto://brianephraim@gmail.com)  
 [@brianephraim](http://twitter.com/brianephraim)   
@@ -18,7 +18,7 @@ Hell\'s Kitchen, New York, NY
 
 ---
 
-##Computer environment 
+##Technology experience
 
 ###Javascript
 
@@ -26,7 +26,7 @@ jQuery - Angular - Backbone - Meteor - Grunt - Bower
 
 ###CSS3
 
-LESS - Sass - Bootstrap - Foundation
+Sass - LESS - Bootstrap - Foundation
 
 ###Backend
 
@@ -34,7 +34,7 @@ Node - MongoDB - AWS - PHP - MySQL
 
 ###Version Control
 
-Git - GitHub - Bitbucket
+Git - SVN - CVS
 
 ###Applications
 
@@ -42,41 +42,68 @@ Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
 
 ---
 
-Advanced Capabilities
+Skills
 -----------
 
-###Javascript MVC/MVW
+###Javascript MVC/MVW application architecture
 
-Production of single page web apps from a variety of frameworks
+Single page web apps delivery from a variety of frameworks
+
+###Integration with backend
+
+Asset server requirement specification
+
+API modeling collaboration
+
+###Development environment
+
+Development environemnt implementation with localhost server, endpoint proxying, remote debugging, spritesheet generation, deployment scripts, cache-busting mechanisms, and asset compilation
 
 ###CSS3/JS Animation
 
 Complex browser animation with fluid frame rates and 3D effects, with bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.
 
-###Touch and other DOM event control
+###Touch and other DOM event handling
 
-Optimized user experience between touch and mouse interfaces, for snappy, predictable, and draggable interaction.
+Pinch-to-zoom, tap-and-drag, Tinder-style swipe cards, infinite scroll, and pull-to-refersh implentation across mobile browsers.
 
 ###Responsive design
 
-Fluid CSS, Media queries, Retina vs non-retina, js window resize and orientation handlers.
+Fluid CSS, Media queries, Retina vs non-retina, js window resize and orientation handler use.
 
 ###Mobile debugging
 
-Solutions for bugs, and merging APIs and behaviors between Android stock 2-4, Android Chrome, and iOs for issues concerning scroll, forms, softkeyboard, and URL bar.
+Resolution of cross-browser variance, idiosyncracies, and limitations.
 
 ---
 
 ##Professional Development
 
-###Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - Present
+###OKCupid - Frontend Engineer, Frontend Engineer, November 2013 - Present
+- Implementing the front-end redesign of multiple mobile-web dating properties
+- Developing advanced, mobile web, cross-browser features
+	- infinite scroll
+	- pull to refresh
+	- pinch to zoom
+	- photo upload
+	- instant chats and notifications
+	- Tinder-style card swiping
+	- animated screen transitions
+- Coding in both sole-ownership and team-contributor scenarios
+- Migrating architecture between projects
+- Collaborating closely with designers on product features
+- Writing detailed specification documents for backend developers
+- Reaching millions of page views
+
+
+###Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - October 2013
 - Architecting an AngularJs HTML5 app within a hybrid iPad app with transactional functionality.
 - Directing and merging code contributions.
 - Coordinating production deployment.
 - Estimating tasks, researching technology, and planning for future initiatives.
 
 
-###inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - Present
+###inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - April 2013
 - Launching a privacy focused social networking platform for finding people to meet in person to do activities or have conversations.
 - Performing business coordination with lawyer, accountant, and consultants.
 - Developing the platform, consisting of a single page HTML5 mobile web app with user generated content, hosted on Amazon, with PHP/MySQL backend.
