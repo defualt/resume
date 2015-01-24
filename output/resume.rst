@@ -1,7 +1,7 @@
-**Brian Ephraim** - Senior Web / Javascript Engineer at Viggle Inc.
-===================================================================
+**Brian Ephraim** - Frontend Engineer at OkCupid
+================================================
 
-| Hell's Kitchen, New York, NY
+| Upper East Side, New York, NY
 | 914-482-2364
 | `brianephraim@gmail.com <mailto://brianephraim@gmail.com>`__
 | `@brianephraim <http://twitter.com/brianephraim>`__
@@ -20,18 +20,19 @@ Code samples (unminified, view source)
 
 --------------
 
-Computer environment
---------------------
+Technology experience
+---------------------
 
 Javascript
 ~~~~~~~~~~
 
-jQuery - Angular - Backbone - Meteor - Grunt - Bower
+Angular - jQuery - Grunt - RequireJs - WebSockets - AJAX - Backbone -
+Meteor - Bower
 
 CSS3
 ~~~~
 
-LESS - Sass - Bootstrap - Foundation
+Sass - Bourbon - LESS - Bootstrap - Foundation
 
 Backend
 ~~~~~~~
@@ -41,22 +42,35 @@ Node - MongoDB - AWS - PHP - MySQL
 Version Control
 ~~~~~~~~~~~~~~~
 
-Git - GitHub - Bitbucket
-
-Applications
-~~~~~~~~~~~~
-
-Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
+Git - SVN - CVS
 
 --------------
 
-Advanced Capabilities
----------------------
+Expertise
+---------
 
-Javascript MVC/MVW
-~~~~~~~~~~~~~~~~~~
+Single page, mobile first, native-like web apps - Architecture -
+Development - Deployment - Workflow - Backend integraion - API modeling
+- Debugging - Product and feature design
 
-Production of single page web apps from a variety of frameworks
+Javascript MVC/MVW application architecture
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Single page web apps delivery from a variety of frameworks
+
+Integration with backend
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Asset server requirement specification
+
+API modeling collaboration
+
+Development environment
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Development environemnt implementation with localhost server, endpoint
+proxying, remote debugging, spritesheet generation, deployment scripts,
+cache-busting mechanisms, and asset compilation
 
 CSS3/JS Animation
 ~~~~~~~~~~~~~~~~~
@@ -64,32 +78,70 @@ CSS3/JS Animation
 Complex browser animation with fluid frame rates and 3D effects, with
 bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.
 
-Touch and other DOM event control
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Touch and other DOM event handling
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Optimized user experience between touch and mouse interfaces, for
-snappy, predictable, and draggable interaction.
+Pinch-to-zoom, tap-and-drag, Tinder-style swipe cards, infinite scroll,
+and pull-to-refersh implentation across mobile browsers.
 
 Responsive design
 ~~~~~~~~~~~~~~~~~
 
 Fluid CSS, Media queries, Retina vs non-retina, js window resize and
-orientation handlers.
+orientation handler use.
 
 Mobile debugging
 ~~~~~~~~~~~~~~~~
 
-Solutions for bugs, and merging APIs and behaviors between Android stock
-2-4, Android Chrome, and iOs for issues concerning scroll, forms,
-softkeyboard, and URL bar.
+Resolution of cross-browser variance, idiosyncracies, and limitations.
 
 --------------
 
 Professional Development
 ------------------------
 
-Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - Present
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+OKCupid - Frontend Engineer, Frontend Engineer, November 2013 - Present
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Implementing the front-end redesign of multiple mobile-web dating
+   properties
+-  Developing entire Angular single page mobile web apps from the ground
+   up
+-  Coding advanced, cross-browser features:
+
+   -  infinite scroll
+   -  pull to refresh
+   -  pinch to zoom
+   -  photo upload
+   -  instant chats and notifications with web sockets
+   -  Tinder-style card swiping
+   -  animated screen transitions with fluid framerates and 3D effects
+   -  swipable image galleries
+   -  phone/tablet responsive
+   -  geolocation
+   -  sticky footers and headers
+   -  lazy loading javascript assets
+
+-  Assembling featureful Grunt development environment:
+
+   -  localhost server
+   -  Weinre remote device debugging
+   -  effortless retina/non-retina spritesheet generation
+   -  endpoint proxying
+   -  deployment scripts
+   -  cache-busting mechanisms
+   -  asset compilation
+   -  git integration
+
+-  Coding in both sole-ownership and team-contributor scenarios
+-  Migrating architecture between projects
+-  Collaborating closely with designers on product features
+-  Writing detailed specification documents for backend developers
+-  API modeling collaboration with backend developers
+-  Reaching millions of page views
+
+Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - October 2013
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Architecting an AngularJs HTML5 app within a hybrid iPad app with
    transactional functionality.
@@ -98,13 +150,12 @@ Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - Present
 -  Estimating tasks, researching technology, and planning for future
    initiatives.
 
-inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - Present
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - April 2013
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Launching a privacy focused social networking platform for finding
    people to meet in person to do activities or have conversations.
--  Performing business coordination with lawyer, accountant, and
-   consultants.
+-  Coordinating business needs with lawyer, accountant, and consultants.
 -  Developing the platform, consisting of a single page HTML5 mobile web
    app with user generated content, hosted on Amazon, with PHP/MySQL
    backend.
@@ -130,20 +181,22 @@ Developing social portals for such clients as:
 -  Sharecare
 -  Leap4Life
 
-Rail Europe - Web designer, 2006 - October 2010
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rail Europe - Web designer, October 2006 - October 2010
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  developing mobile and desktop web front end
 
 Epoch - Audio Engineer/Guitarist, 2005 - 2006
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  assembling and programming a technology platform for the band's
-   improvisational electronic music
+-  writing songs
+-  performing shows
+-  audio engineering recordings
+-  assembling and programming electronic instruments
 -  building the band's website
 
-Regeneron Pharmaceuticals - Graphic designer, 2000-2005
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Regeneron Pharmaceuticals - Graphic designer, July 2000 - October 2005
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Designing logos, banners, posters, fliers and presentation materials
 -  Preparing images for patent submission

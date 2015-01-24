@@ -22,11 +22,11 @@ Upper East Side, New York, NY
 
 ###Javascript
 
-jQuery - Angular - Backbone - Meteor - Grunt - Bower
+Angular - jQuery - Grunt - RequireJs - WebSockets - AJAX - Backbone - Meteor - Bower
 
 ###CSS3
 
-Sass - LESS - Bootstrap - Foundation
+Sass - Bourbon - LESS - Bootstrap - Foundation
 
 ###Backend
 
@@ -36,14 +36,22 @@ Node - MongoDB - AWS - PHP - MySQL
 
 Git - SVN - CVS
 
-###Applications
-
-Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop
 
 ---
 
-Skills
+Expertise
 -----------
+
+Single page, mobile first, native-like web apps
+	- Architecture
+	- Development
+	- Deployment
+	- Workflow
+	- Backend integraion
+	- API modeling
+	- Debugging
+	- Product and feature design
+
 
 ###Javascript MVC/MVW application architecture
 
@@ -81,14 +89,20 @@ Resolution of cross-browser variance, idiosyncracies, and limitations.
 
 ###OKCupid - Frontend Engineer, Frontend Engineer, November 2013 - Present
 - Implementing the front-end redesign of multiple mobile-web dating properties
-- Developing Angular single page mobile web apps, with advanced cross-browser features
+- Developing entire Angular single page mobile web apps from the ground up
+- Coding advanced, cross-browser features:
 	- infinite scroll
 	- pull to refresh
 	- pinch to zoom
 	- photo upload
-	- instant chats and notifications
+	- instant chats and notifications with web sockets
 	- Tinder-style card swiping
-	- animated screen transitions
+	- animated screen transitions with fluid framerates and 3D effects
+	- swipable image galleries
+	- phone/tablet responsive
+	- geolocation
+	- sticky footers and headers
+	- lazy loading javascript assets
 - Assembling featureful Grunt development environment:
 	- localhost server
 	- Weinre remote device debugging
@@ -97,6 +111,7 @@ Resolution of cross-browser variance, idiosyncracies, and limitations.
 	- deployment scripts
 	- cache-busting mechanisms
 	- asset compilation
+	- git integration
 - Coding in both sole-ownership and team-contributor scenarios
 - Migrating architecture between projects
 - Collaborating closely with designers on product features
@@ -114,7 +129,7 @@ Resolution of cross-browser variance, idiosyncracies, and limitations.
 
 ###inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - April 2013
 - Launching a privacy focused social networking platform for finding people to meet in person to do activities or have conversations.
-- Performing business coordination with lawyer, accountant, and consultants.
+- Coordinating business needs with lawyer, accountant, and consultants.
 - Developing the platform, consisting of a single page HTML5 mobile web app with user generated content, hosted on Amazon, with PHP/MySQL backend.
 
 
@@ -135,14 +150,17 @@ Developing social portals for such clients as:
 - Sharecare
 - Leap4Life
 
-###Rail Europe - Web designer, 2006 - October 2010
+###Rail Europe - Web designer, October 2006 - October 2010
 - developing mobile and desktop web front end
 
 ###Epoch - Audio Engineer/Guitarist, 2005 - 2006
-- assembling and programming a technology platform for the band\'s improvisational electronic music
+- writing songs
+- performing shows
+- audio engineering recordings
+- assembling and programming electronic instruments
 - building the band\'s website 
 
-###Regeneron Pharmaceuticals - Graphic designer, 2000-2005
+###Regeneron Pharmaceuticals - Graphic designer, July 2000 - October 2005
 - Designing logos, banners, posters, fliers and presentation materials
 - Preparing images for patent submission
 - Formatting scientific imagery for publication

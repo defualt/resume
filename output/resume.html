@@ -11,9 +11,9 @@
 <script src="data:application/x-javascript,%28function%20%28d%29%20%7B%0A%20%20var%20metas%20%3D%20d%2EgetElementsByTagName%28%27meta%27%29%3B%0A%20%20var%20i%3B%0A%20%20function%20gestureStart%28%29%20%7B%0A%20%20%20%20for%20%28i%3D0%3B%20i%3Cmetas%2Elength%3B%20i%2B%2B%29%20%7B%0A%20%20%20%20%20%20if%20%28metas%5Bi%5D%2Ename%20%3D%3D%3D%20%22viewport%22%29%20%7B%0A%20%20%20%20%20%20%20%20metas%5Bi%5D%2Econtent%20%3D%20%22width%3Ddevice%2Dwidth%2C%20minimum%2Dscale%3D0%2E25%2C%20maximum%2Dscale%3D1%2E6%22%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20if%20%28navigator%2EuserAgent%2Ematch%28%2FiPhone%2Fi%29%29%20%7B%0A%20%20%20%20for%20%28i%3D0%3B%20i%3Cmetas%2Elength%3B%20i%2B%2B%29%20%7B%0A%20%20%20%20%20%20if%20%28metas%5Bi%5D%2Ename%20%3D%3D%3D%20%22viewport%22%29%20%7B%0A%20%20%20%20%20%20%20%20metas%5Bi%5D%2Econtent%20%3D%20%22width%3Ddevice%2Dwidth%2C%20minimum%2Dscale%3D1%2E0%2C%20maximum%2Dscale%3D1%2E0%22%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20d%2EaddEventListener%28%22gesturestart%22%2C%20gestureStart%2C%20false%29%3B%0A%20%20%7D%0A%7D%28document%29%29%3B%0A%0A%28function%20%28w%2C%20d%29%20%7B%0A%20%20w%2EaddEventListener%28%27load%27%2C%20function%20%28%29%20%7B%0A%20%20%20%20var%20t%20%3D%20d%2EgetElementById%28%27front%2Dend%2Dweb%2Ddeveloper%27%29%3B%0A%20%20%20%20var%20h%20%3D%20d%2EquerySelectorAll%28%27%23stephen%2Dtudor%20%3E%20h1%27%29%5B0%5D%3B%0A%20%20%20%20t%2EaddEventListener%28%27mouseover%27%2C%20function%20%28e%29%20%7B%0A%20%20%20%20%20%20if%20%28%21h%2EclassList%29%20return%3B%0A%20%20%20%20%20%20h%2EclassList%2Eadd%28%27active%27%29%3B%0A%20%20%20%20%20%20return%20false%3B%0A%20%20%20%20%7D%2C%20false%29%3B%0A%20%20%20%20t%2EaddEventListener%28%27mouseout%27%2C%20function%20%28e%29%20%7B%0A%20%20%20%20%20%20if%20%28%21h%2EclassList%29%20return%3B%0A%20%20%20%20%20%20h%2EclassList%2Eremove%28%27active%27%29%3B%0A%20%20%20%20%20%20return%20false%3B%0A%20%20%20%20%7D%2C%20false%29%3B%0A%20%20%7D%2C%20false%29%3B%0A%7D%28window%2C%20document%2C%20undefined%29%29%3B%0A"></script>
 </head>
 <body>
-<section id="brian-ephraim---senior-web-javascript-engineer-at-viggle-inc." class="level1">
-<h1><strong>Brian Ephraim</strong> - Senior Web / Javascript Engineer at Viggle Inc.</h1>
-<p>Hell's Kitchen, New York, NY<br />914-482-2364<br /><script type="text/javascript">
+<section id="brian-ephraim---frontend-engineer-at-okcupid" class="level1">
+<h1><strong>Brian Ephraim</strong> - Frontend Engineer at OkCupid</h1>
+<p>Upper East Side, New York, NY<br />914-482-2364<br /><script type="text/javascript">
 <!--
 h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#x2f;&#x2f;&#98;&#114;&#x69;&#x61;&#110;&#x65;&#112;&#104;&#114;&#x61;&#x69;&#x6d;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<\/'+'a'+'>');
@@ -28,15 +28,15 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<
 </ul>
 <hr />
 </section>
-<section id="computer-environment" class="level2">
-<h2>Computer environment</h2>
+<section id="technology-experience" class="level2">
+<h2>Technology experience</h2>
 <section id="javascript" class="level3">
 <h3>Javascript</h3>
-<p>jQuery - Angular - Backbone - Meteor - Grunt - Bower</p>
+<p>Angular - jQuery - Grunt - RequireJs - WebSockets - AJAX - Backbone - Meteor - Bower</p>
 </section>
 <section id="css3" class="level3">
 <h3>CSS3</h3>
-<p>LESS - Sass - Bootstrap - Foundation</p>
+<p>Sass - Bourbon - LESS - Bootstrap - Foundation</p>
 </section>
 <section id="backend" class="level3">
 <h3>Backend</h3>
@@ -44,42 +44,87 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<
 </section>
 <section id="version-control" class="level3">
 <h3>Version Control</h3>
-<p>Git - GitHub - Bitbucket</p>
-</section>
-<section id="applications" class="level3">
-<h3>Applications</h3>
-<p>Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub - Photoshop</p>
+<p>Git - SVN - CVS</p>
 <hr />
 </section>
 </section>
-<section id="advanced-capabilities" class="level2">
-<h2>Advanced Capabilities</h2>
-<section id="javascript-mvcmvw" class="level3">
-<h3>Javascript MVC/MVW</h3>
-<p>Production of single page web apps from a variety of frameworks</p>
+<section id="expertise" class="level2">
+<h2>Expertise</h2>
+<p>Single page, mobile first, native-like web apps - Architecture - Development - Deployment - Workflow - Backend integraion - API modeling - Debugging - Product and feature design</p>
+<section id="javascript-mvcmvw-application-architecture" class="level3">
+<h3>Javascript MVC/MVW application architecture</h3>
+<p>Single page web apps delivery from a variety of frameworks</p>
+</section>
+<section id="integration-with-backend" class="level3">
+<h3>Integration with backend</h3>
+<p>Asset server requirement specification</p>
+<p>API modeling collaboration</p>
+</section>
+<section id="development-environment" class="level3">
+<h3>Development environment</h3>
+<p>Development environemnt implementation with localhost server, endpoint proxying, remote debugging, spritesheet generation, deployment scripts, cache-busting mechanisms, and asset compilation</p>
 </section>
 <section id="css3js-animation" class="level3">
 <h3>CSS3/JS Animation</h3>
 <p>Complex browser animation with fluid frame rates and 3D effects, with bouncy easing, across Android 2-4, iPhone, iPad, and desktop browsers.</p>
 </section>
-<section id="touch-and-other-dom-event-control" class="level3">
-<h3>Touch and other DOM event control</h3>
-<p>Optimized user experience between touch and mouse interfaces, for snappy, predictable, and draggable interaction.</p>
+<section id="touch-and-other-dom-event-handling" class="level3">
+<h3>Touch and other DOM event handling</h3>
+<p>Pinch-to-zoom, tap-and-drag, Tinder-style swipe cards, infinite scroll, and pull-to-refersh implentation across mobile browsers.</p>
 </section>
 <section id="responsive-design" class="level3">
 <h3>Responsive design</h3>
-<p>Fluid CSS, Media queries, Retina vs non-retina, js window resize and orientation handlers.</p>
+<p>Fluid CSS, Media queries, Retina vs non-retina, js window resize and orientation handler use.</p>
 </section>
 <section id="mobile-debugging" class="level3">
 <h3>Mobile debugging</h3>
-<p>Solutions for bugs, and merging APIs and behaviors between Android stock 2-4, Android Chrome, and iOs for issues concerning scroll, forms, softkeyboard, and URL bar.</p>
+<p>Resolution of cross-browser variance, idiosyncracies, and limitations.</p>
 <hr />
 </section>
 </section>
 <section id="professional-development" class="level2">
 <h2>Professional Development</h2>
-<section id="viggle-inc.---senior-web-javascript-engineer-april-2013---present" class="level3">
-<h3>Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - Present</h3>
+<section id="okcupid---frontend-engineer-frontend-engineer-november-2013---present" class="level3">
+<h3>OKCupid - Frontend Engineer, Frontend Engineer, November 2013 - Present</h3>
+<ul>
+<li>Implementing the front-end redesign of multiple mobile-web dating properties</li>
+<li>Developing entire Angular single page mobile web apps from the ground up</li>
+<li>Coding advanced, cross-browser features:
+<ul>
+<li>infinite scroll</li>
+<li>pull to refresh</li>
+<li>pinch to zoom</li>
+<li>photo upload</li>
+<li>instant chats and notifications with web sockets</li>
+<li>Tinder-style card swiping</li>
+<li>animated screen transitions with fluid framerates and 3D effects</li>
+<li>swipable image galleries</li>
+<li>phone/tablet responsive</li>
+<li>geolocation</li>
+<li>sticky footers and headers</li>
+<li>lazy loading javascript assets</li>
+</ul></li>
+<li>Assembling featureful Grunt development environment:
+<ul>
+<li>localhost server</li>
+<li>Weinre remote device debugging</li>
+<li>effortless retina/non-retina spritesheet generation</li>
+<li>endpoint proxying</li>
+<li>deployment scripts</li>
+<li>cache-busting mechanisms</li>
+<li>asset compilation</li>
+<li>git integration</li>
+</ul></li>
+<li>Coding in both sole-ownership and team-contributor scenarios</li>
+<li>Migrating architecture between projects</li>
+<li>Collaborating closely with designers on product features</li>
+<li>Writing detailed specification documents for backend developers</li>
+<li>API modeling collaboration with backend developers</li>
+<li>Reaching millions of page views</li>
+</ul>
+</section>
+<section id="viggle-inc.---senior-web-javascript-engineer-april-2013---october-2013" class="level3">
+<h3>Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - October 2013</h3>
 <ul>
 <li>Architecting an AngularJs HTML5 app within a hybrid iPad app with transactional functionality.</li>
 <li>Directing and merging code contributions.</li>
@@ -87,11 +132,11 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<
 <li>Estimating tasks, researching technology, and planning for future initiatives.</li>
 </ul>
 </section>
-<section id="inperson.in-blaboid-inc.---entrepreneur-november-2010---present" class="level3">
-<h3>inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - Present</h3>
+<section id="inperson.in-blaboid-inc.---entrepreneur-november-2010---april-2013" class="level3">
+<h3>inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - April 2013</h3>
 <ul>
 <li>Launching a privacy focused social networking platform for finding people to meet in person to do activities or have conversations.</li>
-<li>Performing business coordination with lawyer, accountant, and consultants.</li>
+<li>Coordinating business needs with lawyer, accountant, and consultants.</li>
 <li>Developing the platform, consisting of a single page HTML5 mobile web app with user generated content, hosted on Amazon, with PHP/MySQL backend.</li>
 </ul>
 </section>
@@ -116,8 +161,8 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<
 <li>Leap4Life</li>
 </ul>
 </section>
-<section id="rail-europe---web-designer-2006---october-2010" class="level3">
-<h3>Rail Europe - Web designer, 2006 - October 2010</h3>
+<section id="rail-europe---web-designer-october-2006---october-2010" class="level3">
+<h3>Rail Europe - Web designer, October 2006 - October 2010</h3>
 <ul>
 <li>developing mobile and desktop web front end</li>
 </ul>
@@ -125,12 +170,15 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<
 <section id="epoch---audio-engineerguitarist-2005---2006" class="level3">
 <h3>Epoch - Audio Engineer/Guitarist, 2005 - 2006</h3>
 <ul>
-<li>assembling and programming a technology platform for the band's improvisational electronic music</li>
+<li>writing songs</li>
+<li>performing shows</li>
+<li>audio engineering recordings</li>
+<li>assembling and programming electronic instruments</li>
 <li>building the band's website</li>
 </ul>
 </section>
-<section id="regeneron-pharmaceuticals---graphic-designer-2000-2005" class="level3">
-<h3>Regeneron Pharmaceuticals - Graphic designer, 2000-2005</h3>
+<section id="regeneron-pharmaceuticals---graphic-designer-july-2000---october-2005" class="level3">
+<h3>Regeneron Pharmaceuticals - Graphic designer, July 2000 - October 2005</h3>
 <ul>
 <li>Designing logos, banners, posters, fliers and presentation materials</li>
 <li>Preparing images for patent submission</li>

@@ -5,11 +5,11 @@
   <articleinfo>
     <title></title>
   </articleinfo>
-<sect1 id="brian-ephraim---senior-web-javascript-engineer-at-viggle-inc.">
-  <title><emphasis role="strong">Brian Ephraim</emphasis> - Senior Web /
-  Javascript Engineer at Viggle Inc.</title>
+<sect1 id="brian-ephraim---frontend-engineer-at-okcupid">
+  <title><emphasis role="strong">Brian Ephraim</emphasis> - Frontend
+  Engineer at OkCupid</title>
   <para>
-    Hell's Kitchen, New York, NY<literallayout>
+    Upper East Side, New York, NY<literallayout>
 </literallayout>914-482-2364<literallayout>
 </literallayout>brianephraim@gmail.com
     (<email>//brianephraim@gmail.com</email>)<literallayout>
@@ -38,18 +38,19 @@
       </listitem>
     </itemizedlist>
   </sect2>
-  <sect2 id="computer-environment">
-    <title>Computer environment</title>
+  <sect2 id="technology-experience">
+    <title>Technology experience</title>
     <sect3 id="javascript">
       <title>Javascript</title>
       <para>
-        jQuery - Angular - Backbone - Meteor - Grunt - Bower
+        Angular - jQuery - Grunt - RequireJs - WebSockets - AJAX -
+        Backbone - Meteor - Bower
       </para>
     </sect3>
     <sect3 id="css3">
       <title>CSS3</title>
       <para>
-        LESS - Sass - Bootstrap - Foundation
+        Sass - Bourbon - LESS - Bootstrap - Foundation
       </para>
     </sect3>
     <sect3 id="backend">
@@ -61,23 +62,39 @@
     <sect3 id="version-control">
       <title>Version Control</title>
       <para>
-        Git - GitHub - Bitbucket
-      </para>
-    </sect3>
-    <sect3 id="applications">
-      <title>Applications</title>
-      <para>
-        Chrome DevTools - Sublime2 - Terminal - Xcode - GitHub -
-        Photoshop
+        Git - SVN - CVS
       </para>
     </sect3>
   </sect2>
-  <sect2 id="advanced-capabilities">
-    <title>Advanced Capabilities</title>
-    <sect3 id="javascript-mvcmvw">
-      <title>Javascript MVC/MVW</title>
+  <sect2 id="expertise">
+    <title>Expertise</title>
+    <para>
+      Single page, mobile first, native-like web apps - Architecture -
+      Development - Deployment - Workflow - Backend integraion - API
+      modeling - Debugging - Product and feature design
+    </para>
+    <sect3 id="javascript-mvcmvw-application-architecture">
+      <title>Javascript MVC/MVW application architecture</title>
       <para>
-        Production of single page web apps from a variety of frameworks
+        Single page web apps delivery from a variety of frameworks
+      </para>
+    </sect3>
+    <sect3 id="integration-with-backend">
+      <title>Integration with backend</title>
+      <para>
+        Asset server requirement specification
+      </para>
+      <para>
+        API modeling collaboration
+      </para>
+    </sect3>
+    <sect3 id="development-environment">
+      <title>Development environment</title>
+      <para>
+        Development environemnt implementation with localhost server,
+        endpoint proxying, remote debugging, spritesheet generation,
+        deployment scripts, cache-busting mechanisms, and asset
+        compilation
       </para>
     </sect3>
     <sect3 id="css3js-animation">
@@ -88,34 +105,197 @@
         desktop browsers.
       </para>
     </sect3>
-    <sect3 id="touch-and-other-dom-event-control">
-      <title>Touch and other DOM event control</title>
+    <sect3 id="touch-and-other-dom-event-handling">
+      <title>Touch and other DOM event handling</title>
       <para>
-        Optimized user experience between touch and mouse interfaces,
-        for snappy, predictable, and draggable interaction.
+        Pinch-to-zoom, tap-and-drag, Tinder-style swipe cards, infinite
+        scroll, and pull-to-refersh implentation across mobile browsers.
       </para>
     </sect3>
     <sect3 id="responsive-design">
       <title>Responsive design</title>
       <para>
         Fluid CSS, Media queries, Retina vs non-retina, js window resize
-        and orientation handlers.
+        and orientation handler use.
       </para>
     </sect3>
     <sect3 id="mobile-debugging">
       <title>Mobile debugging</title>
       <para>
-        Solutions for bugs, and merging APIs and behaviors between
-        Android stock 2-4, Android Chrome, and iOs for issues concerning
-        scroll, forms, softkeyboard, and URL bar.
+        Resolution of cross-browser variance, idiosyncracies, and
+        limitations.
       </para>
     </sect3>
   </sect2>
   <sect2 id="professional-development">
     <title>Professional Development</title>
-    <sect3 id="viggle-inc.---senior-web-javascript-engineer-april-2013---present">
+    <sect3 id="okcupid---frontend-engineer-frontend-engineer-november-2013---present">
+      <title>OKCupid - Frontend Engineer, Frontend Engineer, November
+      2013 - Present</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            Implementing the front-end redesign of multiple mobile-web
+            dating properties
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Developing entire Angular single page mobile web apps from
+            the ground up
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Coding advanced, cross-browser features:
+          </para>
+          <itemizedlist>
+            <listitem>
+              <para>
+                infinite scroll
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                pull to refresh
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                pinch to zoom
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                photo upload
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                instant chats and notifications with web sockets
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Tinder-style card swiping
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                animated screen transitions with fluid framerates and 3D
+                effects
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                swipable image galleries
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                phone/tablet responsive
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                geolocation
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                sticky footers and headers
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                lazy loading javascript assets
+              </para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para>
+            Assembling featureful Grunt development environment:
+          </para>
+          <itemizedlist>
+            <listitem>
+              <para>
+                localhost server
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Weinre remote device debugging
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                effortless retina/non-retina spritesheet generation
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                endpoint proxying
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                deployment scripts
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                cache-busting mechanisms
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                asset compilation
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                git integration
+              </para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para>
+            Coding in both sole-ownership and team-contributor scenarios
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Migrating architecture between projects
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Collaborating closely with designers on product features
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Writing detailed specification documents for backend
+            developers
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            API modeling collaboration with backend developers
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Reaching millions of page views
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="viggle-inc.---senior-web-javascript-engineer-april-2013---october-2013">
       <title>Viggle Inc. - Senior Web / Javascript Engineer, April 2013
-      - Present</title>
+      - October 2013</title>
       <itemizedlist>
         <listitem>
           <para>
@@ -141,9 +321,9 @@
         </listitem>
       </itemizedlist>
     </sect3>
-    <sect3 id="inperson.in-blaboid-inc.---entrepreneur-november-2010---present">
+    <sect3 id="inperson.in-blaboid-inc.---entrepreneur-november-2010---april-2013">
       <title>inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 -
-      Present</title>
+      April 2013</title>
       <itemizedlist>
         <listitem>
           <para>
@@ -154,8 +334,8 @@
         </listitem>
         <listitem>
           <para>
-            Performing business coordination with lawyer, accountant,
-            and consultants.
+            Coordinating business needs with lawyer, accountant, and
+            consultants.
           </para>
         </listitem>
         <listitem>
@@ -234,8 +414,9 @@
         </listitem>
       </itemizedlist>
     </sect3>
-    <sect3 id="rail-europe---web-designer-2006---october-2010">
-      <title>Rail Europe - Web designer, 2006 - October 2010</title>
+    <sect3 id="rail-europe---web-designer-october-2006---october-2010">
+      <title>Rail Europe - Web designer, October 2006 - October
+      2010</title>
       <itemizedlist>
         <listitem>
           <para>
@@ -249,8 +430,22 @@
       <itemizedlist>
         <listitem>
           <para>
-            assembling and programming a technology platform for the
-            band's improvisational electronic music
+            writing songs
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            performing shows
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            audio engineering recordings
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            assembling and programming electronic instruments
           </para>
         </listitem>
         <listitem>
@@ -260,9 +455,9 @@
         </listitem>
       </itemizedlist>
     </sect3>
-    <sect3 id="regeneron-pharmaceuticals---graphic-designer-2000-2005">
-      <title>Regeneron Pharmaceuticals - Graphic designer,
-      2000-2005</title>
+    <sect3 id="regeneron-pharmaceuticals---graphic-designer-july-2000---october-2005">
+      <title>Regeneron Pharmaceuticals - Graphic designer, July 2000 -
+      October 2005</title>
       <itemizedlist>
         <listitem>
           <para>
