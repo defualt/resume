@@ -39,10 +39,10 @@ Git - SVN - CVS
 
 ---
 
-Expertise
+Service
 -----------
 
-Single page, mobile first, native-like web apps
+Mobile web app production
 - Architecture
 - Development
 - Deployment
@@ -54,21 +54,20 @@ Single page, mobile first, native-like web apps
 
 ---
 
-##Professional Development
+##Career
 
-###OKCupid - Frontend Engineer, Frontend Engineer, November 2013 - Present
-- Implementing the front-end redinesign of multiple mobile-web dating properties
-- Developing entire Angular single page mobile web apps from the ground up
-- Coding advanced, cross-browser features:
+###OKCupid - Frontend Engineer, November 2013 - Present
+- Developing Angular single page mobile web apps from the ground up
+- Coding features:
 	- infinite scroll
 	- pull to refresh
 	- pinch to zoom
 	- photo upload
-	- instant chats and notifications with web sockets
-	- Tinder-style card swiping
-	- animated screen transitions with fluid framerates and 3D effects
+	- instant chats and notifications with WebSockets
+	- Tinder-like card swiping
+	- animated screen transitions with 3D effects
 	- swipeable image galleries
-	- phone/tablet responsivele
+	- phone/tablet responsive
 	- geolocation
 	- sticky footers and headers
 	- lazy loading javascript assets

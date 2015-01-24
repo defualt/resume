@@ -66,35 +66,29 @@
       </para>
     </sect3>
   </sect2>
-  <sect2 id="expertise">
-    <title>Expertise</title>
+  <sect2 id="service">
+    <title>Service</title>
     <para>
-      Single page, mobile first, native-like web apps - Architecture -
-      Development - Deployment - Workflow - Backend integration - API
-      modeling - Debugging - Product and feature design
+      Mobile web app production - Architecture - Development -
+      Deployment - Workflow - Backend integration - API modeling -
+      Debugging - Product and feature design
     </para>
   </sect2>
-  <sect2 id="professional-development">
-    <title>Professional Development</title>
-    <sect3 id="okcupid---frontend-engineer-frontend-engineer-november-2013---present">
-      <title>OKCupid - Frontend Engineer, Frontend Engineer, November
-      2013 - Present</title>
+  <sect2 id="career">
+    <title>Career</title>
+    <sect3 id="okcupid---frontend-engineer-november-2013---present">
+      <title>OKCupid - Frontend Engineer, November 2013 -
+      Present</title>
       <itemizedlist>
         <listitem>
           <para>
-            Implementing the front-end redinesign of multiple mobile-web
-            dating properties
+            Developing Angular single page mobile web apps from the
+            ground up
           </para>
         </listitem>
         <listitem>
           <para>
-            Developing entire Angular single page mobile web apps from
-            the ground up
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            Coding advanced, cross-browser features:
+            Coding features:
           </para>
           <itemizedlist>
             <listitem>
@@ -119,18 +113,17 @@
             </listitem>
             <listitem>
               <para>
-                instant chats and notifications with web sockets
+                instant chats and notifications with WebSockets
               </para>
             </listitem>
             <listitem>
               <para>
-                Tinder-style card swiping
+                Tinder-like card swiping
               </para>
             </listitem>
             <listitem>
               <para>
-                animated screen transitions with fluid framerates and 3D
-                effects
+                animated screen transitions with 3D effects
               </para>
             </listitem>
             <listitem>
@@ -140,7 +133,7 @@
             </listitem>
             <listitem>
               <para>
-                phone/tablet responsivele
+                phone/tablet responsive
               </para>
             </listitem>
             <listitem>

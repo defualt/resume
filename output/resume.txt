@@ -52,38 +52,35 @@ Git - SVN - CVS
 
 '''''
 
-[[expertise]]
-Expertise
-~~~~~~~~~
+[[service]]
+Service
+~~~~~~~
 
-Single page, mobile first, native-like web apps - Architecture -
-Development - Deployment - Workflow - Backend integration - API modeling
-- Debugging - Product and feature design
+Mobile web app production - Architecture - Development - Deployment -
+Workflow - Backend integration - API modeling - Debugging - Product and
+feature design
 
 '''''
 
-[[professional-development]]
-Professional Development
-~~~~~~~~~~~~~~~~~~~~~~~~
+[[career]]
+Career
+~~~~~~
 
-[[okcupid---frontend-engineer-frontend-engineer-november-2013---present]]
-OKCupid - Frontend Engineer, Frontend Engineer, November 2013 - Present
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[[okcupid---frontend-engineer-november-2013---present]]
+OKCupid - Frontend Engineer, November 2013 - Present
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Implementing the front-end redinesign of multiple mobile-web dating
-properties
-* Developing entire Angular single page mobile web apps from the ground
-up
-* Coding advanced, cross-browser features:
+* Developing Angular single page mobile web apps from the ground up
+* Coding features:
 ** infinite scroll
 ** pull to refresh
 ** pinch to zoom
 ** photo upload
-** instant chats and notifications with web sockets
-** Tinder-style card swiping
-** animated screen transitions with fluid framerates and 3D effects
+** instant chats and notifications with WebSockets
+** Tinder-like card swiping
+** animated screen transitions with 3D effects
 ** swipeable image galleries
-** phone/tablet responsivele
+** phone/tablet responsive
 ** geolocation
 ** sticky footers and headers
 ** lazy loading javascript assets
