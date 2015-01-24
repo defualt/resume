@@ -70,7 +70,7 @@
     <title>Expertise</title>
     <para>
       Single page, mobile first, native-like web apps - Architecture -
-      Development - Deployment - Workflow - Backend integraion - API
+      Development - Deployment - Workflow - Backend integration - API
       modeling - Debugging - Product and feature design
     </para>
   </sect2>
@@ -82,7 +82,7 @@
       <itemizedlist>
         <listitem>
           <para>
-            Implementing the front-end redesign of multiple mobile-web
+            Implementing the front-end redinesign of multiple mobile-web
             dating properties
           </para>
         </listitem>
@@ -135,12 +135,12 @@
             </listitem>
             <listitem>
               <para>
-                swipable image galleries
+                swipeable image galleries
               </para>
             </listitem>
             <listitem>
               <para>
-                phone/tablet responsive
+                phone/tablet responsivele
               </para>
             </listitem>
             <listitem>

@@ -47,7 +47,7 @@ Single page, mobile first, native-like web apps
 - Development
 - Deployment
 - Workflow
-- Backend integraion
+- Backend integration
 - API modeling
 - Debugging
 - Product and feature design
@@ -57,7 +57,7 @@ Single page, mobile first, native-like web apps
 ##Professional Development
 
 ###OKCupid - Frontend Engineer, Frontend Engineer, November 2013 - Present
-- Implementing the front-end redesign of multiple mobile-web dating properties
+- Implementing the front-end redinesign of multiple mobile-web dating properties
 - Developing entire Angular single page mobile web apps from the ground up
 - Coding advanced, cross-browser features:
 	- infinite scroll
@@ -67,8 +67,8 @@ Single page, mobile first, native-like web apps
 	- instant chats and notifications with web sockets
 	- Tinder-style card swiping
 	- animated screen transitions with fluid framerates and 3D effects
-	- swipable image galleries
-	- phone/tablet responsive
+	- swipeable image galleries
+	- phone/tablet responsivele
 	- geolocation
 	- sticky footers and headers
 	- lazy loading javascript assets
