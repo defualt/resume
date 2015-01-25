@@ -10,7 +10,8 @@
 | github: `github.com/defualt <http://github.com/defualt>`__
 | work sample:
 `m.datehookup.com <http://m.datehookup.com/app/start/?forcesquash>`__
----
+
+--------------
 
 Objective
 ---------

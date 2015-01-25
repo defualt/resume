@@ -10,7 +10,9 @@ linkedin:
 http://www.linkedin.com/profile/view?id=112481106[linkedin.com/profile/view?id=112481106] +
 github: http://github.com/defualt[github.com/defualt] +
 work sample:
-http://m.datehookup.com/app/start/?forcesquash[m.datehookup.com] —
+http://m.datehookup.com/app/start/?forcesquash[m.datehookup.com]
+
+'''''
 
 [[objective]]
 Objective
