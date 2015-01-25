@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                  "http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd">
+<article>
+  <articleinfo>
+    <title></title>
+  </articleinfo>
+<sect1 id="brian-ephraim---frontend-engineer-at-okcupid">
+  <title><emphasis role="strong">Brian Ephraim</emphasis> - Frontend
+  Engineer at OkCupid</title>
+  <para>
+    Upper East Side, New York, NY<literallayout>
+</literallayout>914-482-2364<literallayout>
+</literallayout>email: brianephraim@gmail.com
+    (<email>//brianephraim@gmail.com</email>)<literallayout>
+</literallayout>twitter:
+    <ulink url="http://twitter.com/brianephraim">@brianephraim</ulink><literallayout>
+</literallayout>linkedin:
+    <ulink url="http://www.linkedin.com/profile/view?id=112481106">linkedin.com/profile/view?id=112481106</ulink><literallayout>
+</literallayout>github:
+    <ulink url="http://github.com/defualt">github.com/defualt</ulink><literallayout>
+</literallayout>work sample:
+    <ulink url="http://m.datehookup.com/app/start/?forcesquash">m.datehookup.com</ulink>
+  </para>
+  <sect2 id="objective">
+    <title>Objective</title>
+    <para>
+      Frontend Lead for ground-up build of mobile web app, responsible
+      for architecture, development, feature design, deployment,
+      workflow, integration with backend, API modeling, and debugging.
+    </para>
+  </sect2>
+  <sect2 id="ideal-environment-from-experience">
+    <title>Ideal environment from experience</title>
+    <para>
+      Angular - jQuery - Node - Grunt - libSass - Git - AWS - RequireJs
+      - Ui-Router - Ui-Router Extras - VelocityJs - Weinre - Bower -
+      Yeoman - WebSockets - AJAX - Bourbon - ImageMagick - Sketch - OSX
+      - iTerm - Sublime - iOs Simulator - Genymotion
+    </para>
+  </sect2>
+  <sect2 id="other-technical-experience">
+    <title>Other technical experience</title>
+    <para>
+      Backbone - Meteor - MongoDB - LESS - Bootstrap - Foundation - PHP
+      - MySQL - SVN - CVS - Photoshop - Illustrator - InDesign
+    </para>
+  </sect2>
+  <sect2 id="career">
+    <title>Career</title>
+    <sect3 id="okcupid---frontend-engineer-november-2013---present">
+      <title>OKCupid - Frontend Engineer, November 2013 -
+      Present</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            Developing Angular single page mobile web apps from the
+            ground up
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Coding features, including:
+          </para>
+          <itemizedlist>
+            <listitem>
+              <para>
+                infinite scroll
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                pull to refresh
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                pinch to zoom
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                photo upload
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                instant chats and notifications with WebSockets
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Tinder-like card swiping
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                animated screen transitions with 3D effects
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                swipeable image galleries
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                phone/tablet responsive
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                geolocation
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                sticky footers and headers
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                lazy loading javascript assets
+              </para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para>
+            Assembling Grunt development environment, including:
+          </para>
+          <itemizedlist>
+            <listitem>
+              <para>
+                localhost server
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Weinre remote device debugging
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                effortless retina/non-retina spritesheet generation
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                endpoint proxying
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                deployment scripts for a variety of asset servers,
+                including AWS
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                cache-busting mechanisms
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                asset compilation
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                rollback functionality
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                git integration
+              </para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para>
+            Owning an entire codebase
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Migrating architecture between projects
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Collaborating closely with designers on product features
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Writing detailed specification documents for backend
+            developers
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            API modeling collaboration with backend developers
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Reaching millions of page views
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="viggle-inc.---senior-web-javascript-engineer-april-2013---october-2013">
+      <title>Viggle Inc. - Senior Web / Javascript Engineer, April 2013
+      - October 2013</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            Developing an AngularJs single page app within a hybrid iPad
+            app
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Directing and merging code contributions
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Coordinating production deployment
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Estimating tasks, researching technology, and planning for
+            future initiatives
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="inperson.in-blaboid-inc.---entrepreneur-november-2010---april-2013">
+      <title>inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 -
+      April 2013</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            Launching an innovative social networking platform
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Coordinating business needs with lawyer, accountant, and
+            consultants.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Developing the platform, consisting of a single page HTML5
+            Backbone mobile web app with user generated content, hosted
+            on Amazon, with PHP/MySQL backend.
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="alexander-interactive---front-end-web-developer-may-2011---march-2012">
+      <title>Alexander Interactive - Front End Web Developer, May 2011 -
+      March 2012</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            Serving E-commerce clients such as Lowe’s Home Improvement.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Doing agile with daily scrum calls, sprint planning/review,
+            and demos for executive product owners.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Flying to client corporate headquarters for onsite
+            consulting.
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="kickappskit-digital---front-end-web-developer-october-2010---may-2011">
+      <title>KickApps/Kit Digital - Front End Web Developer, October
+      2010 - May 2011</title>
+      <para>
+        Developing social portals for such clients as:
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+            The Doctor Oz TV Show
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            MIT University
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Penguin publishers
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Book Of Cool
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Squabbler
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Sharecare
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Leap4Life
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="rail-europe---web-designer-october-2006---october-2010">
+      <title>Rail Europe - Web designer, October 2006 - October
+      2010</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            developing mobile and desktop web front end
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="epoch---audio-engineerguitarist-2005---2006">
+      <title>Epoch - Audio Engineer/Guitarist, 2005 - 2006</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            writing songs
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            performing shows
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            audio engineering recordings
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            assembling and programming electronic instruments
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            building the band’s website
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="regeneron-pharmaceuticals---graphic-designer-july-2000---october-2005">
+      <title>Regeneron Pharmaceuticals - Graphic designer, July 2000 -
+      October 2005</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            Designing logos, banners, posters, fliers and presentation
+            materials
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Preparing images for patent submission
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Formatting scientific imagery for publication
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+  </sect2>
+  <sect2 id="education">
+    <title>Education</title>
+    <para>
+      Philosophy Major, Bachelor of Arts, Ithaca College, Ithaca, NY
+    </para>
+  </sect2>
+</sect1>
+</article>
