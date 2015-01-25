@@ -122,7 +122,10 @@ task :all => [
 
 
 desc "Push to GitHub"
-task :push => [:ci] do
+task :push do
+  system("git add -A .")
+  system("git commit -m 'Updating resume on master'")
+  system("git push -u origin master")
   system("git checkout gh-pages")
   system("git checkout -f master index.html")
   system("git add index.html")
