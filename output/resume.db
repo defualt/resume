@@ -18,60 +18,38 @@
 </literallayout><ulink url="http://github.com/defualt">github.com/defualt</ulink><literallayout>
 </literallayout><ulink url="https://gist.github.com/defualt">gist.github.com/defualt</ulink>
   </para>
-  <sect2 id="code-samples-unminified-view-source">
-    <title>Code samples (unminified, view source)</title>
+  <sect2 id="work-sample">
+    <title>Work sample</title>
     <itemizedlist>
       <listitem>
         <para>
-          <ulink url="http://defualt.github.io/sloganizer/">defualt.github.io/sloganizer/</ulink>
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          <ulink url="http://defualt.github.io/accordionizer/">defualt.github.io/accordionizer/</ulink>
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          <ulink url="http://www.inperson.in">www.inperson.in</ulink>
+          <ulink url="http://m.datehookup.com/app/start/?forcesquash">m.datehookup.com</ulink>
         </para>
       </listitem>
     </itemizedlist>
   </sect2>
-  <sect2 id="technology-experience">
-    <title>Technology experience</title>
-    <sect3 id="javascript">
-      <title>Javascript</title>
-      <para>
-        Angular - jQuery - Grunt - RequireJs - WebSockets - AJAX -
-        Backbone - Meteor - Bower
-      </para>
-    </sect3>
-    <sect3 id="css3">
-      <title>CSS3</title>
-      <para>
-        Sass - Bourbon - LESS - Bootstrap - Foundation
-      </para>
-    </sect3>
-    <sect3 id="backend">
-      <title>Backend</title>
-      <para>
-        Node - MongoDB - AWS - PHP - MySQL
-      </para>
-    </sect3>
-    <sect3 id="version-control">
-      <title>Version Control</title>
-      <para>
-        Git - SVN - CVS
-      </para>
-    </sect3>
+  <sect2 id="ideal-environment-from-experience">
+    <title>Ideal environment from experience</title>
+    <para>
+      Angular - jQuery - Node - Grunt - libSass - Git - AWS - RequireJs
+      - Ui-Router - Ui-Router Extras - VelocityJs - Weinre - Bower -
+      Yeoman - WebSockets - AJAX - Bourbon - ImageMagick - Sketch - OSX
+      - iTerm - Sublime - iOs Simulator - Genymotion
+    </para>
+  </sect2>
+  <sect2 id="other-technical-experience">
+    <title>Other technical experience</title>
+    <para>
+      Backbone - Meteor - MongoDB - LESS - Bootstrap - Foundation - PHP
+      - MySQL - SVN - CVS - Photoshop - Illustrator - InDesign
+    </para>
   </sect2>
   <sect2 id="service">
     <title>Service</title>
     <para>
-      Mobile web app production - Architecture - Development -
-      Deployment - Workflow - Backend integration - API modeling -
-      Debugging - Product and feature design
+      Mobile web app production, involving architecture, development,
+      product and feature design, deployment, workflow, backend
+      integration, API modeling, and debugging.
     </para>
   </sect2>
   <sect2 id="career">
@@ -88,7 +66,7 @@
         </listitem>
         <listitem>
           <para>
-            Coding features:
+            Coding features, including:
           </para>
           <itemizedlist>
             <listitem>
@@ -155,7 +133,7 @@
         </listitem>
         <listitem>
           <para>
-            Assembling featureful Grunt development environment:
+            Assembling Grunt development environment, including:
           </para>
           <itemizedlist>
             <listitem>
@@ -180,7 +158,8 @@
             </listitem>
             <listitem>
               <para>
-                deployment scripts
+                deployment scripts for a variety of asset servers,
+                including AWS
               </para>
             </listitem>
             <listitem>
@@ -195,6 +174,11 @@
             </listitem>
             <listitem>
               <para>
+                rollback functionality
+              </para>
+            </listitem>
+            <listitem>
+              <para>
                 git integration
               </para>
             </listitem>
@@ -202,7 +186,7 @@
         </listitem>
         <listitem>
           <para>
-            Coding in both sole-ownership and team-contributor scenarios
+            Owning an entire codebase
           </para>
         </listitem>
         <listitem>
@@ -239,24 +223,24 @@
       <itemizedlist>
         <listitem>
           <para>
-            Architecting an AngularJs HTML5 app within a hybrid iPad app
-            with transactional functionality.
+            Developing an AngularJs single page app within a hybrid iPad
+            app
           </para>
         </listitem>
         <listitem>
           <para>
-            Directing and merging code contributions.
+            Directing and merging code contributions
           </para>
         </listitem>
         <listitem>
           <para>
-            Coordinating production deployment.
+            Coordinating production deployment
           </para>
         </listitem>
         <listitem>
           <para>
             Estimating tasks, researching technology, and planning for
-            future initiatives.
+            future initiatives
           </para>
         </listitem>
       </itemizedlist>
@@ -267,9 +251,7 @@
       <itemizedlist>
         <listitem>
           <para>
-            Launching a privacy focused social networking platform for
-            finding people to meet in person to do activities or have
-            conversations.
+            Launching an innovative social networking platform
           </para>
         </listitem>
         <listitem>
@@ -281,8 +263,8 @@
         <listitem>
           <para>
             Developing the platform, consisting of a single page HTML5
-            mobile web app with user generated content, hosted on
-            Amazon, with PHP/MySQL backend.
+            Backbone mobile web app with user generated content, hosted
+            on Amazon, with PHP/MySQL backend.
           </para>
         </listitem>
       </itemizedlist>
@@ -390,7 +372,7 @@
         </listitem>
         <listitem>
           <para>
-            building the band's website
+            building the band’s website
           </para>
         </listitem>
       </itemizedlist>

@@ -8,49 +8,25 @@ Upper East Side, New York, NY
 [github.com/defualt](http://github.com/defualt)  
 [gist.github.com/defualt](https://gist.github.com/defualt) 
 
-##Code samples (unminified, view source)
+##Work sample
 
-* [defualt.github.io/sloganizer/](http://defualt.github.io/sloganizer/)
-
-* [defualt.github.io/accordionizer/](http://defualt.github.io/accordionizer/)
-
-* [www.inperson.in](http://www.inperson.in)
+* [m.datehookup.com](http://m.datehookup.com/app/start/?forcesquash)
 
 ---
 
-##Technology experience
+##Ideal environment from experience
 
-###Javascript
+Angular - jQuery - Node - Grunt - libSass - Git - AWS - RequireJs - Ui-Router - Ui-Router Extras - VelocityJs - Weinre - Bower - Yeoman - WebSockets - AJAX - Bourbon - ImageMagick - Sketch - OSX - iTerm - Sublime - iOs Simulator - Genymotion
 
-Angular - jQuery - Grunt - RequireJs - WebSockets - AJAX - Backbone - Meteor - Bower
+##Other technical experience
 
-###CSS3
-
-Sass - Bourbon - LESS - Bootstrap - Foundation
-
-###Backend
-
-Node - MongoDB - AWS - PHP - MySQL
-
-###Version Control
-
-Git - SVN - CVS
-
+Backbone - Meteor - MongoDB - LESS - Bootstrap - Foundation - PHP - MySQL - SVN - CVS - Photoshop - Illustrator - InDesign
 
 ---
 
-Service
------------
+##Service
 
-Mobile web app production
-- Architecture
-- Development
-- Deployment
-- Workflow
-- Backend integration
-- API modeling
-- Debugging
-- Product and feature design
+Mobile web app production, involving architecture, development, product and feature design, deployment, workflow, backend integration, API modeling, and debugging.
 
 ---
 
@@ -58,7 +34,7 @@ Mobile web app production
 
 ###OKCupid - Frontend Engineer, November 2013 - Present
 - Developing Angular single page mobile web apps from the ground up
-- Coding features:
+- Coding features, including:
 	- infinite scroll
 	- pull to refresh
 	- pinch to zoom
@@ -71,16 +47,17 @@ Mobile web app production
 	- geolocation
 	- sticky footers and headers
 	- lazy loading javascript assets
-- Assembling featureful Grunt development environment:
+- Assembling Grunt development environment, including:
 	- localhost server
 	- Weinre remote device debugging
 	- effortless retina/non-retina spritesheet generation
 	- endpoint proxying
-	- deployment scripts
+	- deployment scripts for a variety of asset servers, including AWS
 	- cache-busting mechanisms
 	- asset compilation
+	- rollback functionality
 	- git integration
-- Coding in both sole-ownership and team-contributor scenarios
+- Owning an entire codebase
 - Migrating architecture between projects
 - Collaborating closely with designers on product features
 - Writing detailed specification documents for backend developers
@@ -89,16 +66,16 @@ Mobile web app production
 
 
 ###Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - October 2013
-- Architecting an AngularJs HTML5 app within a hybrid iPad app with transactional functionality.
-- Directing and merging code contributions.
-- Coordinating production deployment.
-- Estimating tasks, researching technology, and planning for future initiatives.
+- Developing an AngularJs single page app within a hybrid iPad app
+- Directing and merging code contributions
+- Coordinating production deployment
+- Estimating tasks, researching technology, and planning for future initiatives
 
 
 ###inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - April 2013
-- Launching a privacy focused social networking platform for finding people to meet in person to do activities or have conversations.
+- Launching an innovative social networking platform
 - Coordinating business needs with lawyer, accountant, and consultants.
-- Developing the platform, consisting of a single page HTML5 mobile web app with user generated content, hosted on Amazon, with PHP/MySQL backend.
+- Developing the platform, consisting of a single page HTML5 Backbone mobile web app with user generated content, hosted on Amazon, with PHP/MySQL backend.
 
 
 ###Alexander Interactive - Front End Web Developer, May 2011 - March 2012
@@ -126,7 +103,7 @@ Developing social portals for such clients as:
 - performing shows
 - audio engineering recordings
 - assembling and programming electronic instruments
-- building the band\'s website 
+- building the band's website 
 
 ###Regeneron Pharmaceuticals - Graphic designer, July 2000 - October 2005
 - Designing logos, banners, posters, fliers and presentation materials
