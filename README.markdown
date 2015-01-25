@@ -2,15 +2,16 @@
 
 Upper East Side, New York, NY  
 914-482-2364  
-[brianephraim@gmail.com](mailto://brianephraim@gmail.com)  
-[@brianephraim](http://twitter.com/brianephraim)   
-[linkedin.com/profile/view?id=112481106](http://www.linkedin.com/profile/view?id=112481106)  
-[github.com/defualt](http://github.com/defualt)  
-[gist.github.com/defualt](https://gist.github.com/defualt) 
+email: [brianephraim@gmail.com](mailto://brianephraim@gmail.com)  
+twitter: [@brianephraim](http://twitter.com/brianephraim)   
+linkedin: [linkedin.com/profile/view?id=112481106](http://www.linkedin.com/profile/view?id=112481106)  
+github: [github.com/defualt](http://github.com/defualt)  
+work sample: [m.datehookup.com](http://m.datehookup.com/app/start/?forcesquash)
+---
 
-##Work sample
+##Objective
 
-* [m.datehookup.com](http://m.datehookup.com/app/start/?forcesquash)
+Frontend Lead for ground-up build of mobile web app, responsible for architecture, development, feature design, deployment, workflow, integration with backend, API modeling, and debugging.
 
 ---
 
@@ -22,11 +23,7 @@ Angular - jQuery - Node - Grunt - libSass - Git - AWS - RequireJs - Ui-Router - 
 
 Backbone - Meteor - MongoDB - LESS - Bootstrap - Foundation - PHP - MySQL - SVN - CVS - Photoshop - Illustrator - InDesign
 
----
 
-##Service
-
-Mobile web app production, involving architecture, development, product and feature design, deployment, workflow, backend integration, API modeling, and debugging.
 
 ---
 

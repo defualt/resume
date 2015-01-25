@@ -11,22 +11,25 @@
   <para>
     Upper East Side, New York, NY<literallayout>
 </literallayout>914-482-2364<literallayout>
-</literallayout>brianephraim@gmail.com
+</literallayout>email: brianephraim@gmail.com
     (<email>//brianephraim@gmail.com</email>)<literallayout>
-</literallayout><ulink url="http://twitter.com/brianephraim">@brianephraim</ulink><literallayout>
-</literallayout><ulink url="http://www.linkedin.com/profile/view?id=112481106">linkedin.com/profile/view?id=112481106</ulink><literallayout>
-</literallayout><ulink url="http://github.com/defualt">github.com/defualt</ulink><literallayout>
-</literallayout><ulink url="https://gist.github.com/defualt">gist.github.com/defualt</ulink>
+</literallayout>twitter:
+    <ulink url="http://twitter.com/brianephraim">@brianephraim</ulink><literallayout>
+</literallayout>linkedin:
+    <ulink url="http://www.linkedin.com/profile/view?id=112481106">linkedin.com/profile/view?id=112481106</ulink><literallayout>
+</literallayout>github:
+    <ulink url="http://github.com/defualt">github.com/defualt</ulink><literallayout>
+</literallayout>work sample:
+    <ulink url="http://m.datehookup.com/app/start/?forcesquash">m.datehookup.com</ulink>
+    —
   </para>
-  <sect2 id="work-sample">
-    <title>Work sample</title>
-    <itemizedlist>
-      <listitem>
-        <para>
-          <ulink url="http://m.datehookup.com/app/start/?forcesquash">m.datehookup.com</ulink>
-        </para>
-      </listitem>
-    </itemizedlist>
+  <sect2 id="objective">
+    <title>Objective</title>
+    <para>
+      Frontend Lead for ground-up build of mobile web app, responsible
+      for architecture, development, feature design, deployment,
+      workflow, integration with backend, API modeling, and debugging.
+    </para>
   </sect2>
   <sect2 id="ideal-environment-from-experience">
     <title>Ideal environment from experience</title>
@@ -42,14 +45,6 @@
     <para>
       Backbone - Meteor - MongoDB - LESS - Bootstrap - Foundation - PHP
       - MySQL - SVN - CVS - Photoshop - Illustrator - InDesign
-    </para>
-  </sect2>
-  <sect2 id="service">
-    <title>Service</title>
-    <para>
-      Mobile web app production, involving architecture, development,
-      product and feature design, deployment, workflow, backend
-      integration, API modeling, and debugging.
     </para>
   </sect2>
   <sect2 id="career">
