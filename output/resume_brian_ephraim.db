@@ -65,6 +65,11 @@
           <itemizedlist>
             <listitem>
               <para>
+                enhanced UX with touch events and animation
+              </para>
+            </listitem>
+            <listitem>
+              <para>
                 infinite scroll
               </para>
             </listitem>
@@ -180,6 +185,11 @@
         </listitem>
         <listitem>
           <para>
+            Enhancing UX with touch events and animation
+          </para>
+        </listitem>
+        <listitem>
+          <para>
             Owning an entire codebase
           </para>
         </listitem>
@@ -263,8 +273,8 @@
         </listitem>
       </itemizedlist>
     </sect3>
-    <sect3 id="alexander-interactive---front-end-web-developer-may-2011---march-2012">
-      <title>Alexander Interactive - Front End Web Developer, May 2011 -
+    <sect3 id="alexander-interactive---frontend-web-developer-may-2011---march-2012">
+      <title>Alexander Interactive - Frontend Web Developer, May 2011 -
       March 2012</title>
       <itemizedlist>
         <listitem>
@@ -286,9 +296,9 @@
         </listitem>
       </itemizedlist>
     </sect3>
-    <sect3 id="kickappskit-digital---front-end-web-developer-october-2010---may-2011">
-      <title>KickApps/Kit Digital - Front End Web Developer, October
-      2010 - May 2011</title>
+    <sect3 id="kickappskit-digital---frontend-web-developer-october-2010---may-2011">
+      <title>KickApps/Kit Digital - Frontend Web Developer, October 2010
+      - May 2011</title>
       <para>
         Developing social portals for such clients as:
       </para>
@@ -336,17 +346,27 @@
       <itemizedlist>
         <listitem>
           <para>
-            developing mobile and desktop web front end
+            developing mobile and desktop e-commerce web frontend
           </para>
         </listitem>
       </itemizedlist>
     </sect3>
-    <sect3 id="epoch---audio-engineerguitarist-2005---2006">
-      <title>Epoch - Audio Engineer/Guitarist, 2005 - 2006</title>
+    <sect3 id="epoch---guitarist-september-2003---october-2006">
+      <title>Epoch - Guitarist, September 2003 - October 2006</title>
       <itemizedlist>
         <listitem>
           <para>
             writing songs
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            engineering audio
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            producing albums
           </para>
         </listitem>
         <listitem>
@@ -361,12 +381,12 @@
         </listitem>
         <listitem>
           <para>
-            assembling and programming electronic instruments
+            building and programming electronic instruments
           </para>
         </listitem>
         <listitem>
           <para>
-            building the band’s website
+            creating the band’s website
           </para>
         </listitem>
       </itemizedlist>
@@ -397,7 +417,7 @@
   <sect2 id="education">
     <title>Education</title>
     <para>
-      Philosophy Major, Bachelor of Arts, Ithaca College, Ithaca, NY
+      2003 Ithaca College, Ithaca NY, Bachelor of Arts, Philosophy Major
     </para>
   </sect2>
 </sect1>

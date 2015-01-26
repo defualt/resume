@@ -33,6 +33,7 @@ Backbone - Meteor - MongoDB - LESS - Bootstrap - Foundation - PHP - MySQL - SVN 
 ###OKCupid - Frontend Engineer, November 2013 - Present
 - Developing Angular single page mobile web apps from the ground up
 - Coding features, including:
+	- enhanced UX with touch events and animation
 	- infinite scroll
 	- pull to refresh
 	- pinch to zoom
@@ -55,6 +56,7 @@ Backbone - Meteor - MongoDB - LESS - Bootstrap - Foundation - PHP - MySQL - SVN 
 	- asset compilation
 	- rollback functionality
 	- git integration
+- Enhancing UX with touch events and animation
 - Owning an entire codebase
 - Migrating architecture between projects
 - Collaborating closely with designers on product features
@@ -76,13 +78,13 @@ Backbone - Meteor - MongoDB - LESS - Bootstrap - Foundation - PHP - MySQL - SVN 
 - Developing the platform, consisting of a single page HTML5 Backbone mobile web app with user generated content, hosted on Amazon, with PHP/MySQL backend.
 
 
-###Alexander Interactive - Front End Web Developer, May 2011 - March 2012
+###Alexander Interactive - Frontend Web Developer, May 2011 - March 2012
 - Serving E-commerce clients such as Lowe's Home Improvement.
 - Doing agile with daily scrum calls, sprint planning/review, and demos for executive product owners.
 - Flying to client corporate headquarters for onsite consulting.
 
 
-###KickApps/Kit Digital - Front End Web Developer, October 2010 - May 2011
+###KickApps/Kit Digital - Frontend Web Developer, October 2010 - May 2011
 Developing social portals for such clients as:
 
 - The Doctor Oz TV Show
@@ -94,14 +96,16 @@ Developing social portals for such clients as:
 - Leap4Life
 
 ###Rail Europe - Web designer, October 2006 - October 2010
-- developing mobile and desktop web front end
+- developing mobile and desktop e-commerce web frontend
 
-###Epoch - Audio Engineer/Guitarist, 2005 - 2006
+###Epoch - Guitarist, September 2003 - October 2006
 - writing songs
+- engineering audio
+- producing albums
 - performing shows
 - audio engineering recordings
-- assembling and programming electronic instruments
-- building the band's website 
+- building and programming electronic instruments
+- creating the band's website 
 
 ###Regeneron Pharmaceuticals - Graphic designer, July 2000 - October 2005
 - Designing logos, banners, posters, fliers and presentation materials
@@ -111,4 +115,4 @@ Developing social portals for such clients as:
 ---
 
 ##Education
-Philosophy Major, Bachelor of Arts, Ithaca College, Ithaca, NY
+2003 Ithaca College, Ithaca NY, Bachelor of Arts, Philosophy Major 
