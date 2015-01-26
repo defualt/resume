@@ -1,5 +1,7 @@
 #**Brian Ephraim** - Frontend Engineer at OkCupid
 
+---
+
 Upper East Side, New York, NY  
 914-482-2364  
 email: [brianephraim@gmail.com](mailto://brianephraim@gmail.com)  
@@ -9,6 +11,7 @@ github: [github.com/defualt](http://github.com/defualt)
 work sample: [m.datehookup.com](http://m.datehookup.com/app/start/?forcesquash)
 
 ---
+
 
 ##Objective
 

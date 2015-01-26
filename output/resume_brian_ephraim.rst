@@ -1,6 +1,8 @@
 **Brian Ephraim** - Frontend Engineer at OkCupid
 ================================================
 
+--------------
+
 | Upper East Side, New York, NY
 | 914-482-2364
 | email: `brianephraim@gmail.com <mailto://brianephraim@gmail.com>`__
