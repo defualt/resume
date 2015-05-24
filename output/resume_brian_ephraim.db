@@ -20,30 +20,29 @@
 </literallayout>github:
     <ulink url="http://github.com/defualt">github.com/defualt</ulink><literallayout>
 </literallayout>work sample:
-    <ulink url="http://m.datehookup.com/app/start/?forcesquash">m.datehookup.com</ulink>
+    <ulink url="http://m.datehookup.com/app/start/?forcesquash">m.datehookup.com</ulink><literallayout>
+</literallayout>work sample:
+    <ulink url="http://mobile_web.okcupid.com">mobile_web.okcupid.com</ulink>
   </para>
   <sect2 id="objective">
     <title>Objective</title>
     <para>
-      Frontend Lead for ground-up build of mobile web app, responsible
-      for architecture, development, feature design, deployment,
-      workflow, integration with backend, API modeling, and debugging.
+      Frontend Lead for responsive web app, responsible for
+      architecture, development, feature design, workflow, deployment,
+      integration with backend, API modeling, debugging, task
+      delegation, team organization, and department representation.
     </para>
   </sect2>
-  <sect2 id="ideal-environment-from-experience">
-    <title>Ideal environment from experience</title>
+  <sect2 id="technical-experience-summary">
+    <title>Technical experience summary</title>
     <para>
-      Angular - jQuery - Node - Grunt - libSass - Git - AWS - RequireJs
-      - Ui-Router - Ui-Router Extras - VelocityJs - Weinre - Bower -
+      Javascipt - HTML5 - CSS3 - Angular - jQuery - Node - Grunt - Sass
+      - LESS - Git - Github - GitLab - BitBucket - AWS - RequireJs -
+      Ui-Router - Ui-Router Extras - VelocityJs - Weinre - Bower -
       Yeoman - WebSockets - AJAX - Bourbon - ImageMagick - Sketch - OSX
-      - iTerm - Sublime - iOs Simulator - Genymotion
-    </para>
-  </sect2>
-  <sect2 id="other-technical-experience">
-    <title>Other technical experience</title>
-    <para>
-      Backbone - Meteor - MongoDB - LESS - Bootstrap - Foundation - PHP
-      - MySQL - SVN - CVS - Photoshop - Illustrator - InDesign
+      - iTerm - Bash - Sublime - iOs Simulator - Genymotion - Backbone -
+      Meteor - MongoDB - Bootstrap - Foundation - PHP - MySQL - SVN -
+      CVS - Photoshop - Illustrator - InDesign
     </para>
   </sect2>
   <sect2 id="career">
@@ -219,6 +218,11 @@
             Reaching millions of page views
           </para>
         </listitem>
+        <listitem>
+          <para>
+            Pixel perfect styling
+          </para>
+        </listitem>
       </itemizedlist>
     </sect3>
     <sect3 id="viggle-inc.---senior-web-javascript-engineer-april-2013---october-2013">
@@ -233,12 +237,17 @@
         </listitem>
         <listitem>
           <para>
-            Directing and merging code contributions
+            Delegating tasks to other frontend engineers
           </para>
         </listitem>
         <listitem>
           <para>
-            Coordinating production deployment
+            merging code contributions
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Coordinating production deployment with backend
           </para>
         </listitem>
         <listitem>
@@ -261,14 +270,14 @@
         <listitem>
           <para>
             Coordinating business needs with lawyer, accountant, and
-            consultants.
+            consultants
           </para>
         </listitem>
         <listitem>
           <para>
             Developing the platform, consisting of a single page HTML5
             Backbone mobile web app with user generated content, hosted
-            on Amazon, with PHP/MySQL backend.
+            on Amazon, with PHP/MySQL backend
           </para>
         </listitem>
       </itemizedlist>
@@ -279,7 +288,8 @@
       <itemizedlist>
         <listitem>
           <para>
-            Serving E-commerce clients such as Lowe’s Home Improvement.
+            Serving E-commerce clients such as Lowe’s Home Improvement
+            and Adorama.
           </para>
         </listitem>
         <listitem>
@@ -294,48 +304,62 @@
             consulting.
           </para>
         </listitem>
+        <listitem>
+          <para>
+            Working with distributed team members via Skype and email.
+          </para>
+        </listitem>
       </itemizedlist>
     </sect3>
     <sect3 id="kickappskit-digital---frontend-web-developer-october-2010---may-2011">
       <title>KickApps/Kit Digital - Frontend Web Developer, October 2010
       - May 2011</title>
-      <para>
-        Developing social portals for such clients as:
-      </para>
       <itemizedlist>
         <listitem>
           <para>
-            The Doctor Oz TV Show
+            Developing social portals for such clients as:
           </para>
+          <itemizedlist>
+            <listitem>
+              <para>
+                The Doctor Oz TV Show
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                MIT University
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Penguin publishers
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Book Of Cool
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Squabbler
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Sharecare
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Leap4Life
+              </para>
+            </listitem>
+          </itemizedlist>
         </listitem>
         <listitem>
           <para>
-            MIT University
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            Penguin publishers
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            Book Of Cool
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            Squabbler
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            Sharecare
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            Leap4Life
+            Working with distributed team members via Skype and email.
           </para>
         </listitem>
       </itemizedlist>
@@ -376,11 +400,6 @@
         </listitem>
         <listitem>
           <para>
-            audio engineering recordings
-          </para>
-        </listitem>
-        <listitem>
-          <para>
             building and programming electronic instruments
           </para>
         </listitem>
@@ -408,7 +427,7 @@
         </listitem>
         <listitem>
           <para>
-            Formatting scientific imagery for publication
+            Formatting scientific imagery for jounral publication
           </para>
         </listitem>
       </itemizedlist>

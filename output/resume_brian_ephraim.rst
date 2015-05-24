@@ -12,31 +12,31 @@
 | github: `github.com/defualt <http://github.com/defualt>`__
 | work sample:
 `m.datehookup.com <http://m.datehookup.com/app/start/?forcesquash>`__
+| work sample:
+`mobile\_web.okcupid.com <http://mobile_web.okcupid.com>`__
 
 --------------
 
 Objective
 ---------
 
-Frontend Lead for ground-up build of mobile web app, responsible for
-architecture, development, feature design, deployment, workflow,
-integration with backend, API modeling, and debugging.
+Frontend Lead for responsive web app, responsible for architecture,
+development, feature design, workflow, deployment, integration with
+backend, API modeling, debugging, task delegation, team organization,
+and department representation.
 
 --------------
 
-Ideal environment from experience
----------------------------------
+Technical experience summary
+----------------------------
 
-Angular - jQuery - Node - Grunt - libSass - Git - AWS - RequireJs -
-Ui-Router - Ui-Router Extras - VelocityJs - Weinre - Bower - Yeoman -
-WebSockets - AJAX - Bourbon - ImageMagick - Sketch - OSX - iTerm -
-Sublime - iOs Simulator - Genymotion
-
-Other technical experience
---------------------------
-
-Backbone - Meteor - MongoDB - LESS - Bootstrap - Foundation - PHP -
-MySQL - SVN - CVS - Photoshop - Illustrator - InDesign
+Javascipt - HTML5 - CSS3 - Angular - jQuery - Node - Grunt - Sass - LESS
+- Git - Github - GitLab - BitBucket - AWS - RequireJs - Ui-Router -
+Ui-Router Extras - VelocityJs - Weinre - Bower - Yeoman - WebSockets -
+AJAX - Bourbon - ImageMagick - Sketch - OSX - iTerm - Bash - Sublime -
+iOs Simulator - Genymotion - Backbone - Meteor - MongoDB - Bootstrap -
+Foundation - PHP - MySQL - SVN - CVS - Photoshop - Illustrator -
+InDesign
 
 --------------
 
@@ -82,13 +82,15 @@ OKCupid - Frontend Engineer, November 2013 - Present
 -  Writing detailed specification documents for backend developers
 -  API modeling collaboration with backend developers
 -  Reaching millions of page views
+-  Pixel perfect styling
 
 Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - October 2013
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Developing an AngularJs single page app within a hybrid iPad app
--  Directing and merging code contributions
--  Coordinating production deployment
+-  Delegating tasks to other frontend engineers
+-  merging code contributions
+-  Coordinating production deployment with backend
 -  Estimating tasks, researching technology, and planning for future
    initiatives
 
@@ -96,31 +98,35 @@ inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - April 2013
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Launching an innovative social networking platform
--  Coordinating business needs with lawyer, accountant, and consultants.
+-  Coordinating business needs with lawyer, accountant, and consultants
 -  Developing the platform, consisting of a single page HTML5 Backbone
    mobile web app with user generated content, hosted on Amazon, with
-   PHP/MySQL backend.
+   PHP/MySQL backend
 
 Alexander Interactive - Frontend Web Developer, May 2011 - March 2012
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Serving E-commerce clients such as Lowe's Home Improvement.
+-  Serving E-commerce clients such as Lowe's Home Improvement and
+   Adorama.
 -  Doing agile with daily scrum calls, sprint planning/review, and demos
    for executive product owners.
 -  Flying to client corporate headquarters for onsite consulting.
+-  Working with distributed team members via Skype and email.
 
 KickApps/Kit Digital - Frontend Web Developer, October 2010 - May 2011
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Developing social portals for such clients as:
+-  Developing social portals for such clients as:
 
--  The Doctor Oz TV Show
--  MIT University
--  Penguin publishers
--  Book Of Cool
--  Squabbler
--  Sharecare
--  Leap4Life
+   -  The Doctor Oz TV Show
+   -  MIT University
+   -  Penguin publishers
+   -  Book Of Cool
+   -  Squabbler
+   -  Sharecare
+   -  Leap4Life
+
+-  Working with distributed team members via Skype and email.
 
 Rail Europe - Web designer, October 2006 - October 2010
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -134,7 +140,6 @@ Epoch - Guitarist, September 2003 - October 2006
 -  engineering audio
 -  producing albums
 -  performing shows
--  audio engineering recordings
 -  building and programming electronic instruments
 -  creating the band's website
 
@@ -143,7 +148,7 @@ Regeneron Pharmaceuticals - Graphic designer, July 2000 - October 2005
 
 -  Designing logos, banners, posters, fliers and presentation materials
 -  Preparing images for patent submission
--  Formatting scientific imagery for publication
+-  Formatting scientific imagery for jounral publication
 
 --------------
 
