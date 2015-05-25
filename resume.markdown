@@ -24,7 +24,7 @@ Frontend Lead for responsive web app, responsible for architecture, development,
 
 - scalable Angular responsive mobile web single page apps built from the ground up
 - touch, gesture, and animation features
-- browser performance and user experience optimizations
+- load time, browser performance and user experience optimizations
 - development environments
 - backend integration
 
@@ -75,6 +75,7 @@ Frontend Lead for responsive web app, responsible for architecture, development,
 	- rollback functionality
 	- git integration
 - Enhancing UX with touch events and animation
+- Optimizing load times with VanillaJs landing pages, asyncronous-on-demand asset loading, bundling, and compression
 - Owning an entire codebase
 - Sharing codebase with other front-end engineers
 - Tracking user events and analyzing behavioral trends
