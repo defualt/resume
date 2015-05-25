@@ -3,7 +3,7 @@
 
 --------------
 
-| Upper East Side, New York, NY
+| New York City
 | 914-482-2364
 | email: `brianephraim@gmail.com <mailto://brianephraim@gmail.com>`__
 | twitter: `@brianephraim <http://twitter.com/brianephraim>`__
@@ -27,16 +27,38 @@ and department representation.
 
 --------------
 
-Technical experience summary
-----------------------------
+Specialties
+-----------
 
-Javascipt - HTML5 - CSS3 - Angular - jQuery - Node - Grunt - Sass - LESS
-- Git - Github - GitLab - BitBucket - AWS - RequireJs - Ui-Router -
-Ui-Router Extras - VelocityJs - Weinre - Bower - Yeoman - WebSockets -
-AJAX - Bourbon - ImageMagick - Sketch - OSX - iTerm - Bash - Sublime -
-iOs Simulator - Genymotion - Backbone - Meteor - MongoDB - Bootstrap -
-Foundation - PHP - MySQL - SVN - CVS - Photoshop - Illustrator -
-InDesign
+-  scalable Angular responsive mobile web single page apps built from
+   the ground up
+-  touch, gesture, and animation features
+-  browser performance and user experience optimizations
+-  development environments
+-  backend integration
+
+Technical experience summary since July 2000
+--------------------------------------------
+
+| **Languages:** Javascript\* - HTML5\* - Sass\* - CSS3\* - Bash\* -
+LESS - PHP - SQL
+| **Libraries:** Angular\* - jQuery\* - RequireJs\* - Ui-Router\* -
+Ui-Router Extras\* - VelocityJs\* - Raven\* - Bourbon\* - Bootstrap -
+Foundation - Meteor - Backbone
+| **Servers:** Node\* - Apache
+| **CLI:** Grunt\* - Vagrant\* - ImageMagick\* - Bower\* - Yeoman
+| **Cloud services:** Sentry\* - Github\* - Amazon Web Services (AWS)\*
+- GitLab - BitBucket
+| **Network:** AJAX\* - Weinre\* - WebSockets\*
+| **Graphics Applications:** Photoshop\* - Illustrator - InDesign -
+Sketch
+| **Other Applications:** Sublime\* - iTerm2\* - Chrome Dev Tools\* -
+iOs Simulator\* - Genymotion\* - All the Browsers\*
+| **Version Control:** Git\* - SVN - CVS
+| **OS:** OSX\* - Windows 7/XP
+| **Databases:** MongoDB - MySQL
+
+*\* indicates current stack*
 
 --------------
 
@@ -77,7 +99,10 @@ OKCupid - Frontend Engineer, November 2013 - Present
 
 -  Enhancing UX with touch events and animation
 -  Owning an entire codebase
--  Migrating architecture between projects
+-  Sharing codebase with other front-end engineers
+-  Tracking user events and analyzing behavioral trends
+-  Organizing project roadmaps
+-  Transferring architecture and features between separate projects
 -  Collaborating closely with designers on product features
 -  Writing detailed specification documents for backend developers
 -  API modeling collaboration with backend developers
@@ -87,9 +112,8 @@ OKCupid - Frontend Engineer, November 2013 - Present
 Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - October 2013
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Developing an AngularJs single page app within a hybrid iPad app
+-  Owning the Angular codebase for two single page apps
 -  Delegating tasks to other frontend engineers
--  merging code contributions
 -  Coordinating production deployment with backend
 -  Estimating tasks, researching technology, and planning for future
    initiatives
@@ -148,7 +172,7 @@ Regeneron Pharmaceuticals - Graphic designer, July 2000 - October 2005
 
 -  Designing logos, banners, posters, fliers and presentation materials
 -  Preparing images for patent submission
--  Formatting scientific imagery for jounral publication
+-  Formatting scientific imagery for journal publication
 
 --------------
 
@@ -156,3 +180,11 @@ Education
 ---------
 
 2003 Ithaca College, Ithaca NY, Bachelor of Arts, Philosophy Major
+
+--------------
+
+Favorite things
+---------------
+
+Long Bay Beach BVI - Hiking - Legos - my cats - Daredevil - Feed Me -
+Zillow - coding

@@ -9,7 +9,7 @@
   <title><emphasis role="strong">Brian Ephraim</emphasis> - Frontend
   Engineer at OkCupid</title>
   <para>
-    Upper East Side, New York, NY<literallayout>
+    New York City<literallayout>
 </literallayout>914-482-2364<literallayout>
 </literallayout>email: brianephraim@gmail.com
     (<email>//brianephraim@gmail.com</email>)<literallayout>
@@ -33,16 +33,70 @@
       delegation, team organization, and department representation.
     </para>
   </sect2>
-  <sect2 id="technical-experience-summary">
-    <title>Technical experience summary</title>
+  <sect2 id="specialties">
+    <title>Specialties</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          scalable Angular responsive mobile web single page apps built
+          from the ground up
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          touch, gesture, and animation features
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          browser performance and user experience optimizations
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          development environments
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          backend integration
+        </para>
+      </listitem>
+    </itemizedlist>
+  </sect2>
+  <sect2 id="technical-experience-summary-since-july-2000">
+    <title>Technical experience summary since July 2000</title>
     <para>
-      Javascipt - HTML5 - CSS3 - Angular - jQuery - Node - Grunt - Sass
-      - LESS - Git - Github - GitLab - BitBucket - AWS - RequireJs -
-      Ui-Router - Ui-Router Extras - VelocityJs - Weinre - Bower -
-      Yeoman - WebSockets - AJAX - Bourbon - ImageMagick - Sketch - OSX
-      - iTerm - Bash - Sublime - iOs Simulator - Genymotion - Backbone -
-      Meteor - MongoDB - Bootstrap - Foundation - PHP - MySQL - SVN -
-      CVS - Photoshop - Illustrator - InDesign
+      <emphasis role="strong">Languages:</emphasis> Javascript* - HTML5*
+      - Sass* - CSS3* - Bash* - LESS - PHP - SQL<literallayout>
+</literallayout><emphasis role="strong">Libraries:</emphasis> Angular* -
+      jQuery* - RequireJs* - Ui-Router* - Ui-Router Extras* -
+      VelocityJs* - Raven* - Bourbon* - Bootstrap - Foundation - Meteor
+      - Backbone<literallayout>
+</literallayout><emphasis role="strong">Servers:</emphasis> Node* -
+      Apache<literallayout>
+</literallayout><emphasis role="strong">CLI:</emphasis> Grunt* -
+      Vagrant* - ImageMagick* - Bower* - Yeoman<literallayout>
+</literallayout><emphasis role="strong">Cloud services:</emphasis>
+      Sentry* - Github* - Amazon Web Services (AWS)* - GitLab -
+      BitBucket<literallayout>
+</literallayout><emphasis role="strong">Network:</emphasis> AJAX* -
+      Weinre* - WebSockets*<literallayout>
+</literallayout><emphasis role="strong">Graphics
+      Applications:</emphasis> Photoshop* - Illustrator - InDesign -
+      Sketch<literallayout>
+</literallayout><emphasis role="strong">Other Applications:</emphasis>
+      Sublime* - iTerm2* - Chrome Dev Tools* - iOs Simulator* -
+      Genymotion* - All the Browsers*<literallayout>
+</literallayout><emphasis role="strong">Version Control:</emphasis> Git*
+      - SVN - CVS<literallayout>
+</literallayout><emphasis role="strong">OS:</emphasis> OSX* - Windows
+      7/XP<literallayout>
+</literallayout><emphasis role="strong">Databases:</emphasis> MongoDB -
+      MySQL
+    </para>
+    <para>
+      <emphasis>* indicates current stack</emphasis>
     </para>
   </sect2>
   <sect2 id="career">
@@ -194,7 +248,23 @@
         </listitem>
         <listitem>
           <para>
-            Migrating architecture between projects
+            Sharing codebase with other front-end engineers
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Tracking user events and analyzing behavioral trends
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Organizing project roadmaps
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Transferring architecture and features between separate
+            projects
           </para>
         </listitem>
         <listitem>
@@ -231,18 +301,12 @@
       <itemizedlist>
         <listitem>
           <para>
-            Developing an AngularJs single page app within a hybrid iPad
-            app
+            Owning the Angular codebase for two single page apps
           </para>
         </listitem>
         <listitem>
           <para>
             Delegating tasks to other frontend engineers
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            merging code contributions
           </para>
         </listitem>
         <listitem>
@@ -427,7 +491,7 @@
         </listitem>
         <listitem>
           <para>
-            Formatting scientific imagery for jounral publication
+            Formatting scientific imagery for journal publication
           </para>
         </listitem>
       </itemizedlist>
@@ -437,6 +501,13 @@
     <title>Education</title>
     <para>
       2003 Ithaca College, Ithaca NY, Bachelor of Arts, Philosophy Major
+    </para>
+  </sect2>
+  <sect2 id="favorite-things">
+    <title>Favorite things</title>
+    <para>
+      Long Bay Beach BVI - Hiking - Legos - my cats - Daredevil - Feed
+      Me - Zillow - coding
     </para>
   </sect2>
 </sect1>
