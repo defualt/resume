@@ -29,10 +29,10 @@
   <sect2 id="objective">
     <title>Objective</title>
     <para>
-      Frontend for responsive web app, responsible for architecture,
-      development, feature design, workflow, deployment, integration
-      with backend, API modeling, debugging, task delegation, team
-      organization, and department representation.
+      Developing frontend for responsive web app, responsible for
+      architecture, development, feature design, workflow, deployment,
+      integration with backend, API modeling, debugging, task
+      delegation, team organization, and department representation.
     </para>
   </sect2>
   <sect2 id="specialties">
@@ -63,6 +63,11 @@
       <listitem>
         <para>
           backend integration
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          system design
         </para>
       </listitem>
     </itemizedlist>

@@ -17,7 +17,7 @@ side-project sample: [www.bernieselfie.com](http://www.bernieselfie.com)
 
 ##Objective
 
-Frontend  for responsive web app, responsible for architecture, development, feature design, workflow, deployment, integration with backend, API modeling, debugging, task delegation, team organization, and department representation.
+Developing frontend for responsive web app, responsible for architecture, development, feature design, workflow, deployment, integration with backend, API modeling, debugging, task delegation, team organization, and department representation.
 
 ---
 
@@ -28,6 +28,7 @@ Frontend  for responsive web app, responsible for architecture, development, fea
 - load time, browser performance and user experience optimizations
 - development environments
 - backend integration
+- system design
 
 ##Technical experience summary since July 2000 
 

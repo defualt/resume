@@ -22,10 +22,10 @@ side-project sample: http://www.bernieselfie.com[www.bernieselfie.com]
 Objective
 ~~~~~~~~~
 
-Frontend for responsive web app, responsible for architecture,
-development, feature design, workflow, deployment, integration with
-backend, API modeling, debugging, task delegation, team organization,
-and department representation.
+Developing frontend for responsive web app, responsible for
+architecture, development, feature design, workflow, deployment,
+integration with backend, API modeling, debugging, task delegation, team
+organization, and department representation.
 
 '''''
 
@@ -39,6 +39,7 @@ ground up
 * load time, browser performance and user experience optimizations
 * development environments
 * backend integration
+* system design
 
 [[technical-experience-summary-since-july-2000]]
 Technical experience summary since July 2000
