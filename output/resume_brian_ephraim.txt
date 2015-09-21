@@ -14,6 +14,7 @@ github: http://github.com/defualt[github.com/defualt] +
 work sample:
 http://m.datehookup.com/app/start/?forcesquash[m.datehookup.com] +
 work sample: http://mobile_web.okcupid.com[mobile_web.okcupid.com]
+side-project sample: http://www.bernieselfie.com[www.bernieselfie.com]
 
 '''''
 
@@ -21,7 +22,7 @@ work sample: http://mobile_web.okcupid.com[mobile_web.okcupid.com]
 Objective
 ~~~~~~~~~
 
-Frontend Lead for responsive web app, responsible for architecture,
+Frontend for responsive web app, responsible for architecture,
 development, feature design, workflow, deployment, integration with
 backend, API modeling, debugging, task delegation, team organization,
 and department representation.
@@ -35,7 +36,7 @@ Specialties
 * scalable Angular responsive mobile web single page apps built from the
 ground up
 * touch, gesture, and animation features
-* browser performance and user experience optimizations
+* load time, browser performance and user experience optimizations
 * development environments
 * backend integration
 
@@ -97,7 +98,8 @@ OKCupid - Frontend Engineer, November 2013 - Present
 ** asset compilation
 ** rollback functionality
 ** git integration
-* Enhancing UX with touch events and animation
+* Optimizing load times with VanillaJs landing pages,
+asyncronous-on-demand asset loading, bundling, and compression
 * Owning an entire codebase
 * Sharing codebase with other front-end engineers
 * Tracking user events and analyzing behavioral trends

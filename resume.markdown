@@ -10,13 +10,14 @@ linkedin: [linkedin.com/profile/view?id=112481106](http://www.linkedin.com/profi
 github: [github.com/defualt](http://github.com/defualt)  
 work sample: [m.datehookup.com](http://m.datehookup.com/app/start/?forcesquash)  
 work sample: [mobile_web.okcupid.com](http://mobile_web.okcupid.com)
+side-project sample: [www.bernieselfie.com](http://www.bernieselfie.com)
 
 ---
 
 
 ##Objective
 
-Frontend Lead for responsive web app, responsible for architecture, development, feature design, workflow, deployment, integration with backend, API modeling, debugging, task delegation, team organization, and department representation.
+Frontend  for responsive web app, responsible for architecture, development, feature design, workflow, deployment, integration with backend, API modeling, debugging, task delegation, team organization, and department representation.
 
 ---
 
@@ -42,7 +43,7 @@ Frontend Lead for responsive web app, responsible for architecture, development,
 **OS:** OSX\* - Windows 7/XP  
 **Databases:** MongoDB - MySQL
 
-*\* indicates current stack*
+** indicates current stack*
 
 ---
 
@@ -74,7 +75,6 @@ Frontend Lead for responsive web app, responsible for architecture, development,
 	- asset compilation
 	- rollback functionality
 	- git integration
-- Enhancing UX with touch events and animation
 - Optimizing load times with VanillaJs landing pages, asyncronous-on-demand asset loading, bundling, and compression
 - Owning an entire codebase
 - Sharing codebase with other front-end engineers

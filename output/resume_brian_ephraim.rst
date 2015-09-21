@@ -13,14 +13,15 @@
 | work sample:
 `m.datehookup.com <http://m.datehookup.com/app/start/?forcesquash>`__
 | work sample:
-`mobile\_web.okcupid.com <http://mobile_web.okcupid.com>`__
+`mobile\_web.okcupid.com <http://mobile_web.okcupid.com>`__ side-project
+sample: `www.bernieselfie.com <http://www.bernieselfie.com>`__
 
 --------------
 
 Objective
 ---------
 
-Frontend Lead for responsive web app, responsible for architecture,
+Frontend for responsive web app, responsible for architecture,
 development, feature design, workflow, deployment, integration with
 backend, API modeling, debugging, task delegation, team organization,
 and department representation.
@@ -33,7 +34,7 @@ Specialties
 -  scalable Angular responsive mobile web single page apps built from
    the ground up
 -  touch, gesture, and animation features
--  browser performance and user experience optimizations
+-  load time, browser performance and user experience optimizations
 -  development environments
 -  backend integration
 
@@ -97,7 +98,8 @@ OKCupid - Frontend Engineer, November 2013 - Present
    -  rollback functionality
    -  git integration
 
--  Enhancing UX with touch events and animation
+-  Optimizing load times with VanillaJs landing pages,
+   asyncronous-on-demand asset loading, bundling, and compression
 -  Owning an entire codebase
 -  Sharing codebase with other front-end engineers
 -  Tracking user events and analyzing behavioral trends

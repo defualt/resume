@@ -23,14 +23,16 @@
     <ulink url="http://m.datehookup.com/app/start/?forcesquash">m.datehookup.com</ulink><literallayout>
 </literallayout>work sample:
     <ulink url="http://mobile_web.okcupid.com">mobile_web.okcupid.com</ulink>
+    side-project sample:
+    <ulink url="http://www.bernieselfie.com">www.bernieselfie.com</ulink>
   </para>
   <sect2 id="objective">
     <title>Objective</title>
     <para>
-      Frontend Lead for responsive web app, responsible for
-      architecture, development, feature design, workflow, deployment,
-      integration with backend, API modeling, debugging, task
-      delegation, team organization, and department representation.
+      Frontend for responsive web app, responsible for architecture,
+      development, feature design, workflow, deployment, integration
+      with backend, API modeling, debugging, task delegation, team
+      organization, and department representation.
     </para>
   </sect2>
   <sect2 id="specialties">
@@ -49,7 +51,8 @@
       </listitem>
       <listitem>
         <para>
-          browser performance and user experience optimizations
+          load time, browser performance and user experience
+          optimizations
         </para>
       </listitem>
       <listitem>
@@ -238,7 +241,9 @@
         </listitem>
         <listitem>
           <para>
-            Enhancing UX with touch events and animation
+            Optimizing load times with VanillaJs landing pages,
+            asyncronous-on-demand asset loading, bundling, and
+            compression
           </para>
         </listitem>
         <listitem>
