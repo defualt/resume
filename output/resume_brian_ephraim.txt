@@ -61,7 +61,7 @@ Simulator* - Genymotion* - All the Browsers* +
 *OS:* OSX* - Windows 7/XP +
 *Databases:* MongoDB - MySQL
 
-_* indicates current stack_
+_indicates current stack_
 
 '''''
 
