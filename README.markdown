@@ -43,7 +43,7 @@ Frontend  for responsive web app, responsible for architecture, development, fea
 **OS:** OSX\* - Windows 7/XP  
 **Databases:** MongoDB - MySQL
 
-_indicates current stack_
+_*indicates current stack_
 
 ---
 

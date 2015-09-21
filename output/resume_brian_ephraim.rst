@@ -59,7 +59,7 @@ iOs Simulator\* - Genymotion\* - All the Browsers\*
 | **OS:** OSX\* - Windows 7/XP
 | **Databases:** MongoDB - MySQL
 
-*indicates current stack*
+*\*indicates current stack*
 
 --------------
 
