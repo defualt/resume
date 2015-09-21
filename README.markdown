@@ -9,7 +9,7 @@ twitter: [@brianephraim](http://twitter.com/brianephraim)
 linkedin: [linkedin.com/profile/view?id=112481106](http://www.linkedin.com/profile/view?id=112481106)  
 github: [github.com/defualt](http://github.com/defualt)  
 work sample: [m.datehookup.com](http://m.datehookup.com/app/start/?forcesquash)  
-work sample: [mobile_web.okcupid.com](http://mobile_web.okcupid.com)
+work sample: [mobile_web.okcupid.com](http://mobile_web.okcupid.com)  
 side-project sample: [www.bernieselfie.com](http://www.bernieselfie.com)
 
 ---

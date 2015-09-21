@@ -13,8 +13,9 @@
 | work sample:
 `m.datehookup.com <http://m.datehookup.com/app/start/?forcesquash>`__
 | work sample:
-`mobile\_web.okcupid.com <http://mobile_web.okcupid.com>`__ side-project
-sample: `www.bernieselfie.com <http://www.bernieselfie.com>`__
+`mobile\_web.okcupid.com <http://mobile_web.okcupid.com>`__
+| side-project sample:
+`www.bernieselfie.com <http://www.bernieselfie.com>`__
 
 --------------
 

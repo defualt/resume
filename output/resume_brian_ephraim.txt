@@ -13,7 +13,7 @@ http://www.linkedin.com/profile/view?id=112481106[linkedin.com/profile/view?id=1
 github: http://github.com/defualt[github.com/defualt] +
 work sample:
 http://m.datehookup.com/app/start/?forcesquash[m.datehookup.com] +
-work sample: http://mobile_web.okcupid.com[mobile_web.okcupid.com]
+work sample: http://mobile_web.okcupid.com[mobile_web.okcupid.com] +
 side-project sample: http://www.bernieselfie.com[www.bernieselfie.com]
 
 '''''
