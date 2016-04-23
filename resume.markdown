@@ -102,7 +102,7 @@ github: [github.com/defualt](http://github.com/defualt)
 - Working with distributed team members via Skype and email.
 
 
-###Rail Europe (Travel website) - Web designer, October 2006 - October 2010
+###Rail Europe (travel website) - Web designer, October 2006 - October 2010
 - developing mobile and desktop e-commerce web frontend
 
 
