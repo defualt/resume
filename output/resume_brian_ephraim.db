@@ -5,106 +5,38 @@
   <articleinfo>
     <title></title>
   </articleinfo>
-<sect1 id="brian-ephraim---frontend-engineer-at-okcupid">
-  <title><emphasis role="strong">Brian Ephraim</emphasis> - Frontend
-  Engineer at OkCupid</title>
+<sect1 id="brian-ephraim---frontend-engineer-at-okcupid.com">
+  <title><emphasis role="strong">Brian Ephraim</emphasis> - frontend
+  engineer at okcupid.com</title>
   <para>
-    New York City<literallayout>
+    NYC / Garrison, NY<literallayout>
 </literallayout>914-482-2364<literallayout>
 </literallayout>email: brianephraim@gmail.com
     (<email>//brianephraim@gmail.com</email>)<literallayout>
-</literallayout>twitter:
-    <ulink url="http://twitter.com/brianephraim">@brianephraim</ulink><literallayout>
 </literallayout>linkedin:
-    <ulink url="http://www.linkedin.com/profile/view?id=112481106">linkedin.com/profile/view?id=112481106</ulink><literallayout>
+    <ulink url="https://www.linkedin.com/in/brian-ephraim-29680531">linkedin.com/in/brian-ephraim-29680531</ulink><literallayout>
 </literallayout>github:
-    <ulink url="http://github.com/defualt">github.com/defualt</ulink><literallayout>
-</literallayout>work sample:
-    <ulink url="http://m.datehookup.com/app/start/?forcesquash">m.datehookup.com</ulink><literallayout>
-</literallayout>work sample:
-    <ulink url="http://mobile_web.okcupid.com">mobile_web.okcupid.com</ulink><literallayout>
-</literallayout>side-project sample:
-    <ulink url="http://www.bernieselfie.com">www.bernieselfie.com</ulink>
+    <ulink url="http://github.com/defualt">github.com/defualt</ulink>
   </para>
-  <sect2 id="objective">
-    <title>Objective</title>
+  <sect2 id="stack">
+    <title>Stack</title>
     <para>
-      Developing frontend for responsive web app, responsible for
-      architecture, development, feature design, workflow, deployment,
-      integration with backend, API modeling, debugging, task
-      delegation, team organization, and department representation.
-    </para>
-  </sect2>
-  <sect2 id="specialties">
-    <title>Specialties</title>
-    <itemizedlist>
-      <listitem>
-        <para>
-          scalable Angular responsive mobile web single page apps built
-          from the ground up
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          touch, gesture, and animation features
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          load time, browser performance and user experience
-          optimizations
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          development environments
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          backend integration
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          system design
-        </para>
-      </listitem>
-    </itemizedlist>
-  </sect2>
-  <sect2 id="technical-experience-summary-since-july-2000">
-    <title>Technical experience summary since July 2000</title>
-    <para>
-      <emphasis role="strong">Languages:</emphasis> Javascript* - HTML5*
-      - Sass* - CSS3* - Bash* - LESS - PHP - SQL<literallayout>
-</literallayout><emphasis role="strong">Libraries:</emphasis> Angular* -
-      jQuery* - RequireJs* - Ui-Router* - Ui-Router Extras* -
-      VelocityJs* - Raven* - Bourbon* - Bootstrap - Foundation - Meteor
-      - Backbone<literallayout>
-</literallayout><emphasis role="strong">Servers:</emphasis> Node* -
-      Apache<literallayout>
-</literallayout><emphasis role="strong">CLI:</emphasis> Grunt* -
-      Vagrant* - ImageMagick* - Bower* - Yeoman<literallayout>
-</literallayout><emphasis role="strong">Cloud services:</emphasis>
-      Sentry* - Github* - Amazon Web Services (AWS)* - GitLab -
-      BitBucket<literallayout>
-</literallayout><emphasis role="strong">Network:</emphasis> AJAX* -
-      Weinre* - WebSockets*<literallayout>
+      <emphasis role="strong">Languages:</emphasis> Javascript - HTML5 -
+      SCSS - Bash<literallayout>
+</literallayout><emphasis role="strong">Front end libraries:</emphasis>
+      Angular - jQuery - Require - Bourbon<literallayout>
+</literallayout><emphasis role="strong">Server:</emphasis> Node<literallayout>
+</literallayout><emphasis role="strong">Build tool:</emphasis> Grunt<literallayout>
+</literallayout><emphasis role="strong">Deployment:</emphasis> Heroku -
+      AWS<literallayout>
 </literallayout><emphasis role="strong">Graphics
-      Applications:</emphasis> Photoshop* - Illustrator - InDesign -
-      Sketch<literallayout>
-</literallayout><emphasis role="strong">Other Applications:</emphasis>
-      Sublime* - iTerm2* - Chrome Dev Tools* - iOs Simulator* -
-      Genymotion* - All the Browsers*<literallayout>
-</literallayout><emphasis role="strong">Version Control:</emphasis> Git*
-      - SVN - CVS<literallayout>
-</literallayout><emphasis role="strong">OS:</emphasis> OSX* - Windows
-      7/XP<literallayout>
-</literallayout><emphasis role="strong">Databases:</emphasis> MongoDB -
-      MySQL
-    </para>
-    <para>
-      <emphasis>*indicates current stack</emphasis>
+      Applications:</emphasis> Photoshop - Illustrator - Sketch<literallayout>
+</literallayout><emphasis role="strong">Code Applications:</emphasis>
+      Sublime - iTerm - Chrome Dev Tools - SourceTree - iOs Simulator -
+      Genymotion<literallayout>
+</literallayout><emphasis role="strong">Version Control:</emphasis> Git<literallayout>
+</literallayout><emphasis role="strong">OS:</emphasis> Mac<literallayout>
+</literallayout><emphasis role="strong">Database:</emphasis> MongoDB
     </para>
   </sect2>
   <sect2 id="career">
@@ -126,7 +58,7 @@
           <itemizedlist>
             <listitem>
               <para>
-                enhanced UX with touch events and animation
+                touch and swipe interaction
               </para>
             </listitem>
             <listitem>
@@ -151,12 +83,12 @@
             </listitem>
             <listitem>
               <para>
-                instant chats and notifications with WebSockets
+                Instant chats and notifications with WebSockets
               </para>
             </listitem>
             <listitem>
               <para>
-                Tinder-like card swiping
+                Tinder-like card swiping interface
               </para>
             </listitem>
             <listitem>
@@ -186,7 +118,13 @@
             </listitem>
             <listitem>
               <para>
-                lazy loading javascript assets
+                lazy loading assets
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                optimized load times via VanillaJs landing pages,
+                on-demand asset loading, bundling, and compression
               </para>
             </listitem>
           </itemizedlist>
@@ -246,24 +184,22 @@
         </listitem>
         <listitem>
           <para>
-            Optimizing load times with VanillaJs landing pages,
-            asyncronous-on-demand asset loading, bundling, and
-            compression
-          </para>
-        </listitem>
-        <listitem>
-          <para>
             Owning an entire codebase
           </para>
         </listitem>
         <listitem>
           <para>
-            Sharing codebase with other front-end engineers
+            Sharing codebases with other front-end engineers
           </para>
         </listitem>
         <listitem>
           <para>
-            Tracking user events and analyzing behavioral trends
+            Conducting A/B tests
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Tweaking designs based on test results
           </para>
         </listitem>
         <listitem>
@@ -279,28 +215,36 @@
         </listitem>
         <listitem>
           <para>
-            Collaborating closely with designers on product features
-          </para>
-        </listitem>
-        <listitem>
-          <para>
             Writing detailed specification documents for backend
             developers
           </para>
         </listitem>
         <listitem>
           <para>
-            API modeling collaboration with backend developers
+            Collaborating with backend developers on API modeling
           </para>
         </listitem>
         <listitem>
           <para>
-            Reaching millions of page views
+            Collaborating closely with designers on product features
           </para>
         </listitem>
         <listitem>
           <para>
-            Pixel perfect styling
+            Styling CSS with pixel perfect alignment against designer
+            files
+          </para>
+        </listitem>
+      </itemizedlist>
+    </sect3>
+    <sect3 id="bernieselfie.com---solo-side-project-july-2015---present">
+      <title>BernieSelfie.com - solo side project, July 2015 -
+      Present</title>
+      <itemizedlist>
+        <listitem>
+          <para>
+            creating a website that helps people combine their photos
+            with campaign graphics and share the result on social media
           </para>
         </listitem>
       </itemizedlist>
@@ -338,7 +282,7 @@
       <itemizedlist>
         <listitem>
           <para>
-            Launching an innovative social networking platform
+            Launching a social networking platform
           </para>
         </listitem>
         <listitem>
@@ -511,13 +455,6 @@
     <title>Education</title>
     <para>
       2003 Ithaca College, Ithaca NY, Bachelor of Arts, Philosophy Major
-    </para>
-  </sect2>
-  <sect2 id="favorite-things">
-    <title>Favorite things</title>
-    <para>
-      Long Bay Beach BVI - Hiking - Legos - my cats - Daredevil - Feed
-      Me - Zillow - coding
     </para>
   </sect2>
 </sect1>

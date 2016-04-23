@@ -1,67 +1,31 @@
-**Brian Ephraim** - Frontend Engineer at OkCupid
-================================================
+**Brian Ephraim** - frontend engineer at okcupid.com
+====================================================
 
 --------------
 
-| New York City
+| NYC / Garrison, NY
 | 914-482-2364
 | email: `brianephraim@gmail.com <mailto://brianephraim@gmail.com>`__
-| twitter: `@brianephraim <http://twitter.com/brianephraim>`__
 | linkedin:
-`linkedin.com/profile/view?id=112481106 <http://www.linkedin.com/profile/view?id=112481106>`__
+`linkedin.com/in/brian-ephraim-29680531 <https://www.linkedin.com/in/brian-ephraim-29680531>`__
 | github: `github.com/defualt <http://github.com/defualt>`__
-| work sample:
-`m.datehookup.com <http://m.datehookup.com/app/start/?forcesquash>`__
-| work sample:
-`mobile\_web.okcupid.com <http://mobile_web.okcupid.com>`__
-| side-project sample:
-`www.bernieselfie.com <http://www.bernieselfie.com>`__
 
 --------------
 
-Objective
----------
+Stack
+-----
 
-Developing frontend for responsive web app, responsible for
-architecture, development, feature design, workflow, deployment,
-integration with backend, API modeling, debugging, task delegation, team
-organization, and department representation.
-
---------------
-
-Specialties
------------
-
--  scalable Angular responsive mobile web single page apps built from
-   the ground up
--  touch, gesture, and animation features
--  load time, browser performance and user experience optimizations
--  development environments
--  backend integration
--  system design
-
-Technical experience summary since July 2000
---------------------------------------------
-
-| **Languages:** Javascript\* - HTML5\* - Sass\* - CSS3\* - Bash\* -
-LESS - PHP - SQL
-| **Libraries:** Angular\* - jQuery\* - RequireJs\* - Ui-Router\* -
-Ui-Router Extras\* - VelocityJs\* - Raven\* - Bourbon\* - Bootstrap -
-Foundation - Meteor - Backbone
-| **Servers:** Node\* - Apache
-| **CLI:** Grunt\* - Vagrant\* - ImageMagick\* - Bower\* - Yeoman
-| **Cloud services:** Sentry\* - Github\* - Amazon Web Services (AWS)\*
-- GitLab - BitBucket
-| **Network:** AJAX\* - Weinre\* - WebSockets\*
-| **Graphics Applications:** Photoshop\* - Illustrator - InDesign -
-Sketch
-| **Other Applications:** Sublime\* - iTerm2\* - Chrome Dev Tools\* -
-iOs Simulator\* - Genymotion\* - All the Browsers\*
-| **Version Control:** Git\* - SVN - CVS
-| **OS:** OSX\* - Windows 7/XP
-| **Databases:** MongoDB - MySQL
-
-*\*indicates current stack*
+| **Languages:** Javascript - HTML5 - SCSS - Bash
+| **Front end libraries:** Angular - jQuery - Require - Bourbon
+| **Server:** Node
+| **Build tool:** Grunt
+| **Deployment:** Heroku - AWS
+| **Graphics Applications:** Photoshop - Illustrator - Sketch
+| **Code Applications:** Sublime - iTerm - Chrome Dev Tools - SourceTree
+- iOs Simulator - Genymotion
+| **Version Control:** Git
+| **OS:** Mac
+| **Database:** MongoDB
 
 --------------
 
@@ -74,19 +38,21 @@ OKCupid - Frontend Engineer, November 2013 - Present
 -  Developing Angular single page mobile web apps from the ground up
 -  Coding features, including:
 
-   -  enhanced UX with touch events and animation
+   -  touch and swipe interaction
    -  infinite scroll
    -  pull to refresh
    -  pinch to zoom
    -  photo upload
-   -  instant chats and notifications with WebSockets
-   -  Tinder-like card swiping
+   -  Instant chats and notifications with WebSockets
+   -  Tinder-like card swiping interface
    -  animated screen transitions with 3D effects
    -  swipeable image galleries
    -  phone/tablet responsive
    -  geolocation
    -  sticky footers and headers
-   -  lazy loading javascript assets
+   -  lazy loading assets
+   -  optimized load times via VanillaJs landing pages, on-demand asset
+      loading, bundling, and compression
 
 -  Assembling Grunt development environment, including:
 
@@ -100,18 +66,22 @@ OKCupid - Frontend Engineer, November 2013 - Present
    -  rollback functionality
    -  git integration
 
--  Optimizing load times with VanillaJs landing pages,
-   asyncronous-on-demand asset loading, bundling, and compression
 -  Owning an entire codebase
--  Sharing codebase with other front-end engineers
--  Tracking user events and analyzing behavioral trends
+-  Sharing codebases with other front-end engineers
+-  Conducting A/B tests
+-  Tweaking designs based on test results
 -  Organizing project roadmaps
 -  Transferring architecture and features between separate projects
--  Collaborating closely with designers on product features
 -  Writing detailed specification documents for backend developers
--  API modeling collaboration with backend developers
--  Reaching millions of page views
--  Pixel perfect styling
+-  Collaborating with backend developers on API modeling
+-  Collaborating closely with designers on product features
+-  Styling CSS with pixel perfect alignment against designer files
+
+BernieSelfie.com - solo side project, July 2015 - Present
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  creating a website that helps people combine their photos with
+   campaign graphics and share the result on social media
 
 Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - October 2013
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -125,7 +95,7 @@ Viggle Inc. - Senior Web / Javascript Engineer, April 2013 - October 2013
 inPerson.in / Blaboid Inc. - Entrepreneur, November 2010 - April 2013
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Launching an innovative social networking platform
+-  Launching a social networking platform
 -  Coordinating business needs with lawyer, accountant, and consultants
 -  Developing the platform, consisting of a single page HTML5 Backbone
    mobile web app with user generated content, hosted on Amazon, with
@@ -186,9 +156,3 @@ Education
 2003 Ithaca College, Ithaca NY, Bachelor of Arts, Philosophy Major
 
 --------------
-
-Favorite things
----------------
-
-Long Bay Beach BVI - Hiking - Legos - my cats - Daredevil - Feed Me -
-Zillow - coding
