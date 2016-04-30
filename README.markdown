@@ -11,18 +11,19 @@ github: [github.com/defualt](http://github.com/defualt)
 
 ---
 
-##Stack  
+##Technical experience overview since July 2000 
 
-**Languages:** Javascript - HTML5 - SCSS - Bash  
-**Front end libraries:** Angular - jQuery - Require - Bourbon  
-**Server:** Node  
-**Build tool:** Grunt  
-**Deployment:** Heroku - AWS  
-**Graphics Applications:** Photoshop - Illustrator - Sketch  
-**Code Applications:** Sublime - iTerm - Chrome Dev Tools - SourceTree - iOs Simulator - Genymotion  
-**Version Control:** Git  
-**OS:** Mac  
-**Database:** MongoDB	
+**Languages:** Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP - SQL  
+**Front end libraries:** Angular - jQuery - RequireJs - Bourbon - Bootstrap - Foundation - Meteor - Backbone - VelocityJs  
+**Servers:** Node - Apache  
+**CLI:** Grunt - Vagrant - ImageMagick - Bower - Yeoman  
+**Cloud services:** Sentry - Github - Amazon Web Services (AWS) - GitLab - BitBucket  
+**Network:** AJAX - Weinre - WebSockets  
+**Graphics Applications:** Photoshop - Illustrator - InDesign - Sketch  
+**Other Applications:** Sublime - iTerm2 - Chrome Dev Tools - iOs Simulator - Genymotion - All the Browsers  
+**Version Control:** Git - SVN - CVS  
+**OS:** OSX - Windows 7/XP  
+**Databases:** MongoDB - MySQL
 
 ---
 
@@ -30,8 +31,9 @@ github: [github.com/defualt](http://github.com/defualt)
 
 
 ###OKCupid (dating website) - Frontend Engineer, November 2013 - Present
-- Developing Angular single page mobile web apps from the ground up
+- Developing and launching Angular single page mobile web apps from the ground up
 - Coding features, including:
+	- complex business logic
 	- touch and swipe interaction
 	- infinite scroll
 	- pull to refresh
@@ -51,7 +53,7 @@ github: [github.com/defualt](http://github.com/defualt)
 	- Weinre remote device debugging
 	- effortless retina/non-retina spritesheet generation
 	- endpoint proxying
-	- deployment scripts for a variety of asset servers, including AWS
+	- build and deployment scripts for a variety of asset servers, including AWS
 	- cache-busting mechanisms
 	- asset compilation
 	- rollback functionality
@@ -84,10 +86,10 @@ github: [github.com/defualt](http://github.com/defualt)
 
 
 ###Alexander Interactive (Agency) - Frontend Web Developer, May 2011 - March 2012
-- Serving E-commerce clients such as Lowe's Home Improvement and Adorama.
-- Doing agile with daily scrum calls, sprint planning/review, and demos for executive product owners.
-- Flying to client corporate headquarters for onsite consulting.
-- Working with distributed team members via Skype and email.
+- Serving E-commerce clients such as Lowe's Home Improvement and Adorama
+- Doing agile with daily scrum calls, sprint planning/review, and demos for executive product owners
+- Flying to client corporate headquarters for onsite consulting
+- Working with distributed team members via Skype and email
 
 
 ###KickApps/Kit Digital (Agency) - Frontend Web Developer, October 2010 - May 2011
@@ -99,10 +101,10 @@ github: [github.com/defualt](http://github.com/defualt)
 	- Squabbler
 	- Sharecare
 	- Leap4Life
-- Working with distributed team members via Skype and email.
+- Working with distributed team members via Skype and email
 
 
-###Rail Europe (Travel website) - Web designer, October 2006 - October 2010
+###Rail Europe (travel website) - Web designer, October 2006 - October 2010
 - developing mobile and desktop e-commerce web frontend
 
 

@@ -18,25 +18,34 @@
 </literallayout>github:
     <ulink url="http://github.com/defualt">github.com/defualt</ulink>
   </para>
-  <sect2 id="stack">
-    <title>Stack</title>
+  <sect2 id="technical-experience-overview-since-july-2000">
+    <title>Technical experience overview since July 2000</title>
     <para>
       <emphasis role="strong">Languages:</emphasis> Javascript - HTML5 -
-      SCSS - Bash<literallayout>
+      Sass - CSS3 - Bash - LESS - PHP - SQL<literallayout>
 </literallayout><emphasis role="strong">Front end libraries:</emphasis>
-      Angular - jQuery - Require - Bourbon<literallayout>
-</literallayout><emphasis role="strong">Server:</emphasis> Node<literallayout>
-</literallayout><emphasis role="strong">Build tool:</emphasis> Grunt<literallayout>
-</literallayout><emphasis role="strong">Deployment:</emphasis> Heroku -
-      AWS<literallayout>
+      Angular - jQuery - RequireJs - Bourbon - Bootstrap - Foundation -
+      Meteor - Backbone - VelocityJs<literallayout>
+</literallayout><emphasis role="strong">Servers:</emphasis> Node -
+      Apache<literallayout>
+</literallayout><emphasis role="strong">CLI:</emphasis> Grunt - Vagrant
+      - ImageMagick - Bower - Yeoman<literallayout>
+</literallayout><emphasis role="strong">Cloud services:</emphasis>
+      Sentry - Github - Amazon Web Services (AWS) - GitLab - BitBucket<literallayout>
+</literallayout><emphasis role="strong">Network:</emphasis> AJAX -
+      Weinre - WebSockets<literallayout>
 </literallayout><emphasis role="strong">Graphics
-      Applications:</emphasis> Photoshop - Illustrator - Sketch<literallayout>
-</literallayout><emphasis role="strong">Code Applications:</emphasis>
-      Sublime - iTerm - Chrome Dev Tools - SourceTree - iOs Simulator -
-      Genymotion<literallayout>
-</literallayout><emphasis role="strong">Version Control:</emphasis> Git<literallayout>
-</literallayout><emphasis role="strong">OS:</emphasis> Mac<literallayout>
-</literallayout><emphasis role="strong">Database:</emphasis> MongoDB
+      Applications:</emphasis> Photoshop - Illustrator - InDesign -
+      Sketch<literallayout>
+</literallayout><emphasis role="strong">Other Applications:</emphasis>
+      Sublime - iTerm2 - Chrome Dev Tools - iOs Simulator - Genymotion -
+      All the Browsers<literallayout>
+</literallayout><emphasis role="strong">Version Control:</emphasis> Git
+      - SVN - CVS<literallayout>
+</literallayout><emphasis role="strong">OS:</emphasis> OSX - Windows
+      7/XP<literallayout>
+</literallayout><emphasis role="strong">Databases:</emphasis> MongoDB -
+      MySQL
     </para>
   </sect2>
   <sect2 id="career">
@@ -47,8 +56,8 @@
       <itemizedlist>
         <listitem>
           <para>
-            Developing Angular single page mobile web apps from the
-            ground up
+            Developing and launching Angular single page mobile web apps
+            from the ground up
           </para>
         </listitem>
         <listitem>
@@ -56,6 +65,11 @@
             Coding features, including:
           </para>
           <itemizedlist>
+            <listitem>
+              <para>
+                complex business logic
+              </para>
+            </listitem>
             <listitem>
               <para>
                 touch and swipe interaction
@@ -156,8 +170,8 @@
             </listitem>
             <listitem>
               <para>
-                deployment scripts for a variety of asset servers,
-                including AWS
+                build and deployment scripts for a variety of asset
+                servers, including AWS
               </para>
             </listitem>
             <listitem>
@@ -307,24 +321,24 @@
         <listitem>
           <para>
             Serving E-commerce clients such as Lowe’s Home Improvement
-            and Adorama.
+            and Adorama
           </para>
         </listitem>
         <listitem>
           <para>
             Doing agile with daily scrum calls, sprint planning/review,
-            and demos for executive product owners.
+            and demos for executive product owners
           </para>
         </listitem>
         <listitem>
           <para>
             Flying to client corporate headquarters for onsite
-            consulting.
+            consulting
           </para>
         </listitem>
         <listitem>
           <para>
-            Working with distributed team members via Skype and email.
+            Working with distributed team members via Skype and email
           </para>
         </listitem>
       </itemizedlist>
@@ -377,13 +391,13 @@
         </listitem>
         <listitem>
           <para>
-            Working with distributed team members via Skype and email.
+            Working with distributed team members via Skype and email
           </para>
         </listitem>
       </itemizedlist>
     </sect3>
     <sect3 id="rail-europe-travel-website---web-designer-october-2006---october-2010">
-      <title>Rail Europe (Travel website) - Web designer, October 2006 -
+      <title>Rail Europe (travel website) - Web designer, October 2006 -
       October 2010</title>
       <itemizedlist>
         <listitem>
