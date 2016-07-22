@@ -5,9 +5,9 @@
   <articleinfo>
     <title></title>
   </articleinfo>
-<sect1 id="brian-ephraim---frontend-engineer-at-okcupid.com">
+<sect1 id="brian-ephraim---frontend-engineer">
   <title><emphasis role="strong">Brian Ephraim</emphasis> - frontend
-  engineer at okcupid.com</title>
+  engineer</title>
   <para>
     NYC / Garrison, NY<literallayout>
 </literallayout>914-482-2364<literallayout>
@@ -23,17 +23,19 @@
     <para>
       <emphasis role="strong">Languages:</emphasis> Javascript - HTML5 -
       Sass - CSS3 - Bash - LESS - PHP - SQL<literallayout>
-</literallayout><emphasis role="strong">Front end libraries:</emphasis>
-      Angular - jQuery - RequireJs - Bourbon - Bootstrap - Foundation -
-      Meteor - Backbone - VelocityJs<literallayout>
+</literallayout><emphasis role="strong">Javascript libraries:</emphasis>
+      React - Angular - jQuery - Require - Meteor - Backbone -
+      VelocityJs<literallayout>
+</literallayout><emphasis role="strong">CSS libraries:</emphasis>
+      Bourbon - Bootstrap - Foundation<literallayout>
 </literallayout><emphasis role="strong">Servers:</emphasis> Node -
       Apache<literallayout>
-</literallayout><emphasis role="strong">CLI:</emphasis> Grunt - Vagrant
-      - ImageMagick - Bower - Yeoman<literallayout>
+</literallayout><emphasis role="strong">Tooling:</emphasis> WebPack -
+      NPM - Grunt - Vagrant - ImageMagick - Bower - Yeoman<literallayout>
 </literallayout><emphasis role="strong">Cloud services:</emphasis>
       Sentry - Github - Amazon Web Services (AWS) - GitLab - BitBucket<literallayout>
-</literallayout><emphasis role="strong">Network:</emphasis> AJAX -
-      Weinre - WebSockets<literallayout>
+</literallayout><emphasis role="strong">Client/Server
+      Communication:</emphasis> AJAX - WebSockets<literallayout>
 </literallayout><emphasis role="strong">Graphics
       Applications:</emphasis> Photoshop - Illustrator - InDesign -
       Sketch<literallayout>
@@ -50,19 +52,36 @@
   </sect2>
   <sect2 id="career">
     <title>Career</title>
-    <sect3 id="okcupid-dating-website---frontend-engineer-november-2013---present">
+    <sect3 id="okcupid-dating-website---frontend-engineer-november-2013---auguest-2016">
       <title>OKCupid (dating website) - Frontend Engineer, November 2013
-      - Present</title>
+      - Auguest 2016</title>
       <itemizedlist>
         <listitem>
           <para>
-            Developing and launching Angular single page mobile web apps
-            from the ground up
+            Building single-page and mutli-page web apps
           </para>
+          <itemizedlist>
+            <listitem>
+              <para>
+                Using React and Angular
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                responsible for entire dating site front end feature
+                sets
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                in both sole code owner and collaborative roles
+              </para>
+            </listitem>
+          </itemizedlist>
         </listitem>
         <listitem>
           <para>
-            Coding features, including:
+            Developing features, such as
           </para>
           <itemizedlist>
             <listitem>
@@ -137,7 +156,7 @@
             </listitem>
             <listitem>
               <para>
-                optimized load times via VanillaJs landing pages,
+                optimized load times via vanilla.js landing pages,
                 on-demand asset loading, bundling, and compression
               </para>
             </listitem>
@@ -155,7 +174,7 @@
             </listitem>
             <listitem>
               <para>
-                Weinre remote device debugging
+                remote debugging console
               </para>
             </listitem>
             <listitem>
@@ -198,12 +217,12 @@
         </listitem>
         <listitem>
           <para>
-            Owning an entire codebase
+            Owning entire Git codebases
           </para>
         </listitem>
         <listitem>
           <para>
-            Sharing codebases with other front-end engineers
+            Sharing Git codebases with other front-end engineers
           </para>
         </listitem>
         <listitem>

@@ -1,5 +1,5 @@
-**Brian Ephraim** - frontend engineer at okcupid.com
-====================================================
+**Brian Ephraim** - frontend engineer
+=====================================
 
 --------------
 
@@ -17,13 +17,15 @@ Technical experience overview since July 2000
 
 | **Languages:** Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP -
 SQL
-| **Front end libraries:** Angular - jQuery - RequireJs - Bourbon -
-Bootstrap - Foundation - Meteor - Backbone - VelocityJs
+| **Javascript libraries:** React - Angular - jQuery - Require - Meteor
+- Backbone - VelocityJs
+| **CSS libraries:** Bourbon - Bootstrap - Foundation
 | **Servers:** Node - Apache
-| **CLI:** Grunt - Vagrant - ImageMagick - Bower - Yeoman
+| **Tooling:** WebPack - NPM - Grunt - Vagrant - ImageMagick - Bower -
+Yeoman
 | **Cloud services:** Sentry - Github - Amazon Web Services (AWS) -
 GitLab - BitBucket
-| **Network:** AJAX - Weinre - WebSockets
+| **Client/Server Communication:** AJAX - WebSockets
 | **Graphics Applications:** Photoshop - Illustrator - InDesign - Sketch
 | **Other Applications:** Sublime - iTerm2 - Chrome Dev Tools - iOs
 Simulator - Genymotion - All the Browsers
@@ -36,12 +38,16 @@ Simulator - Genymotion - All the Browsers
 Career
 ------
 
-OKCupid (dating website) - Frontend Engineer, November 2013 - Present
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+OKCupid (dating website) - Frontend Engineer, November 2013 - Auguest 2016
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Developing and launching Angular single page mobile web apps from the
-   ground up
--  Coding features, including:
+-  Building single-page and mutli-page web apps
+
+   -  Using React and Angular
+   -  responsible for entire dating site front end feature sets
+   -  in both sole code owner and collaborative roles
+
+-  Developing features, such as
 
    -  complex business logic
    -  touch and swipe interaction
@@ -57,13 +63,13 @@ OKCupid (dating website) - Frontend Engineer, November 2013 - Present
    -  geolocation
    -  sticky footers and headers
    -  lazy loading assets
-   -  optimized load times via VanillaJs landing pages, on-demand asset
+   -  optimized load times via vanilla.js landing pages, on-demand asset
       loading, bundling, and compression
 
 -  Assembling Grunt development environment, including:
 
    -  localhost server
-   -  Weinre remote device debugging
+   -  remote debugging console
    -  effortless retina/non-retina spritesheet generation
    -  endpoint proxying
    -  build and deployment scripts for a variety of asset servers,
@@ -73,8 +79,8 @@ OKCupid (dating website) - Frontend Engineer, November 2013 - Present
    -  rollback functionality
    -  git integration
 
--  Owning an entire codebase
--  Sharing codebases with other front-end engineers
+-  Owning entire Git codebases
+-  Sharing Git codebases with other front-end engineers
 -  Conducting A/B tests
 -  Tweaking designs based on test results
 -  Organizing project roadmaps

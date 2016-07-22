@@ -11,7 +11,7 @@
 <script src="data:application/x-javascript,%28function%20%28d%29%20%7B%0A%20%20var%20metas%20%3D%20d%2EgetElementsByTagName%28%27meta%27%29%3B%0A%20%20var%20i%3B%0A%20%20function%20gestureStart%28%29%20%7B%0A%20%20%20%20for%20%28i%3D0%3B%20i%3Cmetas%2Elength%3B%20i%2B%2B%29%20%7B%0A%20%20%20%20%20%20if%20%28metas%5Bi%5D%2Ename%20%3D%3D%3D%20%22viewport%22%29%20%7B%0A%20%20%20%20%20%20%20%20metas%5Bi%5D%2Econtent%20%3D%20%22width%3Ddevice%2Dwidth%2C%20minimum%2Dscale%3D0%2E25%2C%20maximum%2Dscale%3D1%2E6%22%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20if%20%28navigator%2EuserAgent%2Ematch%28%2FiPhone%2Fi%29%29%20%7B%0A%20%20%20%20for%20%28i%3D0%3B%20i%3Cmetas%2Elength%3B%20i%2B%2B%29%20%7B%0A%20%20%20%20%20%20if%20%28metas%5Bi%5D%2Ename%20%3D%3D%3D%20%22viewport%22%29%20%7B%0A%20%20%20%20%20%20%20%20metas%5Bi%5D%2Econtent%20%3D%20%22width%3Ddevice%2Dwidth%2C%20minimum%2Dscale%3D1%2E0%2C%20maximum%2Dscale%3D1%2E0%22%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20d%2EaddEventListener%28%22gesturestart%22%2C%20gestureStart%2C%20false%29%3B%0A%20%20%7D%0A%7D%28document%29%29%3B"></script>
 </head>
 <body>
-<h1 id="brian-ephraim---frontend-engineer-at-okcupid.com"><strong>Brian Ephraim</strong> - frontend engineer at okcupid.com</h1>
+<h1 id="brian-ephraim---frontend-engineer"><strong>Brian Ephraim</strong> - frontend engineer</h1>
 <hr />
 <p>NYC / Garrison, NY<br />914-482-2364<br />email: <script type="text/javascript">
 <!--
@@ -21,13 +21,18 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<
 </script><noscript>brianephraim@gmail.com (//brianephraim at gmail dot com)</noscript><br />linkedin: <a href="https://www.linkedin.com/in/brian-ephraim-29680531">linkedin.com/in/brian-ephraim-29680531</a><br />github: <a href="http://github.com/defualt">github.com/defualt</a></p>
 <hr />
 <h2 id="technical-experience-overview-since-july-2000">Technical experience overview since July 2000</h2>
-<p><strong>Languages:</strong> Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP - SQL<br /><strong>Front end libraries:</strong> Angular - jQuery - RequireJs - Bourbon - Bootstrap - Foundation - Meteor - Backbone - VelocityJs<br /><strong>Servers:</strong> Node - Apache<br /><strong>CLI:</strong> Grunt - Vagrant - ImageMagick - Bower - Yeoman<br /><strong>Cloud services:</strong> Sentry - Github - Amazon Web Services (AWS) - GitLab - BitBucket<br /><strong>Network:</strong> AJAX - Weinre - WebSockets<br /><strong>Graphics Applications:</strong> Photoshop - Illustrator - InDesign - Sketch<br /><strong>Other Applications:</strong> Sublime - iTerm2 - Chrome Dev Tools - iOs Simulator - Genymotion - All the Browsers<br /><strong>Version Control:</strong> Git - SVN - CVS<br /><strong>OS:</strong> OSX - Windows 7/XP<br /><strong>Databases:</strong> MongoDB - MySQL</p>
+<p><strong>Languages:</strong> Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP - SQL<br /><strong>Javascript libraries:</strong> React - Angular - jQuery - Require - Meteor - Backbone - VelocityJs<br /><strong>CSS libraries:</strong> Bourbon - Bootstrap - Foundation<br /><strong>Servers:</strong> Node - Apache<br /><strong>Tooling:</strong> WebPack - NPM - Grunt - Vagrant - ImageMagick - Bower - Yeoman<br /><strong>Cloud services:</strong> Sentry - Github - Amazon Web Services (AWS) - GitLab - BitBucket<br /><strong>Client/Server Communication:</strong> AJAX - WebSockets<br /><strong>Graphics Applications:</strong> Photoshop - Illustrator - InDesign - Sketch<br /><strong>Other Applications:</strong> Sublime - iTerm2 - Chrome Dev Tools - iOs Simulator - Genymotion - All the Browsers<br /><strong>Version Control:</strong> Git - SVN - CVS<br /><strong>OS:</strong> OSX - Windows 7/XP<br /><strong>Databases:</strong> MongoDB - MySQL</p>
 <hr />
 <h2 id="career">Career</h2>
-<h3 id="okcupid-dating-website---frontend-engineer-november-2013---present">OKCupid (dating website) - Frontend Engineer, November 2013 - Present</h3>
+<h3 id="okcupid-dating-website---frontend-engineer-november-2013---auguest-2016">OKCupid (dating website) - Frontend Engineer, November 2013 - Auguest 2016</h3>
 <ul>
-<li>Developing and launching Angular single page mobile web apps from the ground up</li>
-<li>Coding features, including:
+<li>Building single-page and mutli-page web apps
+<ul>
+<li>Using React and Angular</li>
+<li>responsible for entire dating site front end feature sets</li>
+<li>in both sole code owner and collaborative roles</li>
+</ul></li>
+<li>Developing features, such as
 <ul>
 <li>complex business logic</li>
 <li>touch and swipe interaction</li>
@@ -43,12 +48,12 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<
 <li>geolocation</li>
 <li>sticky footers and headers</li>
 <li>lazy loading assets</li>
-<li>optimized load times via VanillaJs landing pages, on-demand asset loading, bundling, and compression</li>
+<li>optimized load times via vanilla.js landing pages, on-demand asset loading, bundling, and compression</li>
 </ul></li>
 <li>Assembling Grunt development environment, including:
 <ul>
 <li>localhost server</li>
-<li>Weinre remote device debugging</li>
+<li>remote debugging console</li>
 <li>effortless retina/non-retina spritesheet generation</li>
 <li>endpoint proxying</li>
 <li>build and deployment scripts for a variety of asset servers, including AWS</li>
@@ -57,8 +62,8 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<
 <li>rollback functionality</li>
 <li>git integration</li>
 </ul></li>
-<li>Owning an entire codebase</li>
-<li>Sharing codebases with other front-end engineers</li>
+<li>Owning entire Git codebases</li>
+<li>Sharing Git codebases with other front-end engineers</li>
 <li>Conducting A/B tests</li>
 <li>Tweaking designs based on test results</li>
 <li>Organizing project roadmaps</li>
