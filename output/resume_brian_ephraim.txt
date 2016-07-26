@@ -4,7 +4,7 @@
 
 '''''
 
-NYC / Garrison, NY +
+NYC / remote / Garrison, NY +
 914-482-2364 +
 email: mailto://brianephraim@gmail.com[brianephraim@gmail.com] +
 linkedin:
@@ -13,15 +13,20 @@ github: http://github.com/defualt[github.com/defualt]
 
 '''''
 
-[[technical-experience-overview-since-july-2000]]
-Technical experience overview since July 2000
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[[year-professional-summary]]
+16 year professional summary
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[[technology]]
+Technology
+^^^^^^^^^^
 
 *Languages:* Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP -
 SQL +
 *Javascript libraries:* React - Angular - jQuery - Require - Meteor -
 Backbone - VelocityJs +
 *CSS libraries:* Bourbon - Bootstrap - Foundation +
+*Testing:* Mocha - Chai - Enzyme +
 *Servers:* Node - Apache +
 *Tooling:* WebPack - NPM - Grunt - Vagrant - ImageMagick - Bower -
 Yeoman +
@@ -35,16 +40,14 @@ Simulator - Genymotion - All the Browsers +
 *OS:* OSX - Windows 7/XP +
 *Databases:* MongoDB - MySQL
 
-'''''
-
 [[career]]
 Career
-~~~~~~
+^^^^^^
 
-[[okcupid-dating-website---frontend-engineer-november-2013---auguest-2016]]
-OKCupid (dating website) - Frontend Engineer, November 2013 - Auguest
+[[okcupid-dating-website---frontend-engineer-november-2013---august-2016]]
+OKCupid (dating website) - Frontend Engineer, November 2013 - August
 2016
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * Building single-page and mutli-page web apps
 ** Using React and Angular
@@ -67,6 +70,7 @@ OKCupid (dating website) - Frontend Engineer, November 2013 - Auguest
 ** lazy loading assets
 ** optimized load times via vanilla.js landing pages, on-demand asset
 loading, bundling, and compression
+** unit tests
 * Assembling Grunt development environment, including:
 ** localhost server
 ** remote debugging console
@@ -91,7 +95,7 @@ including AWS
 
 [[bernieselfie.com-side-project---creator-july-2015---present]]
 BernieSelfie.com (side project) - creator, July 2015 - Present
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * creating a website that helps people combine their photos with
 campaign graphics and share the result on social media
@@ -99,7 +103,7 @@ campaign graphics and share the result on social media
 [[viggle-inc.-second-screen-app---senior-web-javascript-engineer-april-2013---october-2013]]
 Viggle Inc. (second screen app) - Senior Web / Javascript Engineer,
 April 2013 - October 2013
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * Owning the Angular codebase for two single page apps
 * Delegating tasks to other frontend engineers
@@ -109,7 +113,7 @@ initiatives
 
 [[blaboid-inc.-startup---entrepreneur-november-2010---april-2013]]
 Blaboid Inc. (startup) - Entrepreneur, November 2010 - April 2013
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * Launching a social networking platform
 * Coordinating business needs with lawyer, accountant, and consultants
@@ -120,7 +124,7 @@ PHP/MySQL backend
 [[alexander-interactive-agency---frontend-web-developer-may-2011---march-2012]]
 Alexander Interactive (Agency) - Frontend Web Developer, May 2011 -
 March 2012
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * Serving E-commerce clients such as Lowe’s Home Improvement and Adorama
 * Doing agile with daily scrum calls, sprint planning/review, and demos
@@ -131,7 +135,7 @@ for executive product owners
 [[kickappskit-digital-agency---frontend-web-developer-october-2010---may-2011]]
 KickApps/Kit Digital (Agency) - Frontend Web Developer, October 2010 -
 May 2011
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * Developing social portals for such clients as:
 ** The Doctor Oz TV Show
@@ -145,13 +149,13 @@ May 2011
 
 [[rail-europe-travel-website---web-designer-october-2006---october-2010]]
 Rail Europe (travel website) - Web designer, October 2006 - October 2010
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * developing mobile and desktop e-commerce web frontend
 
 [[epoch-band---guitarist-september-2003---october-2006]]
 Epoch (band) - Guitarist, September 2003 - October 2006
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * writing songs
 * engineering audio
@@ -162,7 +166,7 @@ Epoch (band) - Guitarist, September 2003 - October 2006
 
 [[regeneron-pharmaceuticals---graphic-designer-july-2000---october-2005]]
 Regeneron (pharmaceuticals) - Graphic designer, July 2000 - October 2005
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * Designing logos, banners, posters, fliers and presentation materials
 * Preparing images for patent submission
@@ -175,5 +179,3 @@ Education
 ~~~~~~~~~
 
 2003 Ithaca College, Ithaca NY, Bachelor of Arts, Philosophy Major
-
-'''''
