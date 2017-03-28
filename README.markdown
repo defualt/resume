@@ -1,4 +1,4 @@
-#**Brian Ephraim** - frontend engineer
+#**Brian Ephraim** - senior frontend engineer
 
 ---
 
@@ -15,23 +15,29 @@ github: [github.com/defualt](http://github.com/defualt)
 
 ###Technology
 
-**Languages:** Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP - SQL  
-**Javascript libraries:** React - Angular - jQuery - Require - Meteor - Backbone - VelocityJs  
-**CSS libraries:** Bourbon - Bootstrap - Foundation  
-**Testing:** Mocha - Chai - Enzyme  
+**Languages:** ES6 - Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP - SQL  
+**Frontend libraries:** React - Redux - Angular - jQuery - Require - Backbone  
+**Tooling:** WebPack - NPM - Gulp - Grunt - Docker - Vagrant - ImageMagick - Bower - Yeoman  
 **Servers:** Node - Apache  
-**Tooling:** WebPack - NPM - Grunt - Vagrant - ImageMagick - Bower - Yeoman  
-**Cloud services:** Sentry - Github - Amazon Web Services (AWS) - GitLab - BitBucket  
+**Testing:** Mocha - Chai - Enzyme - Karma - Jasmine - Protractor  
+**CSS libraries:** Bourbon - Bootstrap - Foundation  
+**Databases:** MongoDB - MySQL  
+**Cloud services:** Amazon Web Services (AWS) - Github - Sentry - GitLab - BitBucket  
 **Client/Server Communication:** AJAX - WebSockets  
-**Graphics Applications:** Photoshop - Illustrator - InDesign - Sketch  
+**Graphics Applications:** Sketch - Zeplin - Photoshop - Illustrator - InDesign  
 **Other Applications:** Sublime - iTerm2 - Chrome Dev Tools - iOs Simulator - Genymotion - All the Browsers  
 **Version Control:** Git - SVN - CVS  
-**OS:** OSX - Windows 7/XP  
-**Databases:** MongoDB - MySQL
+
 
 
 ###Career
 
+####Building Robotics (internet of things) - Senior Frontend Engineer, November 2016 - Present
+- Spearheading stack migration towards Webpack, Redux, and React
+- Establishing end-to-end test system
+- Integrating websockets in application frontend
+- Reviewing contributor code
+- Agile
 
 ####OKCupid (dating website) - Frontend Engineer, November 2013 - August 2016
 - Building single-page and mutli-page web apps

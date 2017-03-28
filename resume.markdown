@@ -1,4 +1,4 @@
-#**Brian Ephraim** - frontend engineer
+#**Brian Ephraim** - senior frontend engineer
 
 ---
 
@@ -15,23 +15,30 @@ github: [github.com/defualt](http://github.com/defualt)
 
 ###Technology
 
-**Languages:** Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP - SQL  
-**Javascript libraries:** React - Angular - jQuery - Require - Meteor - Backbone - VelocityJs  
-**CSS libraries:** Bourbon - Bootstrap - Foundation  
-**Testing:** Mocha - Chai - Enzyme  
+**Languages:** ES6 - Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP - SQL  
+**Frontend libraries:** React - Redux - Angular - jQuery - Require - Backbone  
+**Tooling:** WebPack - NPM - Gulp - Grunt - Docker - Vagrant - ImageMagick - Bower - Yeoman  
 **Servers:** Node - Apache  
-**Tooling:** WebPack - NPM - Grunt - Vagrant - ImageMagick - Bower - Yeoman  
-**Cloud services:** Sentry - Github - Amazon Web Services (AWS) - GitLab - BitBucket  
+**Testing:** Mocha - Chai - Enzyme - Karma - Jasmine - Protractor  
+**CSS libraries:** Bourbon - Bootstrap - Foundation  
+**Databases:** MongoDB - MySQL  
+**Cloud services:** Amazon Web Services (AWS) - Github - Sentry - GitLab - BitBucket  
 **Client/Server Communication:** AJAX - WebSockets  
-**Graphics Applications:** Photoshop - Illustrator - InDesign - Sketch  
+**Graphics Applications:** Sketch - Zeplin - Photoshop - Illustrator - InDesign  
 **Other Applications:** Sublime - iTerm2 - Chrome Dev Tools - iOs Simulator - Genymotion - All the Browsers  
 **Version Control:** Git - SVN - CVS  
-**OS:** OSX - Windows 7/XP  
-**Databases:** MongoDB - MySQL
+
 
 
 ###Career
 
+####Building Robotics (internet of things) - Senior Frontend Engineer, November 2016 - Present
+- Spearheading stack migration towards Webpack, Redux, and React
+- Establishing end-to-end test system
+- Integrating websockets in application frontend
+- Reviewing contributor code
+- Working 100% remote
+- Agile
 
 ####OKCupid (dating website) - Frontend Engineer, November 2013 - August 2016
 - Building single-page and mutli-page web apps
@@ -92,14 +99,14 @@ github: [github.com/defualt](http://github.com/defualt)
 - Developing the platform, consisting of a single page HTML5 Backbone mobile web app with user generated content, hosted on Amazon, with PHP/MySQL backend
 
 
-####Alexander Interactive (Agency) - Frontend Web Developer, May 2011 - March 2012
+####Alexander Interactive (agency) - Frontend Web Developer, May 2011 - March 2012
 - Serving E-commerce clients such as Lowe's Home Improvement and Adorama
 - Doing agile with daily scrum calls, sprint planning/review, and demos for executive product owners
 - Flying to client corporate headquarters for onsite consulting
 - Working with distributed team members via Skype and email
 
 
-####KickApps/Kit Digital (Agency) - Frontend Web Developer, October 2010 - May 2011
+####KickApps/Kit Digital (agency) - Frontend Web Developer, October 2010 - May 2011
 - Developing social portals for such clients as:
 	- The Doctor Oz TV Show
 	- MIT University

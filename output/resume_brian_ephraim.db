@@ -5,9 +5,9 @@
   <articleinfo>
     <title></title>
   </articleinfo>
-<sect1 id="brian-ephraim---frontend-engineer">
-  <title><emphasis role="strong">Brian Ephraim</emphasis> - frontend
-  engineer</title>
+<sect1 id="brian-ephraim---senior-frontend-engineer">
+  <title><emphasis role="strong">Brian Ephraim</emphasis> - senior
+  frontend engineer</title>
   <para>
     NYC / remote / Garrison, NY<literallayout>
 </literallayout>914-482-2364<literallayout>
@@ -23,39 +23,69 @@
     <sect3 id="technology">
       <title>Technology</title>
       <para>
-        <emphasis role="strong">Languages:</emphasis> Javascript - HTML5
-        - Sass - CSS3 - Bash - LESS - PHP - SQL<literallayout>
-</literallayout><emphasis role="strong">Javascript libraries:</emphasis>
-        React - Angular - jQuery - Require - Meteor - Backbone -
-        VelocityJs<literallayout>
-</literallayout><emphasis role="strong">CSS libraries:</emphasis>
-        Bourbon - Bootstrap - Foundation<literallayout>
-</literallayout><emphasis role="strong">Testing:</emphasis> Mocha - Chai
-        - Enzyme<literallayout>
+        <emphasis role="strong">Languages:</emphasis> ES6 - Javascript -
+        HTML5 - Sass - CSS3 - Bash - LESS - PHP - SQL<literallayout>
+</literallayout><emphasis role="strong">Frontend libraries:</emphasis>
+        React - Redux - Angular - jQuery - Require - Backbone<literallayout>
+</literallayout><emphasis role="strong">Tooling:</emphasis> WebPack -
+        NPM - Gulp - Grunt - Docker - Vagrant - ImageMagick - Bower -
+        Yeoman<literallayout>
 </literallayout><emphasis role="strong">Servers:</emphasis> Node -
         Apache<literallayout>
-</literallayout><emphasis role="strong">Tooling:</emphasis> WebPack -
-        NPM - Grunt - Vagrant - ImageMagick - Bower - Yeoman<literallayout>
+</literallayout><emphasis role="strong">Testing:</emphasis> Mocha - Chai
+        - Enzyme - Karma - Jasmine - Protractor<literallayout>
+</literallayout><emphasis role="strong">CSS libraries:</emphasis>
+        Bourbon - Bootstrap - Foundation<literallayout>
+</literallayout><emphasis role="strong">Databases:</emphasis> MongoDB -
+        MySQL<literallayout>
 </literallayout><emphasis role="strong">Cloud services:</emphasis>
-        Sentry - Github - Amazon Web Services (AWS) - GitLab - BitBucket<literallayout>
+        Amazon Web Services (AWS) - Github - Sentry - GitLab - BitBucket<literallayout>
 </literallayout><emphasis role="strong">Client/Server
         Communication:</emphasis> AJAX - WebSockets<literallayout>
 </literallayout><emphasis role="strong">Graphics
-        Applications:</emphasis> Photoshop - Illustrator - InDesign -
-        Sketch<literallayout>
+        Applications:</emphasis> Sketch - Zeplin - Photoshop -
+        Illustrator - InDesign<literallayout>
 </literallayout><emphasis role="strong">Other Applications:</emphasis>
         Sublime - iTerm2 - Chrome Dev Tools - iOs Simulator - Genymotion
         - All the Browsers<literallayout>
 </literallayout><emphasis role="strong">Version Control:</emphasis> Git
-        - SVN - CVS<literallayout>
-</literallayout><emphasis role="strong">OS:</emphasis> OSX - Windows
-        7/XP<literallayout>
-</literallayout><emphasis role="strong">Databases:</emphasis> MongoDB -
-        MySQL
+        - SVN - CVS
       </para>
     </sect3>
     <sect3 id="career">
       <title>Career</title>
+      <sect4 id="building-robotics-internet-of-things---senior-frontend-engineer-november-2016---present">
+        <title>Building Robotics (internet of things) - Senior Frontend
+        Engineer, November 2016 - Present</title>
+        <itemizedlist>
+          <listitem>
+            <para>
+              Spearheading stack migration towards Webpack, Redux, and
+              React
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Establishing end-to-end test system
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Integrating websockets in application frontend
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Reviewing contributor code
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Agile
+            </para>
+          </listitem>
+        </itemizedlist>
+      </sect4>
       <sect4 id="okcupid-dating-website---frontend-engineer-november-2013---august-2016">
         <title>OKCupid (dating website) - Frontend Engineer, November
         2013 - August 2016</title>
