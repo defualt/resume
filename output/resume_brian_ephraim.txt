@@ -1,6 +1,6 @@
 [[brian-ephraim---senior-frontend-engineer]]
-*Brian Ephraim* - senior frontend engineer
-------------------------------------------
+Brian Ephraim - senior frontend engineer
+----------------------------------------
 
 '''''
 
@@ -53,6 +53,7 @@ November 2016 - Present
 * Establishing end-to-end test system
 * Integrating websockets in application frontend
 * Reviewing contributor code
+* Working 100% remote
 * Agile
 
 [[okcupid-dating-website---frontend-engineer-november-2013---august-2016]]
@@ -133,7 +134,7 @@ mobile web app with user generated content, hosted on Amazon, with
 PHP/MySQL backend
 
 [[alexander-interactive-agency---frontend-web-developer-may-2011---march-2012]]
-Alexander Interactive (Agency) - Frontend Web Developer, May 2011 -
+Alexander Interactive (agency) - Frontend Web Developer, May 2011 -
 March 2012
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -144,7 +145,7 @@ for executive product owners
 * Working with distributed team members via Skype and email
 
 [[kickappskit-digital-agency---frontend-web-developer-october-2010---may-2011]]
-KickApps/Kit Digital (Agency) - Frontend Web Developer, October 2010 -
+KickApps/Kit Digital (agency) - Frontend Web Developer, October 2010 -
 May 2011
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 

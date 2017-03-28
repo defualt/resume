@@ -1,4 +1,4 @@
-#**Brian Ephraim** - senior frontend engineer
+#Brian Ephraim - senior frontend engineer
 
 ---
 

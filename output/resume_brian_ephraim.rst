@@ -1,5 +1,5 @@
-**Brian Ephraim** - senior frontend engineer
-============================================
+Brian Ephraim - senior frontend engineer
+========================================
 
 --------------
 
@@ -47,6 +47,7 @@ Building Robotics (internet of things) - Senior Frontend Engineer, November 2016
 -  Establishing end-to-end test system
 -  Integrating websockets in application frontend
 -  Reviewing contributor code
+-  Working 100% remote
 -  Agile
 
 OKCupid (dating website) - Frontend Engineer, November 2013 - August 2016
@@ -126,7 +127,7 @@ Blaboid Inc. (startup) - Entrepreneur, November 2010 - April 2013
    mobile web app with user generated content, hosted on Amazon, with
    PHP/MySQL backend
 
-Alexander Interactive (Agency) - Frontend Web Developer, May 2011 - March 2012
+Alexander Interactive (agency) - Frontend Web Developer, May 2011 - March 2012
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  Serving E-commerce clients such as Lowe's Home Improvement and
@@ -136,7 +137,7 @@ Alexander Interactive (Agency) - Frontend Web Developer, May 2011 - March 2012
 -  Flying to client corporate headquarters for onsite consulting
 -  Working with distributed team members via Skype and email
 
-KickApps/Kit Digital (Agency) - Frontend Web Developer, October 2010 - May 2011
+KickApps/Kit Digital (agency) - Frontend Web Developer, October 2010 - May 2011
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  Developing social portals for such clients as:

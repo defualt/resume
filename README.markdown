@@ -1,4 +1,4 @@
-#**Brian Ephraim** - senior frontend engineer
+#Brian Ephraim - senior frontend engineer
 
 ---
 
@@ -37,6 +37,7 @@ github: [github.com/defualt](http://github.com/defualt)
 - Establishing end-to-end test system
 - Integrating websockets in application frontend
 - Reviewing contributor code
+- Working 100% remote
 - Agile
 
 ####OKCupid (dating website) - Frontend Engineer, November 2013 - August 2016
@@ -98,14 +99,14 @@ github: [github.com/defualt](http://github.com/defualt)
 - Developing the platform, consisting of a single page HTML5 Backbone mobile web app with user generated content, hosted on Amazon, with PHP/MySQL backend
 
 
-####Alexander Interactive (Agency) - Frontend Web Developer, May 2011 - March 2012
+####Alexander Interactive (agency) - Frontend Web Developer, May 2011 - March 2012
 - Serving E-commerce clients such as Lowe's Home Improvement and Adorama
 - Doing agile with daily scrum calls, sprint planning/review, and demos for executive product owners
 - Flying to client corporate headquarters for onsite consulting
 - Working with distributed team members via Skype and email
 
 
-####KickApps/Kit Digital (Agency) - Frontend Web Developer, October 2010 - May 2011
+####KickApps/Kit Digital (agency) - Frontend Web Developer, October 2010 - May 2011
 - Developing social portals for such clients as:
 	- The Doctor Oz TV Show
 	- MIT University
