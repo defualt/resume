@@ -32,8 +32,9 @@ github: [github.com/defualt](http://github.com/defualt)
 
 ###Career
 
-####Building Robotics (internet of things) - Senior Frontend Engineer, November 2016 - Present
-- Spearheading stack migration towards Webpack, Redux, and React
+####Building Robotics (internet of things) - Senior Frontend Engineer, November 2016 - May 2017
+- Migrating build process towards Webpack
+- Advocating migration towards React/Redux
 - Establishing end-to-end test system
 - Integrating websockets in application frontend
 - Reviewing contributor code
