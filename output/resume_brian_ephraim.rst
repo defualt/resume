@@ -12,7 +12,7 @@ Brian Ephraim - senior frontend engineer
 
 --------------
 
-16 year professional summary
+18 year professional summary
 ----------------------------
 
 Technology
@@ -25,7 +25,8 @@ Backbone
 | **Tooling:** WebPack - NPM - Gulp - Grunt - Docker - Vagrant -
 ImageMagick - Bower - Yeoman
 | **Servers:** Node - Apache
-| **Testing:** Mocha - Chai - Enzyme - Karma - Jasmine - Protractor
+| **Testing:** Jest - Mocha - Chai - Enzyme - Karma - Jasmine -
+Protractor
 | **CSS libraries:** Bourbon - Bootstrap - Foundation
 | **Databases:** MongoDB - MySQL
 | **Cloud services:** Amazon Web Services (AWS) - Github - Sentry -
@@ -39,6 +40,53 @@ Simulator - Genymotion - All the Browsers
 
 Career
 ~~~~~~
+
+TED Conferences (video & education) - Consultant, January 2017 - present
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Developing React Native applications from the ground up
+-  Meeting application requirements as sole app developer on one project
+-  setting up a new React Native
+-  deploying with Fastlane to Android and iOs BETA testers
+-  handling Apple and Google signing certificates
+-  built entire application's screens and business logic
+-  hacking React Navigation to perform custom element based transitions
+   and complex navigation flows
+-  building backend in Node to support Beta phase
+-  communicating backend requirements for production needs to backend
+   engineers
+-  accomplishing network interacting with GraphQL
+-  integrating Codepush for faster iterations
+-  closely collaborating with design and product on features
+-  building a custom video player
+-  inventing a markdown-based pseudo CMS for non-technical copy
+   contributors
+-  Technical leading on another brand new React Native project
+-  maintaining both projects together as a monorepo with a custom
+   architecture to maximize code sharing
+-  converting specifications into tickets for other engineers to
+   accomplish
+-  providing principle code reviews for four engineers to ensure code
+   quality, performance, and conformance with established systems and
+   patterns
+
+Float (resource scheduling) - Senior Frontend Developer, November 2017 - March 2018
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Building a Slackbot
+-  Implementing new features and bug fixes on a complex legacy website
+-  Using React and Redux
+
+Building Robotics (internet of things) - Senior Frontend Engineer, November 2016 - May 2017
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Migrating build process towards Webpack
+-  Advocating migration towards React/Redux
+-  Establishing end-to-end test system
+-  Integrating websockets in application frontend
+-  Reviewing contributor code
+-  Working 100% remote
+-  Agile
 
 Building Robotics (internet of things) - Senior Frontend Engineer, November 2016 - May 2017
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -104,8 +152,8 @@ OKCupid (dating website) - Frontend Engineer, November 2013 - August 2016
 -  Collaborating closely with designers on product features
 -  Styling CSS with pixel perfect alignment against designer files
 
-BernieSelfie.com (side project) - creator, July 2015 - Present
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BernieSelfie.com (side project) - creator, July 2015 - May 2017
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  creating a website that helps people combine their photos with
    campaign graphics and share the result on social media

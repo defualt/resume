@@ -36,7 +36,7 @@ This setup is for Mac.  PC will require a variation of this setup.
 
 - In the GitHub application, got to Preferences > Advanced > Install Command Line Tools *This is advised for uploading your files to the GitHub servers.*
 
-- Install [MacTex](http://mirror.ctan.org/systems/mac/mactex/mactex-basic.pkg). *This is required for generating PDFs.*
+- Install [MacTex](http://tug.org/cgi-bin/mactex-download/MacTeX.pkg). *This is required for generating PDFs.*
 
 - Install [Pandoc](https://code.google.com/p/pandoc/downloads/detail?name=pandoc-1.11.1.dmg&can=2&q=) *This is the engine for generating various files.*
 
@@ -54,8 +54,7 @@ This setup is for Mac.  PC will require a variation of this setup.
  ````\curl -L https://get.rvm.io | bash -s stable --ruby````
  - *if you don't already have Homebrew installed enter:*  
 ````ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"```` ... when that's done run: ````brew doctor````
- - *if you don't already have Haskell installed enter:*  (this takes a while) (really really long time)
-````brew install haskell-platform```` ... then run ````cabal update````
+ - Install Haskell: https://www.haskell.org/platform/mac.html ... then run ````cabal update````
  - ````cabal install pandoc````
 
 - ~~Now we need to edit your Path file.  Enter this Terminal command, and it should open a document in text edit called ".bash_profile".~~
