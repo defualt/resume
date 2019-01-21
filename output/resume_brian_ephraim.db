@@ -67,94 +67,100 @@
               Meeting application requirements as sole app developer on
               one project
             </para>
-          </listitem>
-          <listitem>
-            <para>
-              setting up a new React Native
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              deploying with Fastlane to Android and iOs BETA testers
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              handling Apple and Google signing certificates
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              built entire application’s screens and business logic
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              hacking React Navigation to perform custom element based
-              transitions and complex navigation flows
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              building backend in Node to support Beta phase
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              communicating backend requirements for production needs to
-              backend engineers
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              accomplishing network interacting with GraphQL
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              integrating Codepush for faster iterations
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              closely collaborating with design and product on features
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              building a custom video player
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              inventing a markdown-based pseudo CMS for non-technical
-              copy contributors
-            </para>
+            <itemizedlist>
+              <listitem>
+                <para>
+                  setting up a new React Native
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  deploying with Fastlane to Android and iOs BETA
+                  testers
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  handling Apple and Google signing certificates
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  built entire application’s screens and business logic
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  hacking React Navigation to perform custom element
+                  based transitions and complex navigation flows
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  building backend in Node to support Beta phase
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  communicating backend requirements for production
+                  needs to backend engineers
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  accomplishing network interacting with GraphQL
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  integrating Codepush for faster iterations
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  closely collaborating with design and product on
+                  features
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  building a custom video player
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  inventing a markdown-based pseudo CMS for
+                  non-technical copy contributors
+                </para>
+              </listitem>
+            </itemizedlist>
           </listitem>
           <listitem>
             <para>
               Technical leading on another brand new React Native
               project
             </para>
-          </listitem>
-          <listitem>
-            <para>
-              maintaining both projects together as a monorepo with a
-              custom architecture to maximize code sharing
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              converting specifications into tickets for other engineers
-              to accomplish
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              providing principle code reviews for four engineers to
-              ensure code quality, performance, and conformance with
-              established systems and patterns
-            </para>
+            <itemizedlist>
+              <listitem>
+                <para>
+                  maintaining both projects together as a monorepo with
+                  a custom architecture to maximize code sharing
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  converting specifications into tickets for other
+                  engineers to accomplish
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  providing principle code reviews for four engineers to
+                  ensure code quality, performance, and conformance with
+                  established systems and patterns
+                </para>
+              </listitem>
+            </itemizedlist>
           </listitem>
         </itemizedlist>
       </sect4>

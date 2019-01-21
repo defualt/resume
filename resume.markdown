@@ -35,22 +35,22 @@ github: [github.com/defualt](http://github.com/defualt)
 #### TED Conferences (video & education) - Consultant, January 2017 - present
 - Developing React Native applications from the ground up
 - Meeting application requirements as sole app developer on one project
-  - setting up a new React Native
-  - deploying with Fastlane to Android and iOs BETA testers
-  - handling Apple and Google signing certificates
-  - built entire application's screens and business logic
-  - hacking React Navigation to perform custom element based transitions and complex navigation flows
-  - building backend in Node to support Beta phase
-  - communicating backend requirements for production needs to backend engineers
-  - accomplishing network interacting with GraphQL
-  - integrating Codepush for faster iterations
-  - closely collaborating with design and product on features
-  - building a custom video player
-  - inventing a markdown-based pseudo CMS for non-technical copy contributors
+	- setting up a new React Native
+	- deploying with Fastlane to Android and iOs BETA testers
+	- handling Apple and Google signing certificates
+	- built entire application's screens and business logic
+	- hacking React Navigation to perform custom element based transitions and complex navigation flows
+	- building backend in Node to support Beta phase
+	- communicating backend requirements for production needs to backend engineers
+	- accomplishing network interacting with GraphQL
+	- integrating Codepush for faster iterations
+	- closely collaborating with design and product on features
+	- building a custom video player
+	- inventing a markdown-based pseudo CMS for non-technical copy contributors
 - Technical leading on another brand new React Native project
-  - maintaining both projects together as a monorepo with a custom architecture to maximize code sharing
-  - converting specifications into tickets for other engineers to accomplish
-  - providing principle code reviews for four engineers to ensure code quality, performance, and conformance with established systems and patterns
+	- maintaining both projects together as a monorepo with a custom architecture to maximize code sharing
+	- converting specifications into tickets for other engineers to accomplish
+	- providing principle code reviews for four engineers to ensure code quality, performance, and conformance with established systems and patterns
 
 #### Float (resource scheduling) - Senior Frontend Developer, November 2017 - March 2018
 - Building a Slackbot
