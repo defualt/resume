@@ -227,47 +227,6 @@
           </listitem>
         </itemizedlist>
       </sect4>
-      <sect4 id="building-robotics-internet-of-things---senior-frontend-engineer-november-2016---may-2017-1">
-        <title>Building Robotics (internet of things) - Senior Frontend
-        Engineer, November 2016 - May 2017</title>
-        <itemizedlist>
-          <listitem>
-            <para>
-              Migrating build process towards Webpack
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              Advocating migration towards React/Redux
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              Establishing end-to-end test system
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              Integrating websockets in application frontend
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              Reviewing contributor code
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              Working 100% remote
-            </para>
-          </listitem>
-          <listitem>
-            <para>
-              Agile
-            </para>
-          </listitem>
-        </itemizedlist>
-      </sect4>
       <sect4 id="okcupid-dating-website---frontend-engineer-november-2013---august-2016">
         <title>OKCupid (dating website) - Frontend Engineer, November
         2013 - August 2016</title>

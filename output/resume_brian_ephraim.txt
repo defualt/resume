@@ -96,19 +96,6 @@ November 2016 - May 2017
 * Working 100% remote
 * Agile
 
-[[building-robotics-internet-of-things---senior-frontend-engineer-november-2016---may-2017-1]]
-Building Robotics (internet of things) - Senior Frontend Engineer,
-November 2016 - May 2017
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-* Migrating build process towards Webpack
-* Advocating migration towards React/Redux
-* Establishing end-to-end test system
-* Integrating websockets in application frontend
-* Reviewing contributor code
-* Working 100% remote
-* Agile
-
 [[okcupid-dating-website---frontend-engineer-november-2013---august-2016]]
 OKCupid (dating website) - Frontend Engineer, November 2013 - August
 2016
