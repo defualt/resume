@@ -21,7 +21,7 @@ namespace :html do
   desc "Generate standalone HTML file"
   task :generate => [:styles] do
     puts "Generating standalone HTML file from Markdown"
-    system("pandoc -s -S resume.markdown -o output/#{resumename}.html -t html5 --self-contained --template=templates/html/x.html -T \"Brian Ephraim's Resume\" -c css/main.css")
+    system("pandoc -s resume.markdown -o output/#{resumename}.html -t html5 --self-contained --template=templates/html/x.html -T \"Brian Ephraim's Resume\" -c css/main.css")
     system("cp output/#{resumename}.html index.html")
     puts "Done"
   end
@@ -40,7 +40,7 @@ namespace :pdf do
   desc "Generate PDF file"
   task :generate do
     puts "Generating PDF file from Markdown"
-    system("pandoc -V geometry:margin=1in --template=templates/pdf/x.tex resume.markdown -s -o output/#{resumename}.pdf")
+    system("pandoc resume.markdown --to=pdf -t latex -o output/#{resumename}.pdf --pdf-engine=/Library/TeX/texbin/pdflatex")
     puts "Done"
   end
 end
@@ -58,7 +58,7 @@ namespace :word do
   desc "Generate docx file"
   task :generate do
     puts "Generating docx file from Markdown"
-    system("pandoc -s -S resume.markdown -o output/#{resumename}.docx --reference-docx=templates/docx/x.docx")
+    system("pandoc -s resume.markdown -o output/#{resumename}.docx --reference-doc=templates/docx/x.docx")
     puts "Done"
   end
 end
@@ -107,15 +107,15 @@ task :readme do
 end
 
 task :all => [
-  "rst:generate",
+  # "rst:generate",
   "html:generate",
   "pdf:generate",
-  "rtf:generate",
+  # "rtf:generate",
   "word:generate",
-  "odt:generate",
-  "epub:generate",
-  "asciidoc:generate",
-  "docbook:generate",
+  # "odt:generate",
+  # "epub:generate",
+  # "asciidoc:generate",
+  # "docbook:generate",
   "readme"
 ]
 

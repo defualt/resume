@@ -35,8 +35,9 @@ github: [github.com/defualt](http://github.com/defualt)
 #### TED Conferences (video & education) - Consultant, January 2017 - present
 - Developing React Native applications from the ground up
 - Meeting application requirements as sole app developer on one project
-	- setting up a new React Native
-	- deploying with Fastlane to Android and iOs BETA testers
+	- launching the app to production in iOs App Store and Android Play Store
+	- setting up a new React Native project
+	- deploying with Fastlane to Android and iOs Beta testers
 	- handling Apple and Google signing certificates
 	- built entire application's screens and business logic
 	- hacking React Navigation to perform custom element based transitions and complex navigation flows
@@ -45,7 +46,7 @@ github: [github.com/defualt](http://github.com/defualt)
 	- accomplishing network interacting with GraphQL
 	- integrating Codepush for faster iterations
 	- closely collaborating with design and product on features
-	- building a custom video player
+	- building a custom video player and the entire video download functionality
 	- inventing a markdown-based pseudo CMS for non-technical copy contributors
 - Technical leading on another brand new React Native project
 	- maintaining both projects together as a monorepo with a custom architecture to maximize code sharing

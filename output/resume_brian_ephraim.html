@@ -3,34 +3,710 @@
 <head>
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
-  <title>Brian Ephraim's Resume - </title>
+  <title>Brian Ephraim&#39;s Resume - resume</title>
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <link href="data:text/css,%2F%2A%21%20normalize%2Ecss%20v2%2E1%2E2%20%7C%20MIT%20License%20%7C%20git%2Eio%2Fnormalize%20%2A%2F%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%20%20%20HTML5%20display%20definitions%0A%20%20%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%0A%2F%2A%2A%0A%20%2A%20Correct%20%60block%60%20display%20not%20defined%20in%20IE%208%2F9%2E%0A%20%2A%2F%0A%0Aarticle%2C%0Aaside%2C%0Adetails%2C%0Afigcaption%2C%0Afigure%2C%0Afooter%2C%0Aheader%2C%0Ahgroup%2C%0Amain%2C%0Anav%2C%0Asection%2C%0Asummary%20%7B%0A%20%20%20%20display%3A%20block%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Correct%20%60inline%2Dblock%60%20display%20not%20defined%20in%20IE%208%2F9%2E%0A%20%2A%2F%0A%0Aaudio%2C%0Acanvas%2C%0Avideo%20%7B%0A%20%20%20%20display%3A%20inline%2Dblock%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Prevent%20modern%20browsers%20from%20displaying%20%60audio%60%20without%20controls%2E%0A%20%2A%20Remove%20excess%20height%20in%20iOS%205%20devices%2E%0A%20%2A%2F%0A%0Aaudio%3Anot%28%5Bcontrols%5D%29%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%20%20height%3A%200%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Address%20styling%20not%20present%20in%20IE%208%2F9%2E%0A%20%2A%2F%0A%0A%5Bhidden%5D%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%20%20%20Base%0A%20%20%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%0A%2F%2A%2A%0A%20%2A%201%2E%20Set%20default%20font%20family%20to%20sans%2Dserif%2E%0A%20%2A%202%2E%20Prevent%20iOS%20text%20size%20adjust%20after%20orientation%20change%2C%20without%20disabling%0A%20%2A%20%20%20%20user%20zoom%2E%0A%20%2A%2F%0A%0Ahtml%20%7B%0A%20%20%20%20font%2Dfamily%3A%20sans%2Dserif%3B%20%2F%2A%201%20%2A%2F%0A%20%20%20%20%2Dms%2Dtext%2Dsize%2Dadjust%3A%20100%25%3B%20%2F%2A%202%20%2A%2F%0A%20%20%20%20%2Dwebkit%2Dtext%2Dsize%2Dadjust%3A%20100%25%3B%20%2F%2A%202%20%2A%2F%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Remove%20default%20margin%2E%0A%20%2A%2F%0A%0Abody%20%7B%0A%20%20%20%20margin%3A%200%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%20%20%20Links%0A%20%20%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%0A%2F%2A%2A%0A%20%2A%20Address%20%60outline%60%20inconsistency%20between%20Chrome%20and%20other%20browsers%2E%0A%20%2A%2F%0A%0Aa%3Afocus%20%7B%0A%20%20%20%20outline%3A%20thin%20dotted%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Improve%20readability%20when%20focused%20and%20also%20mouse%20hovered%20in%20all%20browsers%2E%0A%20%2A%2F%0A%0Aa%3Aactive%2C%0Aa%3Ahover%20%7B%0A%20%20%20%20outline%3A%200%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%20%20%20Typography%0A%20%20%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%0A%2F%2A%2A%0A%20%2A%20Address%20variable%20%60h1%60%20font%2Dsize%20and%20margin%20within%20%60section%60%20and%20%60article%60%0A%20%2A%20contexts%20in%20Firefox%204%2B%2C%20Safari%205%2C%20and%20Chrome%2E%0A%20%2A%2F%0A%0Ah1%20%7B%0A%20%20%20%20font%2Dsize%3A%202em%3B%0A%20%20%20%20margin%3A%200%2E67em%200%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Address%20styling%20not%20present%20in%20IE%208%2F9%2C%20Safari%205%2C%20and%20Chrome%2E%0A%20%2A%2F%0A%0Aabbr%5Btitle%5D%20%7B%0A%20%20%20%20border%2Dbottom%3A%201px%20dotted%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Address%20style%20set%20to%20%60bolder%60%20in%20Firefox%204%2B%2C%20Safari%205%2C%20and%20Chrome%2E%0A%20%2A%2F%0A%0Ab%2C%0Astrong%20%7B%0A%20%20%20%20font%2Dweight%3A%20bold%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Address%20styling%20not%20present%20in%20Safari%205%20and%20Chrome%2E%0A%20%2A%2F%0A%0Adfn%20%7B%0A%20%20%20%20font%2Dstyle%3A%20italic%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Address%20differences%20between%20Firefox%20and%20other%20browsers%2E%0A%20%2A%2F%0A%0Ahr%20%7B%0A%20%20%20%20%2Dmoz%2Dbox%2Dsizing%3A%20content%2Dbox%3B%0A%20%20%20%20box%2Dsizing%3A%20content%2Dbox%3B%0A%20%20%20%20height%3A%200%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Address%20styling%20not%20present%20in%20IE%208%2F9%2E%0A%20%2A%2F%0A%0Amark%20%7B%0A%20%20%20%20background%3A%20%23ff0%3B%0A%20%20%20%20color%3A%20%23000%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Correct%20font%20family%20set%20oddly%20in%20Safari%205%20and%20Chrome%2E%0A%20%2A%2F%0A%0Acode%2C%0Akbd%2C%0Apre%2C%0Asamp%20%7B%0A%20%20%20%20font%2Dfamily%3A%20monospace%2C%20serif%3B%0A%20%20%20%20font%2Dsize%3A%201em%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Improve%20readability%20of%20pre%2Dformatted%20text%20in%20all%20browsers%2E%0A%20%2A%2F%0A%0Apre%20%7B%0A%20%20%20%20white%2Dspace%3A%20pre%2Dwrap%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Set%20consistent%20quote%20types%2E%0A%20%2A%2F%0A%0Aq%20%7B%0A%20%20%20%20quotes%3A%20%22%5C201C%22%20%22%5C201D%22%20%22%5C2018%22%20%22%5C2019%22%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Address%20inconsistent%20and%20variable%20font%20size%20in%20all%20browsers%2E%0A%20%2A%2F%0A%0Asmall%20%7B%0A%20%20%20%20font%2Dsize%3A%2080%25%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Prevent%20%60sub%60%20and%20%60sup%60%20affecting%20%60line%2Dheight%60%20in%20all%20browsers%2E%0A%20%2A%2F%0A%0Asub%2C%0Asup%20%7B%0A%20%20%20%20font%2Dsize%3A%2075%25%3B%0A%20%20%20%20line%2Dheight%3A%200%3B%0A%20%20%20%20position%3A%20relative%3B%0A%20%20%20%20vertical%2Dalign%3A%20baseline%3B%0A%7D%0A%0Asup%20%7B%0A%20%20%20%20top%3A%20%2D0%2E5em%3B%0A%7D%0A%0Asub%20%7B%0A%20%20%20%20bottom%3A%20%2D0%2E25em%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%20%20%20Embedded%20content%0A%20%20%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%0A%2F%2A%2A%0A%20%2A%20Remove%20border%20when%20inside%20%60a%60%20element%20in%20IE%208%2F9%2E%0A%20%2A%2F%0A%0Aimg%20%7B%0A%20%20%20%20border%3A%200%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Correct%20overflow%20displayed%20oddly%20in%20IE%209%2E%0A%20%2A%2F%0A%0Asvg%3Anot%28%3Aroot%29%20%7B%0A%20%20%20%20overflow%3A%20hidden%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%20%20%20Figures%0A%20%20%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%0A%2F%2A%2A%0A%20%2A%20Address%20margin%20not%20present%20in%20IE%208%2F9%20and%20Safari%205%2E%0A%20%2A%2F%0A%0Afigure%20%7B%0A%20%20%20%20margin%3A%200%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%20%20%20Forms%0A%20%20%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%0A%2F%2A%2A%0A%20%2A%20Define%20consistent%20border%2C%20margin%2C%20and%20padding%2E%0A%20%2A%2F%0A%0Afieldset%20%7B%0A%20%20%20%20border%3A%201px%20solid%20%23c0c0c0%3B%0A%20%20%20%20margin%3A%200%202px%3B%0A%20%20%20%20padding%3A%200%2E35em%200%2E625em%200%2E75em%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%201%2E%20Correct%20%60color%60%20not%20being%20inherited%20in%20IE%208%2F9%2E%0A%20%2A%202%2E%20Remove%20padding%20so%20people%20aren%27t%20caught%20out%20if%20they%20zero%20out%20fieldsets%2E%0A%20%2A%2F%0A%0Alegend%20%7B%0A%20%20%20%20border%3A%200%3B%20%2F%2A%201%20%2A%2F%0A%20%20%20%20padding%3A%200%3B%20%2F%2A%202%20%2A%2F%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%201%2E%20Correct%20font%20family%20not%20being%20inherited%20in%20all%20browsers%2E%0A%20%2A%202%2E%20Correct%20font%20size%20not%20being%20inherited%20in%20all%20browsers%2E%0A%20%2A%203%2E%20Address%20margins%20set%20differently%20in%20Firefox%204%2B%2C%20Safari%205%2C%20and%20Chrome%2E%0A%20%2A%2F%0A%0Abutton%2C%0Ainput%2C%0Aselect%2C%0Atextarea%20%7B%0A%20%20%20%20font%2Dfamily%3A%20inherit%3B%20%2F%2A%201%20%2A%2F%0A%20%20%20%20font%2Dsize%3A%20100%25%3B%20%2F%2A%202%20%2A%2F%0A%20%20%20%20margin%3A%200%3B%20%2F%2A%203%20%2A%2F%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Address%20Firefox%204%2B%20setting%20%60line%2Dheight%60%20on%20%60input%60%20using%20%60%21important%60%20in%0A%20%2A%20the%20UA%20stylesheet%2E%0A%20%2A%2F%0A%0Abutton%2C%0Ainput%20%7B%0A%20%20%20%20line%2Dheight%3A%20normal%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Address%20inconsistent%20%60text%2Dtransform%60%20inheritance%20for%20%60button%60%20and%20%60select%60%2E%0A%20%2A%20All%20other%20form%20control%20elements%20do%20not%20inherit%20%60text%2Dtransform%60%20values%2E%0A%20%2A%20Correct%20%60button%60%20style%20inheritance%20in%20Chrome%2C%20Safari%205%2B%2C%20and%20IE%208%2B%2E%0A%20%2A%20Correct%20%60select%60%20style%20inheritance%20in%20Firefox%204%2B%20and%20Opera%2E%0A%20%2A%2F%0A%0Abutton%2C%0Aselect%20%7B%0A%20%20%20%20text%2Dtransform%3A%20none%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%201%2E%20Avoid%20the%20WebKit%20bug%20in%20Android%204%2E0%2E%2A%20where%20%282%29%20destroys%20native%20%60audio%60%0A%20%2A%20%20%20%20and%20%60video%60%20controls%2E%0A%20%2A%202%2E%20Correct%20inability%20to%20style%20clickable%20%60input%60%20types%20in%20iOS%2E%0A%20%2A%203%2E%20Improve%20usability%20and%20consistency%20of%20cursor%20style%20between%20image%2Dtype%0A%20%2A%20%20%20%20%60input%60%20and%20others%2E%0A%20%2A%2F%0A%0Abutton%2C%0Ahtml%20input%5Btype%3D%22button%22%5D%2C%20%2F%2A%201%20%2A%2F%0Ainput%5Btype%3D%22reset%22%5D%2C%0Ainput%5Btype%3D%22submit%22%5D%20%7B%0A%20%20%20%20%2Dwebkit%2Dappearance%3A%20button%3B%20%2F%2A%202%20%2A%2F%0A%20%20%20%20cursor%3A%20pointer%3B%20%2F%2A%203%20%2A%2F%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Re%2Dset%20default%20cursor%20for%20disabled%20elements%2E%0A%20%2A%2F%0A%0Abutton%5Bdisabled%5D%2C%0Ahtml%20input%5Bdisabled%5D%20%7B%0A%20%20%20%20cursor%3A%20default%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%201%2E%20Address%20box%20sizing%20set%20to%20%60content%2Dbox%60%20in%20IE%208%2F9%2E%0A%20%2A%202%2E%20Remove%20excess%20padding%20in%20IE%208%2F9%2E%0A%20%2A%2F%0A%0Ainput%5Btype%3D%22checkbox%22%5D%2C%0Ainput%5Btype%3D%22radio%22%5D%20%7B%0A%20%20%20%20box%2Dsizing%3A%20border%2Dbox%3B%20%2F%2A%201%20%2A%2F%0A%20%20%20%20padding%3A%200%3B%20%2F%2A%202%20%2A%2F%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%201%2E%20Address%20%60appearance%60%20set%20to%20%60searchfield%60%20in%20Safari%205%20and%20Chrome%2E%0A%20%2A%202%2E%20Address%20%60box%2Dsizing%60%20set%20to%20%60border%2Dbox%60%20in%20Safari%205%20and%20Chrome%0A%20%2A%20%20%20%20%28include%20%60%2Dmoz%60%20to%20future%2Dproof%29%2E%0A%20%2A%2F%0A%0Ainput%5Btype%3D%22search%22%5D%20%7B%0A%20%20%20%20%2Dwebkit%2Dappearance%3A%20textfield%3B%20%2F%2A%201%20%2A%2F%0A%20%20%20%20%2Dmoz%2Dbox%2Dsizing%3A%20content%2Dbox%3B%0A%20%20%20%20%2Dwebkit%2Dbox%2Dsizing%3A%20content%2Dbox%3B%20%2F%2A%202%20%2A%2F%0A%20%20%20%20box%2Dsizing%3A%20content%2Dbox%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Remove%20inner%20padding%20and%20search%20cancel%20button%20in%20Safari%205%20and%20Chrome%0A%20%2A%20on%20OS%20X%2E%0A%20%2A%2F%0A%0Ainput%5Btype%3D%22search%22%5D%3A%3A%2Dwebkit%2Dsearch%2Dcancel%2Dbutton%2C%0Ainput%5Btype%3D%22search%22%5D%3A%3A%2Dwebkit%2Dsearch%2Ddecoration%20%7B%0A%20%20%20%20%2Dwebkit%2Dappearance%3A%20none%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%20Remove%20inner%20padding%20and%20border%20in%20Firefox%204%2B%2E%0A%20%2A%2F%0A%0Abutton%3A%3A%2Dmoz%2Dfocus%2Dinner%2C%0Ainput%3A%3A%2Dmoz%2Dfocus%2Dinner%20%7B%0A%20%20%20%20border%3A%200%3B%0A%20%20%20%20padding%3A%200%3B%0A%7D%0A%0A%2F%2A%2A%0A%20%2A%201%2E%20Remove%20default%20vertical%20scrollbar%20in%20IE%208%2F9%2E%0A%20%2A%202%2E%20Improve%20readability%20and%20alignment%20in%20all%20browsers%2E%0A%20%2A%2F%0A%0Atextarea%20%7B%0A%20%20%20%20overflow%3A%20auto%3B%20%2F%2A%201%20%2A%2F%0A%20%20%20%20vertical%2Dalign%3A%20top%3B%20%2F%2A%202%20%2A%2F%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%20%20%20Tables%0A%20%20%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%0A%2F%2A%2A%0A%20%2A%20Remove%20most%20spacing%20between%20table%20cells%2E%0A%20%2A%2F%0A%0Atable%20%7B%0A%20%20%20%20border%2Dcollapse%3A%20collapse%3B%0A%20%20%20%20border%2Dspacing%3A%200%3B%0A%7D%0A%0A%0A%2F%2A%20Make%20clicks%20pass%2Dthrough%20%2A%2F%0A%23nprogress%20%7B%0A%20%20pointer%2Devents%3A%20none%3B%0A%20%20%2Dwebkit%2Dpointer%2Devents%3A%20none%3B%0A%7D%0A%0A%23nprogress%20%2Ebar%20%7B%0A%20%20background%3A%20%2329d%3B%0A%0A%20%20position%3A%20fixed%3B%0A%20%20z%2Dindex%3A%20100%3B%0A%20%20top%3A%200%3B%0A%20%20left%3A%200%3B%0A%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%202px%3B%0A%7D%0A%0A%2F%2A%20Fancy%20blur%20effect%20%2A%2F%0A%23nprogress%20%2Epeg%20%7B%0A%20%20display%3A%20block%3B%0A%20%20position%3A%20absolute%3B%0A%20%20right%3A%200px%3B%0A%20%20width%3A%20100px%3B%0A%20%20height%3A%20100%25%3B%0A%20%20box%2Dshadow%3A%200%200%2010px%20%2329d%2C%200%200%205px%20%2329d%3B%0A%20%20opacity%3A%201%2E0%3B%0A%0A%20%20%2Dwebkit%2Dtransform%3A%20rotate%283deg%29%20translate%280px%2C%20%2D4px%29%3B%0A%20%20%2Dmoz%2Dtransform%3A%20rotate%283deg%29%20translate%280px%2C%20%2D4px%29%3B%0A%20%20%2Dms%2Dtransform%3A%20rotate%283deg%29%20translate%280px%2C%20%2D4px%29%3B%0A%20%20%2Do%2Dtransform%3A%20rotate%283deg%29%20translate%280px%2C%20%2D4px%29%3B%0A%20%20transform%3A%20rotate%283deg%29%20translate%280px%2C%20%2D4px%29%3B%0A%7D%0A%0A%2F%2A%20Remove%20these%20to%20get%20rid%20of%20the%20spinner%20%2A%2F%0A%23nprogress%20%2Espinner%20%7B%0A%20%20display%3A%20block%3B%0A%20%20position%3A%20fixed%3B%0A%20%20z%2Dindex%3A%20100%3B%0A%20%20top%3A%2015px%3B%0A%20%20right%3A%2015px%3B%0A%7D%0A%0A%23nprogress%20%2Espinner%2Dicon%20%7B%0A%20%20width%3A%2014px%3B%0A%20%20height%3A%2014px%3B%0A%0A%20%20border%3A%20%20solid%202px%20transparent%3B%0A%20%20border%2Dtop%2Dcolor%3A%20%20%2329d%3B%0A%20%20border%2Dleft%2Dcolor%3A%20%2329d%3B%0A%20%20border%2Dradius%3A%2010px%3B%0A%0A%20%20%2Dwebkit%2Danimation%3A%20nprogress%2Dspinner%20400ms%20linear%20infinite%3B%0A%20%20%2Dmoz%2Danimation%3A%20%20%20%20nprogress%2Dspinner%20400ms%20linear%20infinite%3B%0A%20%20%2Dms%2Danimation%3A%20%20%20%20%20nprogress%2Dspinner%20400ms%20linear%20infinite%3B%0A%20%20%2Do%2Danimation%3A%20%20%20%20%20%20nprogress%2Dspinner%20400ms%20linear%20infinite%3B%0A%20%20animation%3A%20%20%20%20%20%20%20%20%20nprogress%2Dspinner%20400ms%20linear%20infinite%3B%0A%7D%0A%0A%40%2Dwebkit%2Dkeyframes%20nprogress%2Dspinner%20%7B%0A%20%200%25%20%20%20%7B%20%2Dwebkit%2Dtransform%3A%20rotate%280deg%29%3B%20%20%20transform%3A%20rotate%280deg%29%3B%20%7D%0A%20%20100%25%20%7B%20%2Dwebkit%2Dtransform%3A%20rotate%28360deg%29%3B%20transform%3A%20rotate%28360deg%29%3B%20%7D%0A%7D%0A%40%2Dmoz%2Dkeyframes%20nprogress%2Dspinner%20%7B%0A%20%200%25%20%20%20%7B%20%2Dmoz%2Dtransform%3A%20rotate%280deg%29%3B%20%20%20transform%3A%20rotate%280deg%29%3B%20%7D%0A%20%20100%25%20%7B%20%2Dmoz%2Dtransform%3A%20rotate%28360deg%29%3B%20transform%3A%20rotate%28360deg%29%3B%20%7D%0A%7D%0A%40%2Do%2Dkeyframes%20nprogress%2Dspinner%20%7B%0A%20%200%25%20%20%20%7B%20%2Do%2Dtransform%3A%20rotate%280deg%29%3B%20%20%20transform%3A%20rotate%280deg%29%3B%20%7D%0A%20%20100%25%20%7B%20%2Do%2Dtransform%3A%20rotate%28360deg%29%3B%20transform%3A%20rotate%28360deg%29%3B%20%7D%0A%7D%0A%40%2Dms%2Dkeyframes%20nprogress%2Dspinner%20%7B%0A%20%200%25%20%20%20%7B%20%2Dms%2Dtransform%3A%20rotate%280deg%29%3B%20%20%20transform%3A%20rotate%280deg%29%3B%20%7D%0A%20%20100%25%20%7B%20%2Dms%2Dtransform%3A%20rotate%28360deg%29%3B%20transform%3A%20rotate%28360deg%29%3B%20%7D%0A%7D%0A%40keyframes%20nprogress%2Dspinner%20%7B%0A%20%200%25%20%20%20%7B%20transform%3A%20rotate%280deg%29%3B%20%20%20transform%3A%20rotate%280deg%29%3B%20%7D%0A%20%20100%25%20%7B%20transform%3A%20rotate%28360deg%29%3B%20transform%3A%20rotate%28360deg%29%3B%20%7D%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2F%2A%20Base%20%2A%2F%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0Ahtml%2C%20body%20%7B%0A%20%20height%3A%20100%25%3B%0A%7D%0A%0Abody%20%7B%0A%20%20background%3A%20%23fefefe%3B%0A%20%20color%3A%20%23424242%3B%0A%20%20font%2Dfamily%3A%20%22Open%20Sans%22%2C%20arial%2C%20sans%2Dserif%3B%0A%20%20font%2Dsize%3A%2018px%3B%0A%7D%0A%0Ah1%2C%20h2%2C%20h3%2C%20h4%2C%20h5%2C%20h6%20%7B%0A%20%20margin%2Dbottom%3A%2033px%3B%0A%20%20text%2Dtransform%3A%20none%3B%0A%7D%0A%0Ah1%20%7B%0A%20%20font%2Dsize%3A%2026px%3B%0A%7D%0A%0Ah2%20%7B%0A%20%20font%2Dsize%3A%2024px%3B%0A%7D%0A%0Ah3%20%7B%0A%20%20font%2Dsize%3A%2020px%3B%0A%20%20margin%2Dbottom%3A%2020px%3B%0A%7D%0A%0Ah4%20%7B%0A%20%20font%2Dsize%3A%2018px%3B%0A%20%20margin%2Dbottom%3A%2018px%3B%0A%7D%0A%0Ah5%20%7B%0A%20%20font%2Dsize%3A%2016px%3B%0A%20%20margin%2Dbottom%3A%2015px%3B%0A%7D%0A%0Ah6%20%7B%0A%20%20font%2Dsize%3A%2014px%3B%0A%20%20margin%2Dbottom%3A%2012px%3B%0A%7D%0A%0Ap%20%7B%0A%20%20line%2Dheight%3A%201%2E8%3B%0A%20%20margin%3A%200%200%2030px%3B%0A%7D%0A%0Aa%20%7B%0A%20%20color%3A%20%23f03838%3B%0A%20%20text%2Ddecoration%3A%20none%3B%0A%7D%0A%0Aul%2C%20ol%20%7B%0A%20%20line%2Dheight%3A%201%2E8%3B%0A%20%20margin%3A%200%200%2040px%3B%0A%20%20padding%2Dleft%3A%201em%3B%0A%7D%0Aul%20li%2C%20ol%20li%20%7B%0A%20%20margin%3A%200%200%2010px%3B%0A%7D%0A%0Ablockquote%20%7B%0A%20%20border%2Dleft%3A%201px%20dotted%20%23303030%3B%0A%20%20margin%3A%2040px%200%3B%0A%20%20padding%3A%205px%2030px%3B%0A%7D%0Ablockquote%20p%20%7B%0A%20%20color%3A%20%23AEADAD%3B%0A%20%20display%3A%20block%3B%0A%20%20font%2Dstyle%3A%20italic%3B%0A%20%20margin%3A%200%3B%0A%20%20width%3A%20100%25%3B%0A%7D%0A%0Aimg%20%7B%0A%20%20display%3A%20block%3B%0A%20%20margin%3A%2040px%200%3B%0A%20%20width%3A%20auto%3B%0A%20%20max%2Dwidth%3A%20100%25%3B%0A%7D%0A%0Apre%20%7B%0A%20%20background%3A%20%23F1F0EA%3B%0A%20%20border%3A%201px%20solid%20%23DDDBCC%3B%0A%20%20border%2Dradius%3A%203px%3B%0A%20%20margin%3A%200%200%2040px%3B%0A%20%20padding%3A%2015px%2020px%3B%0A%7D%0A%0A%3A%3Aselection%20%7B%0A%20%20background%3A%20%23FFF5B8%3B%0A%20%20color%3A%20%23000%3B%0A%20%20display%3A%20block%3B%0A%7D%0A%0A%3A%3A%2Dmoz%2Dselection%20%7B%0A%20%20background%3A%20%23FFF5B8%3B%0A%20%20color%3A%20%23000%3B%0A%20%20display%3A%20block%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2F%2A%20General%20Appearance%20%2A%2F%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2Econtainer%20%7B%0A%20%20margin%3A%200%20auto%3B%0A%20%20position%3A%20relative%3B%0A%20%20width%3A%20100%25%3B%0A%20%20max%2Dwidth%3A%20889px%3B%0A%7D%0A%0A%23wrapper%20%7B%0A%20%20height%3A%20auto%3B%0A%20%20min%2Dheight%3A%20100%25%3B%0A%20%20%2F%2A%20This%20must%20be%20the%20same%20as%20the%20height%20of%20the%20footer%20%2A%2F%0A%20%20margin%2Dbottom%3A%20%2D265px%3B%0A%7D%0A%23wrapper%3Aafter%20%7B%0A%20%20content%3A%20%22%22%3B%0A%20%20display%3A%20block%3B%0A%20%20%2F%2A%20This%20must%20be%20the%20same%20as%20the%20height%20of%20the%20footer%20%2A%2F%0A%20%20height%3A%20265px%3B%0A%7D%0A%0A%2Ebutton%20%7B%0A%20%20background%3A%20%23303030%3B%0A%20%20border%3A%20none%3B%0A%20%20border%2Dradius%3A%203px%3B%0A%20%20color%3A%20%23FEFEFE%3B%0A%20%20font%2Dsize%3A%2014px%3B%0A%20%20font%2Dweight%3A%20700%3B%0A%20%20padding%3A%2010px%2012px%3B%0A%20%20text%2Dtransform%3A%20uppercase%3B%0A%7D%0A%2Ebutton%3Ahover%20%7B%0A%20%20background%3A%20%23f03838%3B%0A%7D%0A%0A%2Ebutton%2Dsquare%20%7B%0A%20%20background%3A%20%23f03838%3B%0A%20%20float%3A%20left%3B%0A%20%20margin%3A%200%200%200%2010px%3B%0A%20%20padding%3A%208px%3B%0A%7D%0A%2Ebutton%2Dsquare%3Ahover%20%7B%0A%20%20background%3A%20%23303030%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2F%2A%20Site%20Header%20%2A%2F%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2Esite%2Dheader%20%7B%0A%20%20padding%3A%20100px%200%2035px%3B%0A%20%20overflow%3A%20auto%3B%0A%20%20text%2Dalign%3A%20center%3B%0A%20%20text%2Dtransform%3A%20uppercase%3B%0A%7D%0A%0A%2Esite%2Dtitle%2Dwrapper%20%7B%0A%20%20display%3A%20table%3B%0A%20%20margin%3A%200%20auto%3B%0A%7D%0A%0A%2Esite%2Dtitle%20%7B%0A%20%20float%3A%20left%3B%0A%20%20font%2Dsize%3A%2014px%3B%0A%20%20font%2Dweight%3A%20600%3B%0A%20%20margin%3A%200%3B%0A%20%20text%2Dtransform%3A%20uppercase%3B%0A%7D%0A%2Esite%2Dtitle%20a%20%7B%0A%20%20float%3A%20left%3B%0A%20%20background%3A%20%23f03838%3B%0A%20%20color%3A%20%23FEFEFE%3B%0A%20%20padding%3A%205px%2010px%206px%3B%0A%7D%0A%2Esite%2Dtitle%20a%3Ahover%20%7B%0A%20%20background%3A%20%23303030%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2F%2A%20Post%20%2A%2F%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2Epost%20%7B%0A%20%20margin%3A%200%2040px%3B%0A%7D%0A%0A%2Epost%2Dheader%20%7B%0A%20%20border%2Dbottom%3A%206px%20solid%20%23303030%3B%0A%20%20margin%3A%200%200%2050px%3B%0A%20%20padding%3A%200%200%2080px%3B%0A%20%20text%2Dalign%3A%20center%3B%0A%20%20text%2Dtransform%3A%20uppercase%3B%0A%7D%0A%0A%2Epost%2Dtitle%20%7B%0A%20%20font%2Dsize%3A%2052px%3B%0A%20%20font%2Dweight%3A%20700%3B%0A%20%20margin%3A%2015px%200%3B%0A%20%20text%2Dtransform%3A%20uppercase%3B%0A%7D%0A%0A%2Epost%2Ddate%20%7B%0A%20%20color%3A%20%23AEADAD%3B%0A%20%20font%2Dsize%3A%2014px%3B%0A%20%20font%2Dweight%3A%20600%3B%0A%20%20line%2Dheight%3A%201%3B%0A%20%20margin%3A%2025px%200%200%3B%0A%7D%0A%2Epost%2Ddate%3Aafter%20%7B%0A%20%20border%2Dbottom%3A%201px%20dotted%20%23303030%3B%0A%20%20content%3A%20%22%22%3B%0A%20%20display%3A%20block%3B%0A%20%20margin%3A%2040px%20auto%200%3B%0A%20%20width%3A%20100px%3B%0A%7D%0A%0A%2Epost%2Dcontent%20%7B%0A%20%20margin%3A%200%200%2092px%3B%0A%7D%0A%2Epost%2Dcontent%20a%3Ahover%20%7B%0A%20%20border%2Dbottom%3A%201px%20dotted%20%23f03838%3B%0A%20%20padding%3A%200%200%202px%3B%0A%7D%0A%0A%2Epost%2Dtags%20%7B%0A%20%20color%3A%20%23AEADAD%3B%0A%20%20font%2Dsize%3A%2014px%3B%0A%7D%0A%2Epost%2Dtags%20span%20%7B%0A%20%20font%2Dweight%3A%20600%3B%0A%7D%0A%0A%2Epost%2Dnavigation%20%7B%0A%20%20display%3A%20table%3B%0A%20%20margin%3A%2070px%20auto%20100px%3B%0A%7D%0A%0A%2Enewer%2Dposts%2C%0A%2Eolder%2Dposts%20%7B%0A%20%20float%3A%20left%3B%0A%20%20background%3A%20%23f03838%3B%0A%20%20color%3A%20%23FEFEFE%3B%0A%20%20font%2Dsize%3A%2014px%3B%0A%20%20font%2Dweight%3A%20600%3B%0A%20%20margin%3A%200%205px%3B%0A%20%20padding%3A%205px%2010px%206px%3B%0A%20%20text%2Dtransform%3A%20uppercase%3B%0A%7D%0A%2Enewer%2Dposts%3Ahover%2C%0A%2Eolder%2Dposts%3Ahover%20%7B%0A%20%20background%3A%20%23303030%3B%0A%7D%0A%0A%2Epage%2Dnumber%20%7B%0A%20%20display%3A%20none%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2F%2A%20Post%20Index%20%2A%2F%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2Epost%2Dlist%20%7B%0A%20%20border%2Dtop%3A%206px%20solid%20%23303030%3B%0A%20%20list%2Dstyle%3A%20none%3B%0A%20%20margin%3A%2080px%2040px%200%3B%0A%20%20padding%3A%2035px%200%200%3B%0A%7D%0A%0A%2Epost%2Dstub%20%7B%0A%20%20border%2Dbottom%3A%201px%20dotted%20%23303030%3B%0A%20%20margin%3A%200%3B%0A%7D%0A%2Epost%2Dstub%3Afirst%2Dchild%20%7B%0A%20%20padding%2Dtop%3A%200%3B%0A%7D%0A%2Epost%2Dstub%20a%20%7B%0A%20%20%2Dwebkit%2Dtransition%3A%20all%200%2E2s%20ease%2Din%2Dout%3B%0A%20%20%2Dmoz%2Dtransition%3A%20all%200%2E2s%20ease%2Din%2Dout%3B%0A%20%20transition%3A%20all%200%2E2s%20ease%2Din%2Dout%3B%0A%20%20display%3A%20block%3B%0A%20%20color%3A%20%23424242%3B%0A%20%20padding%3A%2020px%205px%3B%0A%7D%0A%2Epost%2Dstub%20a%3Ahover%20%7B%0A%20%20background%3A%20%23FCF5F5%3B%0A%20%20color%3A%20%23f03838%3B%0A%20%20padding%3A%2020px%2012px%3B%0A%7D%0A%0A%2Epost%2Dstub%2Dtitle%20%7B%0A%20%20display%3A%20inline%2Dblock%3B%0A%20%20margin%3A%200%3B%0A%20%20text%2Dtransform%3A%20none%3B%0A%7D%0A%0A%2Epost%2Dstub%2Ddate%20%7B%0A%20%20display%3A%20inline%2Dblock%3B%0A%7D%0A%2Epost%2Dstub%2Ddate%3Abefore%20%7B%0A%20%20content%3A%20%22%2F%20%22%3B%0A%7D%0A%0A%2Enext%2Dposts%2Dlink%20a%2C%0A%2Eprevious%2Dposts%2Dlink%20a%20%7B%0A%20%20display%3A%20block%3B%0A%20%20padding%3A%208px%2011px%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2F%2A%20Icons%20%2A%2F%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2Eicon%20%7B%0A%20%20background%2Dsize%3A%2014px%2038px%3B%0A%20%20display%3A%20block%3B%0A%20%20height%3A%2038px%3B%0A%20%20width%3A%2014px%3B%0A%7D%0A%0A%2Eicon%2Dmenu%20%7B%0A%20%20background%2Dposition%3A%200%200%3B%0A%20%20height%3A%2014px%3B%0A%20%20width%3A%2014px%3B%0A%7D%0A%0A%2Eicon%2Dup%20%7B%0A%20%20background%2Dposition%3A%200%20%2D15px%3B%0A%20%20height%3A%208px%3B%0A%20%20width%3A%2014px%3B%0A%7D%0A%0A%2Eicon%2Drss%20%7B%0A%20%20background%2Dposition%3A%200%20%2D24px%3B%0A%20%20height%3A%2014px%3B%0A%20%20width%3A%2014px%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2F%2A%20Footer%20%2A%2F%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2Efooter%20%7B%0A%20%20background%3A%20%23303030%3B%0A%20%20color%3A%20%23D3D3D3%3B%0A%20%20height%3A%20265px%3B%0A%20%20overflow%3A%20auto%3B%0A%7D%0A%2Efooter%20%2Esite%2Dtitle%2Dwrapper%20%7B%0A%20%20margin%3A%2080px%20auto%2035px%3B%0A%7D%0A%2Efooter%20%2Esite%2Dtitle%20a%3Ahover%2C%0A%2Efooter%20%2Ebutton%2Dsquare%3Ahover%20%7B%0A%20%20background%3A%20%23121212%3B%0A%7D%0A%0A%2Ebutton%2Djump%2Dtop%20%7B%0A%20%20padding%2Dtop%3A%2011px%3B%0A%20%20padding%2Dbottom%3A%2011px%3B%0A%7D%0A%0A%2Efooter%2Dcopyright%20%7B%0A%20%20color%3A%20%23656565%3B%0A%20%20font%2Dsize%3A%2014px%3B%0A%20%20margin%3A%200%3B%0A%20%20text%2Dalign%3A%20center%3B%0A%20%20text%2Dtransform%3A%20uppercase%3B%0A%7D%0A%2Efooter%2Dcopyright%20a%20%7B%0A%20%20color%3A%20%23656565%3B%0A%20%20font%2Dweight%3A%20700%3B%0A%7D%0A%2Efooter%2Dcopyright%20a%3Ahover%20%7B%0A%20%20color%3A%20%23FEFEFE%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2F%2A%20NProgress%20%2A%2F%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%23nprogress%20%2Ebar%20%7B%0A%20%20background%3A%20%23f03838%3B%0A%7D%0A%0A%23nprogress%20%2Epeg%20%7B%0A%20%20box%2Dshadow%3A%200%200%2010px%20%23f03838%2C%200%200%205px%20%23f03838%3B%0A%7D%0A%0A%23nprogress%20%2Espinner%2Dicon%20%7B%0A%20%20border%2Dtop%2Dcolor%3A%20%23f03838%3B%0A%20%20border%2Dleft%2Dcolor%3A%20%23f03838%3B%0A%7D%0A%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%2F%2A%20Media%20Queries%20%2A%2F%0A%2F%2A%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%2A%2F%0A%40media%20only%20screen%20and%20%28max%2Dwidth%3A%20600px%29%20%7B%0A%20%20%2Epost%2Dstub%2Dtitle%20%7B%0A%20%20%20%20display%3A%20block%3B%0A%20%20%7D%0A%0A%20%20%2Epost%2Dstub%2Ddate%3Abefore%20%7B%0A%20%20%20%20content%3A%20%22%22%3B%0A%20%20%20%20display%3A%20block%3B%0A%20%20%7D%0A%7D%0A%40media%20only%20screen%20and%20%28max%2Dwidth%3A%20400px%29%20%7B%0A%20%20%2Epost%2Dtitle%20%7B%0A%20%20%20%20font%2Dsize%3A%2032px%3B%0A%20%20%7D%0A%7D%0A%0Abody%7B%0A%20%20width%3A80%25%3B%0A%20%20margin%3A10%25%20auto%3B%0A%7D%0A" rel="stylesheet">
-<script src="data:application/x-javascript,%28function%20%28d%29%20%7B%0A%20%20var%20metas%20%3D%20d%2EgetElementsByTagName%28%27meta%27%29%3B%0A%20%20var%20i%3B%0A%20%20function%20gestureStart%28%29%20%7B%0A%20%20%20%20for%20%28i%3D0%3B%20i%3Cmetas%2Elength%3B%20i%2B%2B%29%20%7B%0A%20%20%20%20%20%20if%20%28metas%5Bi%5D%2Ename%20%3D%3D%3D%20%22viewport%22%29%20%7B%0A%20%20%20%20%20%20%20%20metas%5Bi%5D%2Econtent%20%3D%20%22width%3Ddevice%2Dwidth%2C%20minimum%2Dscale%3D0%2E25%2C%20maximum%2Dscale%3D1%2E6%22%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20if%20%28navigator%2EuserAgent%2Ematch%28%2FiPhone%2Fi%29%29%20%7B%0A%20%20%20%20for%20%28i%3D0%3B%20i%3Cmetas%2Elength%3B%20i%2B%2B%29%20%7B%0A%20%20%20%20%20%20if%20%28metas%5Bi%5D%2Ename%20%3D%3D%3D%20%22viewport%22%29%20%7B%0A%20%20%20%20%20%20%20%20metas%5Bi%5D%2Econtent%20%3D%20%22width%3Ddevice%2Dwidth%2C%20minimum%2Dscale%3D1%2E0%2C%20maximum%2Dscale%3D1%2E0%22%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20d%2EaddEventListener%28%22gesturestart%22%2C%20gestureStart%2C%20false%29%3B%0A%20%20%7D%0A%7D%28document%29%29%3B"></script>
+  <style type="text/css">
+
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+display: block;
+}
+
+audio,
+canvas,
+video {
+display: inline-block;
+}
+
+audio:not([controls]) {
+display: none;
+height: 0;
+}
+
+[hidden] {
+display: none;
+}
+
+
+html {
+font-family: sans-serif; 
+-ms-text-size-adjust: 100%; 
+-webkit-text-size-adjust: 100%; 
+}
+
+body {
+margin: 0;
+}
+
+
+a:focus {
+outline: thin dotted;
+}
+
+a:active,
+a:hover {
+outline: 0;
+}
+
+
+h1 {
+font-size: 2em;
+margin: 0.67em 0;
+}
+
+abbr[title] {
+border-bottom: 1px dotted;
+}
+
+b,
+strong {
+font-weight: bold;
+}
+
+dfn {
+font-style: italic;
+}
+
+hr {
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+height: 0;
+}
+
+mark {
+background: #ff0;
+color: #000;
+}
+
+code,
+kbd,
+pre,
+samp {
+font-family: monospace, serif;
+font-size: 1em;
+}
+
+pre {
+white-space: pre-wrap;
+}
+
+q {
+quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+small {
+font-size: 80%;
+}
+
+sub,
+sup {
+font-size: 75%;
+line-height: 0;
+position: relative;
+vertical-align: baseline;
+}
+sup {
+top: -0.5em;
+}
+sub {
+bottom: -0.25em;
+}
+
+
+img {
+border: 0;
+}
+
+svg:not(:root) {
+overflow: hidden;
+}
+
+
+figure {
+margin: 0;
+}
+
+
+fieldset {
+border: 1px solid #c0c0c0;
+margin: 0 2px;
+padding: 0.35em 0.625em 0.75em;
+}
+
+legend {
+border: 0; 
+padding: 0; 
+}
+
+button,
+input,
+select,
+textarea {
+font-family: inherit; 
+font-size: 100%; 
+margin: 0; 
+}
+
+button,
+input {
+line-height: normal;
+}
+
+button,
+select {
+text-transform: none;
+}
+
+button,
+html input[type="button"], 
+input[type="reset"],
+input[type="submit"] {
+-webkit-appearance: button; 
+cursor: pointer; 
+}
+
+button[disabled],
+html input[disabled] {
+cursor: default;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+box-sizing: border-box; 
+padding: 0; 
+}
+
+input[type="search"] {
+-webkit-appearance: textfield; 
+-moz-box-sizing: content-box;
+-webkit-box-sizing: content-box; 
+box-sizing: content-box;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+-webkit-appearance: none;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+border: 0;
+padding: 0;
+}
+
+textarea {
+overflow: auto; 
+vertical-align: top; 
+}
+
+
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+
+#nprogress {
+pointer-events: none;
+-webkit-pointer-events: none;
+}
+#nprogress .bar {
+background: #29d;
+position: fixed;
+z-index: 100;
+top: 0;
+left: 0;
+width: 100%;
+height: 2px;
+}
+
+#nprogress .peg {
+display: block;
+position: absolute;
+right: 0px;
+width: 100px;
+height: 100%;
+box-shadow: 0 0 10px #29d, 0 0 5px #29d;
+opacity: 1.0;
+-webkit-transform: rotate(3deg) translate(0px, -4px);
+-moz-transform: rotate(3deg) translate(0px, -4px);
+-ms-transform: rotate(3deg) translate(0px, -4px);
+-o-transform: rotate(3deg) translate(0px, -4px);
+transform: rotate(3deg) translate(0px, -4px);
+}
+
+#nprogress .spinner {
+display: block;
+position: fixed;
+z-index: 100;
+top: 15px;
+right: 15px;
+}
+#nprogress .spinner-icon {
+width: 14px;
+height: 14px;
+border: solid 2px transparent;
+border-top-color: #29d;
+border-left-color: #29d;
+border-radius: 10px;
+-webkit-animation: nprogress-spinner 400ms linear infinite;
+-moz-animation: nprogress-spinner 400ms linear infinite;
+-ms-animation: nprogress-spinner 400ms linear infinite;
+-o-animation: nprogress-spinner 400ms linear infinite;
+animation: nprogress-spinner 400ms linear infinite;
+}
+@-webkit-keyframes nprogress-spinner {
+0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+100% { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+}
+@-moz-keyframes nprogress-spinner {
+0% { -moz-transform: rotate(0deg); transform: rotate(0deg); }
+100% { -moz-transform: rotate(360deg); transform: rotate(360deg); }
+}
+@-o-keyframes nprogress-spinner {
+0% { -o-transform: rotate(0deg); transform: rotate(0deg); }
+100% { -o-transform: rotate(360deg); transform: rotate(360deg); }
+}
+@-ms-keyframes nprogress-spinner {
+0% { -ms-transform: rotate(0deg); transform: rotate(0deg); }
+100% { -ms-transform: rotate(360deg); transform: rotate(360deg); }
+}
+@keyframes nprogress-spinner {
+0% { transform: rotate(0deg); transform: rotate(0deg); }
+100% { transform: rotate(360deg); transform: rotate(360deg); }
+}
+
+
+
+html, body {
+height: 100%;
+}
+body {
+background: #fefefe;
+color: #424242;
+font-family: "Open Sans", arial, sans-serif;
+font-size: 18px;
+}
+h1, h2, h3, h4, h5, h6 {
+margin-bottom: 33px;
+text-transform: none;
+}
+h1 {
+font-size: 26px;
+}
+h2 {
+font-size: 24px;
+}
+h3 {
+font-size: 20px;
+margin-bottom: 20px;
+}
+h4 {
+font-size: 18px;
+margin-bottom: 18px;
+}
+h5 {
+font-size: 16px;
+margin-bottom: 15px;
+}
+h6 {
+font-size: 14px;
+margin-bottom: 12px;
+}
+p {
+line-height: 1.8;
+margin: 0 0 30px;
+}
+a {
+color: #f03838;
+text-decoration: none;
+}
+ul, ol {
+line-height: 1.8;
+margin: 0 0 40px;
+padding-left: 1em;
+}
+ul li, ol li {
+margin: 0 0 10px;
+}
+blockquote {
+border-left: 1px dotted #303030;
+margin: 40px 0;
+padding: 5px 30px;
+}
+blockquote p {
+color: #AEADAD;
+display: block;
+font-style: italic;
+margin: 0;
+width: 100%;
+}
+img {
+display: block;
+margin: 40px 0;
+width: auto;
+max-width: 100%;
+}
+pre {
+background: #F1F0EA;
+border: 1px solid #DDDBCC;
+border-radius: 3px;
+margin: 0 0 40px;
+padding: 15px 20px;
+}
+::selection {
+background: #FFF5B8;
+color: #000;
+display: block;
+}
+::-moz-selection {
+background: #FFF5B8;
+color: #000;
+display: block;
+}
+
+
+
+.container {
+margin: 0 auto;
+position: relative;
+width: 100%;
+max-width: 889px;
+}
+#wrapper {
+height: auto;
+min-height: 100%;
+
+margin-bottom: -265px;
+}
+#wrapper:after {
+content: "";
+display: block;
+
+height: 265px;
+}
+.button {
+background: #303030;
+border: none;
+border-radius: 3px;
+color: #FEFEFE;
+font-size: 14px;
+font-weight: 700;
+padding: 10px 12px;
+text-transform: uppercase;
+}
+.button:hover {
+background: #f03838;
+}
+.button-square {
+background: #f03838;
+float: left;
+margin: 0 0 0 10px;
+padding: 8px;
+}
+.button-square:hover {
+background: #303030;
+}
+
+
+
+.site-header {
+padding: 100px 0 35px;
+overflow: auto;
+text-align: center;
+text-transform: uppercase;
+}
+.site-title-wrapper {
+display: table;
+margin: 0 auto;
+}
+.site-title {
+float: left;
+font-size: 14px;
+font-weight: 600;
+margin: 0;
+text-transform: uppercase;
+}
+.site-title a {
+float: left;
+background: #f03838;
+color: #FEFEFE;
+padding: 5px 10px 6px;
+}
+.site-title a:hover {
+background: #303030;
+}
+
+
+
+.post {
+margin: 0 40px;
+}
+.post-header {
+border-bottom: 6px solid #303030;
+margin: 0 0 50px;
+padding: 0 0 80px;
+text-align: center;
+text-transform: uppercase;
+}
+.post-title {
+font-size: 52px;
+font-weight: 700;
+margin: 15px 0;
+text-transform: uppercase;
+}
+.post-date {
+color: #AEADAD;
+font-size: 14px;
+font-weight: 600;
+line-height: 1;
+margin: 25px 0 0;
+}
+.post-date:after {
+border-bottom: 1px dotted #303030;
+content: "";
+display: block;
+margin: 40px auto 0;
+width: 100px;
+}
+.post-content {
+margin: 0 0 92px;
+}
+.post-content a:hover {
+border-bottom: 1px dotted #f03838;
+padding: 0 0 2px;
+}
+.post-tags {
+color: #AEADAD;
+font-size: 14px;
+}
+.post-tags span {
+font-weight: 600;
+}
+.post-navigation {
+display: table;
+margin: 70px auto 100px;
+}
+.newer-posts,
+.older-posts {
+float: left;
+background: #f03838;
+color: #FEFEFE;
+font-size: 14px;
+font-weight: 600;
+margin: 0 5px;
+padding: 5px 10px 6px;
+text-transform: uppercase;
+}
+.newer-posts:hover,
+.older-posts:hover {
+background: #303030;
+}
+.page-number {
+display: none;
+}
+
+
+
+.post-list {
+border-top: 6px solid #303030;
+list-style: none;
+margin: 80px 40px 0;
+padding: 35px 0 0;
+}
+.post-stub {
+border-bottom: 1px dotted #303030;
+margin: 0;
+}
+.post-stub:first-child {
+padding-top: 0;
+}
+.post-stub a {
+-webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+display: block;
+color: #424242;
+padding: 20px 5px;
+}
+.post-stub a:hover {
+background: #FCF5F5;
+color: #f03838;
+padding: 20px 12px;
+}
+.post-stub-title {
+display: inline-block;
+margin: 0;
+text-transform: none;
+}
+.post-stub-date {
+display: inline-block;
+}
+.post-stub-date:before {
+content: "/ ";
+}
+.next-posts-link a,
+.previous-posts-link a {
+display: block;
+padding: 8px 11px;
+}
+
+
+
+.icon {
+background-size: 14px 38px;
+display: block;
+height: 38px;
+width: 14px;
+}
+.icon-menu {
+background-position: 0 0;
+height: 14px;
+width: 14px;
+}
+.icon-up {
+background-position: 0 -15px;
+height: 8px;
+width: 14px;
+}
+.icon-rss {
+background-position: 0 -24px;
+height: 14px;
+width: 14px;
+}
+
+
+
+.footer {
+background: #303030;
+color: #D3D3D3;
+height: 265px;
+overflow: auto;
+}
+.footer .site-title-wrapper {
+margin: 80px auto 35px;
+}
+.footer .site-title a:hover,
+.footer .button-square:hover {
+background: #121212;
+}
+.button-jump-top {
+padding-top: 11px;
+padding-bottom: 11px;
+}
+.footer-copyright {
+color: #656565;
+font-size: 14px;
+margin: 0;
+text-align: center;
+text-transform: uppercase;
+}
+.footer-copyright a {
+color: #656565;
+font-weight: 700;
+}
+.footer-copyright a:hover {
+color: #FEFEFE;
+}
+
+
+
+#nprogress .bar {
+background: #f03838;
+}
+#nprogress .peg {
+box-shadow: 0 0 10px #f03838, 0 0 5px #f03838;
+}
+#nprogress .spinner-icon {
+border-top-color: #f03838;
+border-left-color: #f03838;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+.post-stub-title {
+display: block;
+}
+.post-stub-date:before {
+content: "";
+display: block;
+}
+}
+@media only screen and (max-width: 400px) {
+.post-title {
+font-size: 32px;
+}
+}
+body{
+width:80%;
+margin:10% auto;
+}
+</style>
+<script>(function (d) {
+  var metas = d.getElementsByTagName('meta');
+  var i;
+  function gestureStart() {
+    for (i=0; i<metas.length; i++) {
+      if (metas[i].name === "viewport") {
+        metas[i].content = "width=device-width, minimum-scale=0.25, maximum-scale=1.6";
+      }
+    }
+  }
+  if (navigator.userAgent.match(/iPhone/i)) {
+    for (i=0; i<metas.length; i++) {
+      if (metas[i].name === "viewport") {
+        metas[i].content = "width=device-width, minimum-scale=1.0, maximum-scale=1.0";
+      }
+    }
+    d.addEventListener("gesturestart", gestureStart, false);
+  }
+}(document));</script>
 </head>
 <body>
 <h1 id="brian-ephraim---senior-frontend-engineer">Brian Ephraim - senior frontend engineer</h1>
 <hr />
-<p>NYC / remote / Garrison, NY<br />914-482-2364<br />email: <script type="text/javascript">
-<!--
-h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#x2f;&#x2f;&#98;&#114;&#x69;&#x61;&#110;&#x65;&#112;&#104;&#114;&#x61;&#x69;&#x6d;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<\/'+'a'+'>');
-// -->
-</script><noscript>brianephraim@gmail.com (//brianephraim at gmail dot com)</noscript><br />linkedin: <a href="https://www.linkedin.com/in/brian-ephraim-29680531">linkedin.com/in/brian-ephraim-29680531</a><br />github: <a href="http://github.com/defualt">github.com/defualt</a></p>
+<p>NYC / remote / Garrison, NY<br />
+914-482-2364<br />
+email: <a href="mailto://brianephraim@gmail.com">brianephraim@gmail.com</a><br />
+linkedin: <a href="https://www.linkedin.com/in/brian-ephraim-29680531">linkedin.com/in/brian-ephraim-29680531</a><br />
+github: <a href="http://github.com/defualt">github.com/defualt</a></p>
 <hr />
 <h2 id="year-professional-summary">18 year professional summary</h2>
 <h3 id="technology">Technology</h3>
-<p><strong>Languages:</strong> ES6 - Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP - SQL<br /><strong>Frontend libraries:</strong> React - Redux - Angular - jQuery - Require - Backbone<br /><strong>Tooling:</strong> WebPack - NPM - Gulp - Grunt - Docker - Vagrant - ImageMagick - Bower - Yeoman<br /><strong>Servers:</strong> Node - Apache<br /><strong>Testing:</strong> Jest - Mocha - Chai - Enzyme - Karma - Jasmine - Protractor<br /><strong>CSS libraries:</strong> Bourbon - Bootstrap - Foundation<br /><strong>Databases:</strong> MongoDB - MySQL<br /><strong>Cloud services:</strong> Amazon Web Services (AWS) - Github - Sentry - GitLab - BitBucket<br /><strong>Client/Server Communication:</strong> AJAX - WebSockets<br /><strong>Graphics Applications:</strong> Sketch - Zeplin - Photoshop - Illustrator - InDesign<br /><strong>Other Applications:</strong> Sublime - iTerm2 - Chrome Dev Tools - iOs Simulator - Genymotion - All the Browsers<br /><strong>Version Control:</strong> Git - SVN - CVS</p>
+<p><strong>Languages:</strong> ES6 - Javascript - HTML5 - Sass - CSS3 - Bash - LESS - PHP - SQL<br />
+<strong>Frontend libraries:</strong> React - Redux - Angular - jQuery - Require - Backbone<br />
+<strong>Tooling:</strong> WebPack - NPM - Gulp - Grunt - Docker - Vagrant - ImageMagick - Bower - Yeoman<br />
+<strong>Servers:</strong> Node - Apache<br />
+<strong>Testing:</strong> Jest - Mocha - Chai - Enzyme - Karma - Jasmine - Protractor<br />
+<strong>CSS libraries:</strong> Bourbon - Bootstrap - Foundation<br />
+<strong>Databases:</strong> MongoDB - MySQL<br />
+<strong>Cloud services:</strong> Amazon Web Services (AWS) - Github - Sentry - GitLab - BitBucket<br />
+<strong>Client/Server Communication:</strong> AJAX - WebSockets<br />
+<strong>Graphics Applications:</strong> Sketch - Zeplin - Photoshop - Illustrator - InDesign<br />
+<strong>Other Applications:</strong> Sublime - iTerm2 - Chrome Dev Tools - iOs Simulator - Genymotion - All the Browsers<br />
+<strong>Version Control:</strong> Git - SVN - CVS</p>
 <h3 id="career">Career</h3>
 <h4 id="ted-conferences-video-education---consultant-january-2017---present">TED Conferences (video &amp; education) - Consultant, January 2017 - present</h4>
 <ul>
 <li>Developing React Native applications from the ground up</li>
 <li>Meeting application requirements as sole app developer on one project
 <ul>
-<li>setting up a new React Native</li>
-<li>deploying with Fastlane to Android and iOs BETA testers</li>
+<li>launching the app to production in iOs App Store and Android Play Store</li>
+<li>setting up a new React Native project</li>
+<li>deploying with Fastlane to Android and iOs Beta testers</li>
 <li>handling Apple and Google signing certificates</li>
 <li>built entire application’s screens and business logic</li>
 <li>hacking React Navigation to perform custom element based transitions and complex navigation flows</li>
@@ -39,7 +715,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<
 <li>accomplishing network interacting with GraphQL</li>
 <li>integrating Codepush for faster iterations</li>
 <li>closely collaborating with design and product on features</li>
-<li>building a custom video player</li>
+<li>building a custom video player and the entire video download functionality</li>
 <li>inventing a markdown-based pseudo CMS for non-technical copy contributors</li>
 </ul></li>
 <li>Technical leading on another brand new React Native project
@@ -119,14 +795,14 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'brianephraim@gmail.com'+'<
 <ul>
 <li>creating a website that helps people combine their photos with campaign graphics and share the result on social media</li>
 </ul>
-<h4 id="viggle-inc.-second-screen-app---senior-web-javascript-engineer-april-2013---october-2013">Viggle Inc. (second screen app) - Senior Web / Javascript Engineer, April 2013 - October 2013</h4>
+<h4 id="viggle-inc.-second-screen-app---senior-web-javascript-engineer-april-2013---october-2013">Viggle Inc. (second screen app) - Senior Web / Javascript Engineer, April 2013 - October 2013</h4>
 <ul>
 <li>Owning the Angular codebase for two single page apps</li>
 <li>Delegating tasks to other frontend engineers</li>
 <li>Coordinating production deployment with backend</li>
 <li>Estimating tasks, researching technology, and planning for future initiatives</li>
 </ul>
-<h4 id="blaboid-inc.-startup---entrepreneur-november-2010---april-2013">Blaboid Inc. (startup) - Entrepreneur, November 2010 - April 2013</h4>
+<h4 id="blaboid-inc.-startup---entrepreneur-november-2010---april-2013">Blaboid Inc. (startup) - Entrepreneur, November 2010 - April 2013</h4>
 <ul>
 <li>Launching a social networking platform</li>
 <li>Coordinating business needs with lawyer, accountant, and consultants</li>

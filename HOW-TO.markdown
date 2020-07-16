@@ -20,7 +20,7 @@ Great! Now you can write markdown.
 
 The following steps will get your Mac setup so you can convert a markdown document into a variety of formats like pdf, docx, and html.  
 
-At the end of this setup, generating your output files will be as easy as typeing "rake all" . 
+At the end of this setup, generating your output files will be as easy as typeing "rake all" .
 
 Many of the instructions are elementary because it should be as easy as possible for developers of all levels to be able utilize this process.
 
@@ -36,14 +36,14 @@ This setup is for Mac.  PC will require a variation of this setup.
 
 - In the GitHub application, got to Preferences > Advanced > Install Command Line Tools *This is advised for uploading your files to the GitHub servers.*
 
-- Install [MacTex](http://tug.org/cgi-bin/mactex-download/MacTeX.pkg). *This is required for generating PDFs.*
+- Install basictex: `brew cask install basictex`. *This is required for generating PDFs.*
 
-- Install [Pandoc](https://code.google.com/p/pandoc/downloads/detail?name=pandoc-1.11.1.dmg&can=2&q=) *This is the engine for generating various files.*
+- Install [Pandoc](https://pandoc.org/installing.html) *This is the engine for generating various files.*
 
 - In your Mac, in Application > Utilities, find the "Terminal" application.  Drag it to your dock. *This is advised for ease of workflow.*
 
 - Open the Terminal application
-- 
+-
 - Enter the following commands and hit return for each of the following in Terminal.  Some of these may take a while to finish.  Wait for each to finish before typing the next.  Enter your password when prompted.  *This is necessary for installing things to generate PDFS.*
 
  - ````sudo chown -R `whoami` /usr/local/texlive````
@@ -105,7 +105,7 @@ This setup is for Mac.  PC will require a variation of this setup.
 - Output your various files like HTML, docx, and PDF by typing ````rake all````
 
 ## Update your resume in the future
-- Whenever you return to work on your resume file in the future, just drag the Resume project folder to the terminal, and each time you want to output the files after you make changes, enter ````rake all```` 
+- Whenever you return to work on your resume file in the future, just drag the Resume project folder to the terminal, and each time you want to output the files after you make changes, enter ````rake all````
 
 ##Coming sooner or later
 - How to format templates for PDF, DOCX, HTML.
