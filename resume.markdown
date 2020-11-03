@@ -1,4 +1,4 @@
-# Brian Ephraim - senior frontend engineer
+# Brian Ephraim - principal frontend engineer
 
 ---
 
@@ -32,21 +32,21 @@ github: [github.com/defualt](http://github.com/defualt)
 
 ### Career
 
-#### TED Conferences (video & education) - Consultant, January 2017 - present
-- Developing React Native applications from the ground up
+#### TED Conferences (video & education) - Consultant, January 2018 - present
+- Developing React Native applications from the ground up (iOs, Android, and web)
 - Meeting application requirements as sole app developer on one project
-	- launching the app to production in iOs App Store and Android Play Store
+	- launching the app to production in iOs App Store and Android Play Store and as a web app
 	- setting up a new React Native project
 	- deploying with Fastlane to Android and iOs Beta testers
 	- handling Apple and Google signing certificates
 	- built entire application's screens and business logic
-	- hacking React Navigation to perform custom element based transitions and complex navigation flows
+	- developing a custom navigation system
 	- building backend in Node to support Beta phase
 	- communicating backend requirements for production needs to backend engineers
 	- accomplishing network interacting with GraphQL
 	- integrating Codepush for faster iterations
 	- closely collaborating with design and product on features
-	- building a custom video player and the entire video download functionality
+	- building a custom video player with video download and caching functionality
 	- inventing a markdown-based pseudo CMS for non-technical copy contributors
 - Technical leading on another brand new React Native project
 	- maintaining both projects together as a monorepo with a custom architecture to maximize code sharing
@@ -155,7 +155,7 @@ github: [github.com/defualt](http://github.com/defualt)
 - producing albums
 - performing shows
 - building and programming electronic instruments
-- creating the band's website 
+- creating the band's website
 
 
 #### Regeneron (pharmaceuticals) - Graphic designer, July 2000 - October 2005
@@ -167,6 +167,4 @@ github: [github.com/defualt](http://github.com/defualt)
 ---
 
 ## Education
-2003 Ithaca College, Ithaca NY, Bachelor of Arts, Philosophy Major 
-
-
+2003 Ithaca College, Ithaca NY, Bachelor of Arts, Philosophy Major
